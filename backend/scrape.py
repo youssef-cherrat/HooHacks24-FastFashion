@@ -14,7 +14,7 @@ known_colors = [
     "scarlet", "sienna", "tan", "thistle", "tomato",
     "wheat", "sienna", "sangria", "periwinkle", "persimmon",
     "peachpuff", "orchid", "opalescent", "onyx", "olivedrab",
-    "moss", "mintcream", "midnightblue", "mauve", "linen",
+    "moss", "mintcream", "midnightblue", "mauve",
     "limegreen", "lightsteelblue", "lightcyan", "lavenderblush",
     "laserlemon", "isabelline", "honeydew", "heliotrope",
     "harlequin", "gunmetal", "goldenrod", "glaucous",
@@ -28,7 +28,7 @@ known_colors = [
     "burgundy", "buff", "bronze", "brickred", "boysenberry",
     "bole", "blush", "blond", "bistre", "bisque", "bazaar",
     "battleshipgrey", "auburn", "asparagus", "arsenic",
-    "armygreen", "apple", "antiquewhite", "amaranth",
+    "armygreen", "antiquewhite", "amaranth",
     "alizarin", "aliceblue", "airforceblue", "africanviolet",
     "aero", "acidgreen",
     # Adding more specific clothing colors
@@ -78,11 +78,15 @@ def find_product_details(soup):
     # Use the text_from_html function to get the cleaned, visible text from the page
     # This function now directly receives the BeautifulSoup object (soup) already parsed from the response content
     page_text = text_from_html(soup).lower()
-    for color in known_colors:
-        if color in page_text:
-            details['color'] = color
-            break  # Added comment: Stop search once the color is found
-    
+    words = page_text.split()
+    for word in words:
+        # Check for direct color match
+        if word in known_colors:
+            details['color'] = word
+            break
+        # # Check for colors separated by slashes
+        # if '/' in word and word in known_colors:
+        #     details['color'] = word
     return details
 
 def scrape_product(url):
