@@ -4,6 +4,7 @@ import { BannerSearch } from './components/BannerSearch'; // Comment out
 import { SearchBar } from './components/SearchBar';
 // import { ResultCards } from './components/ResultCards'; // Comment out
 import About from "./pages/About"; // Comment out
+import { Container } from 'react-bootstrap';
 import './App.css';
 
 function App() {
@@ -11,15 +12,17 @@ function App() {
     <Router>
       <div className="App">
         <NavBar />
+        <div className="app-content"> {/* Flex container */}
+          <Container className="banner-search-container">
+            <BannerSearch />
+          </Container>
+          <Container className="search-bar-container">
+            <SearchBar />
+          </Container>
+        </div>
         <Routes>
-          <Route path="/" element={
-            <>
-              <BannerSearch />
-              <SearchBar />
-            </>
-          } />
+          <Route path="/" element={<></>} />
           <Route path="/about" element={<About />} />
-          {/* Temporarily remove other routes to isolate the issue */}
         </Routes>
       </div>
     </Router>

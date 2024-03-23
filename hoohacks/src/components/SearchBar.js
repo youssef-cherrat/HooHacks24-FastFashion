@@ -3,22 +3,19 @@ import React, { useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 export const SearchBar = () => {
-  const [url, setUrl] = useState(''); // State to hold the URL input
+  const [url, setUrl] = useState('');
 
-  // Handle URL input change
   const handleUrlChange = (e) => {
     setUrl(e.target.value);
   };
 
-  // Handle form submission
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Handle the URL as needed here
     console.log('URL Submitted:', url);
   };
 
   return (
-    <div className="container mt-4">
+    <div className="container mt-4 stable-search-bar"> {/* Add the class here */}
       <div className="row justify-content-center">
         <div className="col-auto">
           <form onSubmit={handleSubmit} className="d-flex">
@@ -29,7 +26,7 @@ export const SearchBar = () => {
               aria-label="URL"
               value={url}
               onChange={handleUrlChange}
-              style={{ width: '300px' }} // Adjust the width as needed
+              style={{ width: '300px' }}
             />
             <button className="btn btn-outline-success" type="submit">Submit</button>
           </form>
