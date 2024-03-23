@@ -28,7 +28,7 @@ export const SearchBar = () => {
               onChange={handleUrlChange}
               style={{ width: '300px' }}
             />
-            <button className="btn btn-outline-success" type="submit">Submit</button>
+            <button className="btn btn-outline-success" type="submit" style={{ color: '#fff' }}>Submit</button>
           </form>
         </div>
       </div>

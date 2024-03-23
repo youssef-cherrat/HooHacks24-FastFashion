@@ -1,7 +1,7 @@
 // About.js
 import React from 'react';
 import './About.css'; // Make sure to create an About.css file for styling
-import placeholderImage from '../assets/img/Logo.png'; // Replace with the path to your image
+import placeholderImage from '../assets/img/LogoNew.png'; // Replace with the path to your image
 
 const About = () => {
   return (
