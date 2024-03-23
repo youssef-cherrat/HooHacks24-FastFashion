@@ -1,12 +1,13 @@
 .banner {
     margin-top: 0;
-    padding: 250px 0 250px 0;
+    padding: 250px 0;
     background-color: aquamarine;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    text-align: center;
+    text-align: center; /* Ensure text alignment is centered */
   }
+  
   .banner .tagline {
     font-weight: 700;
     letter-spacing: 0.8px;
@@ -18,21 +19,19 @@
     display: inline-block;
   }
   .banner h1 {
-    font-size: 100px;
+    font-size: 120px; /* Increased font size */
     font-weight: 700;
     letter-spacing: 0.8px;
     line-height: 1;
-    margin-bottom: 20px;
-    margin-top: 100px;
-    margin-left: 300px;
-    margin-right: -300px;
+    margin: 0; /* Remove specific margins to allow centering */
     display: block;
+    text-align: center; /* Ensure text is centered */
   }
   
   .banner h2 {
-    margin-right: 580px;
-    margin-left: 580px;
-    margin-bottom: 150px;
+    font-size: 60px; /* Adjust as needed to make sure it's smaller than the h1 */
+    margin: 20px auto; /* Center horizontally */
+    text-align: center; /* Ensure text is centered */
   }
   
   .banner p {
@@ -60,3 +59,13 @@
   .txt-rotate > .wrap {
     border-right: 0.08em solid #666;
   }
+
+  @media (max-width: 768px) {
+    .banner h1 {
+      font-size: 60px; /* Smaller font size for mobile */
+    }
+    .banner h2 {
+      font-size: 30px; /* Adjust accordingly for mobile */
+    }
+  }
+  

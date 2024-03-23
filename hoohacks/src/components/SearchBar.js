@@ -13,22 +13,28 @@ export const SearchBar = () => {
   // Handle form submission
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Here you can use the `url` state for whatever needs you have
+    // Handle the URL as needed here
     console.log('URL Submitted:', url);
-    // For example, redirecting to the URL or performing a search based on the URL
   };
 
   return (
-    <form className="d-flex justify-content-center mt-4" onSubmit={handleSubmit}>
-      <input
-        className="form-control me-2"
-        type="url"
-        placeholder="Enter URL"
-        aria-label="URL"
-        value={url}
-        onChange={handleUrlChange}
-      />
-      <button className="btn btn-outline-success" type="submit">Submit</button>
-    </form>
+    <div className="container mt-4">
+      <div className="row justify-content-center">
+        <div className="col-auto">
+          <form onSubmit={handleSubmit} className="d-flex">
+            <input
+              className="form-control me-2"
+              type="url"
+              placeholder="Enter URL"
+              aria-label="URL"
+              value={url}
+              onChange={handleUrlChange}
+              style={{ width: '300px' }} // Adjust the width as needed
+            />
+            <button className="btn btn-outline-success" type="submit">Submit</button>
+          </form>
+        </div>
+      </div>
+    </div>
   );
 };

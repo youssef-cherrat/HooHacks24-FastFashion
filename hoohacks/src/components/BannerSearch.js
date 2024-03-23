@@ -51,28 +51,22 @@ export const BannerSearch = () => {
   return (
     <section className="banner" id="home">
       <Container>
-        <Row className="align-items-center">
-          <Col xs={12} md={6} xl={7}>
-            <TrackVisibility>
-              {({ isVisible }) => (
-                <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
-                  <h1>{`GreenThreads`}</h1>
-                  <h2 className="txt-rotate" data-period="1000" data-rotate='[ "Shopping Smarter", 
-                  "Reducing Fast Fashion", "Sustainability" ]'>
-                    <span className="wrap">{text}</span>
-                  </h2>
-                  <p></p>
-                </div>
-              )}
-            </TrackVisibility>
-          </Col>
-          <Col xs={12} md={6} xl={5}>
-            <TrackVisibility>
-            </TrackVisibility>
-          </Col>
-        </Row>
-        
-      </Container>
+  <Row className="align-items-center justify-content-center"> {/* Ensure center alignment */}
+    <Col xs={12} className="text-center"> {/* Center text and adjust column size as needed */}
+      <TrackVisibility>
+        {({ isVisible }) =>
+          <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
+            <h1>{`GreenThreads`}</h1> {/* This is your company name */}
+            <h2 className="txt-rotate" data-period="1000" data-rotate='[ "Shopping Smarter", "Reducing Fast Fashion", "Sustainability" ]'>
+              <span className="wrap">{text}</span>
+            </h2>
+          </div>
+        }
+      </TrackVisibility>
+    </Col>
+  </Row>
+</Container>
+
     </section>
   );
 };
