@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup, Comment
+from selenium import webdriver
 
 known_colors = [
     "black", "white", "red", "green", "blue",
@@ -92,7 +93,16 @@ def find_product_details(soup):
 def scrape_product(url):
     response = requests.get(url, headers=headers)
     if response.status_code == 200:
-        soup = BeautifulSoup(response.content, 'html.parser')
+        # soup = BeautifulSoup(response.content, 'html.parser')
+        driver = webdriver.Chrome()
+        driver.get(url)
+        html_source = driver.page_source
+
+        # close browser
+        driver.quit()
+
+        # Parse the HTML content using BeautifulSoup
+        soup = BeautifulSoup(html_source, 'html.parser')
         
         # Passing the BeautifulSoup object (soup) directly to find_product_details without re-parsing
         product_details = find_product_details(soup)  # Edited comment: Simplified the process by directly using soup
