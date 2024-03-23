@@ -1,6 +1,7 @@
 import { useState, useEffect, useCallback, useMemo } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import 'animate.css';
+import "./BannerSearch.css";
 import TrackVisibility from 'react-on-screen';
 
 export const BannerSearch = () => {
