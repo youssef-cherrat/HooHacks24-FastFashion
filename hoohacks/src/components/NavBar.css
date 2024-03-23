@@ -1,0 +1,43 @@
+/* NavBar.css */
+.navbar-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .navbar-logo {
+    order: 2; /* Moves the logo to the right */
+    padding-left: 20px; /* Adjust based on your preference */
+  }
+  
+  .navbar-nav {
+    order: 1;
+    flex-grow: 1;
+  }
+  
+  .navbar-brand img {
+    height: 50px; /* Resize the logo */
+    width: auto;
+  }
+  
+  .navbar {
+    width: 100%; /* Ensure the navbar fills the top */
+    border: 1px solid #000; /* Example black border */
+  }
+  
+  .navbar-link {
+    margin: 0 10px; /* Adds margin to the left and right */
+  }
+
+  .navbar-toggler {
+    background-color: transparent; /* Makes the button background transparent */
+    border: none; /* Removes the border */
+  }
+  
+  /* To hide the button */
+  .navbar-toggler {
+    display: none; /* Hides the toggle button */
+  }
+  
+  
