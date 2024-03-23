@@ -20,7 +20,7 @@ def write_results_to_file(search_term):
 
     # write results to file
     with open('results.json', 'w') as f:
-        json.dump(results["shopping_results"], f, indent=4)
+        json.dump(results, f, indent=4)
     print("Results written to file")
 
 def test_search():
