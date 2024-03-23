@@ -16,8 +16,8 @@ function App() {
         <Routes>
           <Route path="/" element={
             <>
-              <About />
-              
+              {/* <About /> */}
+              <ProductList />
             </>
           } />
           {/* Temporarily remove other routes to isolate the issue */}
