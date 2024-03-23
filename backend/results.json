@@ -1,0 +1,1695 @@
+{
+    "search_metadata": {
+        "id": "65ff10cf49ecdbefd0dad5d3",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/037ab410ad785816/65ff10cf49ecdbefd0dad5d3.json",
+        "created_at": "2024-03-23 17:26:39 UTC",
+        "processed_at": "2024-03-23 17:26:39 UTC",
+        "google_shopping_url": "https://www.google.com/search?tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us",
+        "raw_html_file": "https://serpapi.com/searches/037ab410ad785816/65ff10cf49ecdbefd0dad5d3.html",
+        "total_time_taken": 8.12
+    },
+    "search_parameters": {
+        "engine": "google_shopping",
+        "q": "black shirt ebay depop mercari poshmark",
+        "location_requested": "United States",
+        "location_used": "United States",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "device": "desktop"
+    },
+    "search_information": {
+        "shopping_results_state": "Results for exact spelling",
+        "query_displayed": "black shirt ebay depop mercari poshmark",
+        "location_detected": "United States"
+    },
+    "filters": [
+        {
+            "type": "Show only",
+            "options": [
+                {
+                    "text": "On sale",
+                    "tbs": "mr:1,sales:1"
+                }
+            ]
+        },
+        {
+            "type": "Price",
+            "options": [
+                {
+                    "text": "Up to $10",
+                    "tbs": "mr:1,price:1,ppr_max:10"
+                },
+                {
+                    "text": "$10 \u2013 $30",
+                    "tbs": "mr:1,price:1,ppr_min:10,ppr_max:30"
+                },
+                {
+                    "text": "Over $30",
+                    "tbs": "mr:1,price:1,ppr_min:30"
+                }
+            ]
+        },
+        {
+            "type": "Color",
+            "options": [
+                {
+                    "tbs": "mr:1,color:specific,color_val:black"
+                },
+                {
+                    "tbs": "mr:1,color:specific,color_val:blue"
+                },
+                {
+                    "tbs": "mr:1,color:specific,color_val:purple"
+                }
+            ]
+        },
+        {
+            "type": "Style",
+            "options": [
+                {
+                    "text": "T-shirts",
+                    "tbs": "mr:1,pdtr0:933749%7C933755"
+                },
+                {
+                    "text": "Blouses",
+                    "tbs": "mr:1,pdtr0:933749%7C933752"
+                },
+                {
+                    "text": "Dress Shirts",
+                    "tbs": "mr:1,pdtr0:933749%7C3952099"
+                }
+            ]
+        },
+        {
+            "type": "Material",
+            "options": [
+                {
+                    "text": "Polyester",
+                    "tbs": "mr:1,pdtr0:965178%7C1634148"
+                },
+                {
+                    "text": "Cotton",
+                    "tbs": "mr:1,pdtr0:965178%7C965397"
+                },
+                {
+                    "text": "Spandex",
+                    "tbs": "mr:1,pdtr0:965178%7C1634155"
+                },
+                {
+                    "text": "Cotton Blend",
+                    "tbs": "mr:1,pdtr0:965178%7C1634130"
+                },
+                {
+                    "text": "Rayon",
+                    "tbs": "mr:1,pdtr0:965178%7C1634149"
+                },
+                {
+                    "text": "Mesh",
+                    "tbs": "mr:1,pdtr0:965178%7C1634141"
+                },
+                {
+                    "text": "Jersey",
+                    "tbs": "mr:1,pdtr0:965178%7C1634140"
+                }
+            ]
+        },
+        {
+            "type": "Pattern",
+            "options": [
+                {
+                    "text": "Solid",
+                    "tbs": "mr:1,pdtr0:1016644%7C7832083"
+                },
+                {
+                    "text": "Floral",
+                    "tbs": "mr:1,pdtr0:1016644%7C1016646"
+                },
+                {
+                    "text": "Striped",
+                    "tbs": "mr:1,pdtr0:1016644%7C1016645"
+                }
+            ]
+        },
+        {
+            "type": "Active Style",
+            "options": [
+                {
+                    "text": "Golf",
+                    "tbs": "mr:1,pdtr0:2726037%7C2726038"
+                },
+                {
+                    "text": "Running",
+                    "tbs": "mr:1,pdtr0:2726037%7C2726042"
+                }
+            ]
+        },
+        {
+            "type": "Season",
+            "options": [
+                {
+                    "text": "Summer",
+                    "tbs": "mr:1,pdtr0:6802922%7C6803484"
+                },
+                {
+                    "text": "Spring",
+                    "tbs": "mr:1,pdtr0:6802922%7C6803483"
+                },
+                {
+                    "text": "Winter",
+                    "tbs": "mr:1,pdtr0:6802922%7C6802924"
+                },
+                {
+                    "text": "Fall",
+                    "tbs": "mr:1,pdtr0:6802922%7C6802923"
+                }
+            ]
+        },
+        {
+            "type": "Sleeve Design",
+            "options": [
+                {
+                    "text": "Bell",
+                    "tbs": "mr:1,pdtr0:7450434%7C7450323"
+                },
+                {
+                    "text": "Cap",
+                    "tbs": "mr:1,pdtr0:7450434%7C7450435"
+                },
+                {
+                    "text": "Puff",
+                    "tbs": "mr:1,pdtr0:7450434%7C7450436"
+                },
+                {
+                    "text": "Flutter",
+                    "tbs": "mr:1,pdtr0:7450434%7C7450486"
+                },
+                {
+                    "text": "Raglan",
+                    "tbs": "mr:1,pdtr0:7450434%7C7450487"
+                },
+                {
+                    "text": "Balloon",
+                    "tbs": "mr:1,pdtr0:7450434%7C7455398"
+                }
+            ]
+        },
+        {
+            "type": "Fastening Style",
+            "options": [
+                {
+                    "text": "Button Up",
+                    "tbs": "mr:1,pdtr0:2154444%7C2154445"
+                },
+                {
+                    "text": "Button",
+                    "tbs": "mr:1,pdtr0:2154444%7C6802823"
+                },
+                {
+                    "text": "Snap",
+                    "tbs": "mr:1,pdtr0:2154444%7C6844092"
+                },
+                {
+                    "text": "Zipper",
+                    "tbs": "mr:1,pdtr0:2154444%7C2154447"
+                },
+                {
+                    "text": "Pullover",
+                    "tbs": "mr:1,pdtr0:2154444%7C6803280"
+                }
+            ]
+        },
+        {
+            "type": "Embellishment",
+            "options": [
+                {
+                    "text": "Embroidery",
+                    "tbs": "mr:1,pdtr0:6844100%7C6844101"
+                },
+                {
+                    "text": "Applique",
+                    "tbs": "mr:1,pdtr0:6844100%7C6844279"
+                },
+                {
+                    "text": "Print",
+                    "tbs": "mr:1,pdtr0:6844100%7C6844280"
+                }
+            ]
+        },
+        {
+            "type": "Occasion",
+            "options": [
+                {
+                    "text": "Casual",
+                    "tbs": "mr:1,pdtr0:6801767%7C6803584"
+                },
+                {
+                    "text": "Formal",
+                    "tbs": "mr:1,pdtr0:6801767%7C6803686"
+                }
+            ]
+        },
+        {
+            "type": "Fit",
+            "options": [
+                {
+                    "text": "Oversize",
+                    "tbs": "mr:1,pdtr0:6882371%7C6882475"
+                },
+                {
+                    "text": "Slim",
+                    "tbs": "mr:1,pdtr0:6882371%7C6882526"
+                },
+                {
+                    "text": "Relaxed",
+                    "tbs": "mr:1,pdtr0:6882371%7C6882414"
+                },
+                {
+                    "text": "Athletic",
+                    "tbs": "mr:1,pdtr0:6882371%7C6882563"
+                }
+            ]
+        },
+        {
+            "type": "Length",
+            "options": [
+                {
+                    "text": "Waist",
+                    "tbs": "mr:1,pdtr0:6803022%7C6802819"
+                },
+                {
+                    "text": "Hip",
+                    "tbs": "mr:1,pdtr0:6803022%7C6803227"
+                }
+            ]
+        },
+        {
+            "type": "Care Instructions",
+            "options": [
+                {
+                    "text": "Machine Wash",
+                    "tbs": "mr:1,pdtr0:6803174%7C6803583"
+                },
+                {
+                    "text": "Hand Wash",
+                    "tbs": "mr:1,pdtr0:6803174%7C6802869"
+                }
+            ]
+        },
+        {
+            "type": "Category",
+            "options": [
+                {
+                    "text": "T-Shirts",
+                    "tbs": "mr:1,root_cat:531703"
+                },
+                {
+                    "text": "Blouses",
+                    "tbs": "mr:1,root_cat:531696"
+                },
+                {
+                    "text": "Crop Tops",
+                    "tbs": "mr:1,root_cat:531693"
+                }
+            ]
+        },
+        {
+            "type": "Brand",
+            "options": [
+                {
+                    "text": "212 Collection",
+                    "tbs": "mr:1,pdtr0:997763%7C1002411908"
+                },
+                {
+                    "text": "SHEIN",
+                    "tbs": "mr:1,pdtr0:997763%7C1693290"
+                },
+                {
+                    "text": "Yigal Azrou\u00ebl",
+                    "tbs": "mr:1,pdtr0:997763%7C1030540"
+                },
+                {
+                    "text": "Nike",
+                    "tbs": "mr:1,pdtr0:997763%7C1011839"
+                },
+                {
+                    "text": "AMERICAN CLASSICS",
+                    "tbs": "mr:1,pdtr0:997763%7C1368436"
+                }
+            ]
+        },
+        {
+            "type": "Department",
+            "options": [
+                {
+                    "text": "Women's",
+                    "tbs": "mr:1,pdtr0:1020288%7C1020290"
+                },
+                {
+                    "text": "Men's",
+                    "tbs": "mr:1,pdtr0:1020288%7C1020289"
+                }
+            ]
+        },
+        {
+            "type": "Size",
+            "options": [
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C1021370"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C2904401"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C1021371"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C2904402"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C1021372"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C2904403"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C1021390"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C2904404"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C1021373"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C2904405"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C1021374"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C1021375"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C2904407"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C1021376"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C2904408"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C1021377"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C1021379"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C1021394"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C1021401"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C1021405"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C1021407"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C1021433"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C1021381"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C1021382"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C1021383"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C1021384"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C1021385"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C1021386"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C1021387"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C1021388"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C1021389"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C1021468"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C1021469"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C1021470"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C4869445"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C4869442"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C4869447"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C4869443"
+                },
+                {
+                    "tbs": "mr:1,pdtr0:1021368%7C1021471"
+                }
+            ]
+        },
+        {
+            "type": "Neckline",
+            "options": [
+                {
+                    "text": "Collared",
+                    "tbs": "mr:1,pdtr0:2613451%7C2613461"
+                },
+                {
+                    "text": "V-neck",
+                    "tbs": "mr:1,pdtr0:2613451%7C2613455"
+                },
+                {
+                    "text": "Round Neck",
+                    "tbs": "mr:1,pdtr0:2613451%7C2613453"
+                },
+                {
+                    "text": "High Neck",
+                    "tbs": "mr:1,pdtr0:2613451%7C2753533"
+                }
+            ]
+        },
+        {
+            "type": "Sleeve Style",
+            "options": [
+                {
+                    "text": "Short Sleeve",
+                    "tbs": "mr:1,pdtr0:2613473%7C2613477"
+                },
+                {
+                    "text": "Long Sleeve",
+                    "tbs": "mr:1,pdtr0:2613473%7C2613474"
+                }
+            ]
+        },
+        {
+            "type": "Shipping & returns",
+            "options": [
+                {
+                    "text": "Free returns",
+                    "tbs": "mr:1,free_return:1"
+                },
+                {
+                    "text": "1-3 day delivery",
+                    "tbs": "mr:1,shipspeed:3"
+                },
+                {
+                    "text": "Free shipping",
+                    "tbs": "mr:1,ship:1"
+                }
+            ]
+        },
+        {
+            "type": "Discover",
+            "options": [
+                {
+                    "text": "Women-owned businesses",
+                    "tbs": "mr:1,dei:2"
+                }
+            ]
+        },
+        {
+            "type": "Product rating",
+            "options": [
+                {
+                    "text": "4 and up",
+                    "tbs": "mr:1,avg_rating:400"
+                },
+                {
+                    "text": "3 and up",
+                    "tbs": "mr:1,avg_rating:300"
+                },
+                {
+                    "text": "2 and up",
+                    "tbs": "mr:1,avg_rating:200"
+                },
+                {
+                    "text": "1 and up",
+                    "tbs": "mr:1,avg_rating:100"
+                }
+            ]
+        },
+        {
+            "type": "Condition",
+            "options": [
+                {
+                    "text": "New items",
+                    "tbs": "mr:1,new:1"
+                },
+                {
+                    "text": "Used items",
+                    "tbs": "mr:1,new:3"
+                }
+            ]
+        },
+        {
+            "type": "Seller",
+            "options": [
+                {
+                    "text": "eBay - thredup",
+                    "tbs": "mr:1,merchagg:g6296794%7Cm133932190%7Cm6296724%7Cm118837663"
+                },
+                {
+                    "text": "Mercari",
+                    "tbs": "mr:1,merchagg:g126339810%7Cm126358573%7Cm134611514%7Cm154042365"
+                },
+                {
+                    "text": "Poshmark",
+                    "tbs": "mr:1,merchagg:g114427190%7Cm10517038%7Cm131265860"
+                }
+            ]
+        }
+    ],
+    "shopping_results": [
+        {
+            "position": 1,
+            "title": "FOREVER 21 Distressed Black T-shirt - Women | Color: Black | Size: S",
+            "link": "https://www.mercari.com/us/item/m53686789959/?srsltid=AfmBOorKEu9LnON3FNpPz4qBA1QNfWfdIK1kC8IpkncmMK4OF86XlXYdmog",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:18414514161046377359",
+            "product_id": "18414514161046377359",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=18414514161046377359",
+            "source": "Mercari",
+            "price": "$5.00",
+            "extracted_price": 5.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQlwWg9FyhE_QC3kW9tj0RgK1jREZ-9L_-z6YOMcnEAzUXBxZOUNPo2OQFG3Y_V3DDf2cijKnAvcOGtkY5-PCmVTNmSNDsMRn5pP0aDlBB4&usqp=CAE",
+            "delivery": "$4.99 delivery"
+        },
+        {
+            "position": 2,
+            "title": "Black Shirt | Color: Black | Size: S | Natalixo370's Closet",
+            "link": "https://poshmark.com/listing/Black-shirt-60a18f1a2f3d196b9e2727a2?srsltid=AfmBOoqArWksRoiDCkiKUKIryc_VhcghM6wIz8yeGhyNCrtyY1z576CJrp0&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+            "product_link": "https://www.google.com/shopping/product/4597546018421909605?gl=us",
+            "product_id": "4597546018421909605",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=4597546018421909605",
+            "source": "Poshmark",
+            "price": "$6.00",
+            "extracted_price": 6.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTOK06wpDiRSa0r-a-III2u7jNpa3xiam_TjrfNXe9xkKDEGEDu1TeUlV4xDBYRSedS474D3N22lsq5EFq_OA9yfOkYAI1DYFCzyAWeUxw&usqp=CAE",
+            "delivery": "Delivery by Tue, Apr 2"
+        },
+        {
+            "position": 3,
+            "title": "FOREVER 21 Black Loop Back Shirt - Women | Color: Black | Size: L",
+            "link": "https://www.mercari.com/us/item/m20554713118/?srsltid=AfmBOoqLzXLYJiiHqs7WFWXQqqEVbFrvTIDpkvCOCSyRbEONTE6owN-4QuI&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:14098229677326371108",
+            "product_id": "14098229677326371108",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=14098229677326371108",
+            "source": "Mercari",
+            "price": "$9.00",
+            "extracted_price": 9.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTCA0t3tqyT1hkOe0HHPGHXR7gefeDj-QuyaYoEy23pI4eo37wry4PjGjpqTRqRUhE8xJkZBMYtH1hlYjeijzxlNot6hdrSOqoLL4GyrH2q&usqp=CAE",
+            "delivery": "Free delivery"
+        },
+        {
+            "position": 4,
+            "title": "Vintage Bvd Black Shirt Mens 2xl Breast Pocket Small Hole Read",
+            "link": "https://www.ebay.com/itm/325687158000?chn=ps&mkevt=1&mkcid=28&srsltid=AfmBOoq8iprIWLXd1RuwNnUfI-QwMD5LNDI-pGA5KdpCQd4Kgax3OaKcZsE&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:610770180014011881",
+            "product_id": "610770180014011881",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=610770180014011881",
+            "source": "eBay - krispies41311",
+            "price": "$19.99",
+            "extracted_price": 19.99,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQI-XK3EHBlmmZatsG8lg7rOUm8cjsFVVyDmLZu-f7VVHHWPxiSl9rreoRE_Oka_PhAguAyDZFXVNKvhCcKkvk3vvIzfduUHdo8WrIs1s4&usqp=CAE",
+            "delivery": "Delivery by Mon, Apr 1"
+        },
+        {
+            "position": 5,
+            "title": "FOREVER 21 Men's Black Short Sleeve Shirt - New Men | Color: Black | Size: L",
+            "link": "https://www.mercari.com/us/item/m43641837387/?srsltid=AfmBOooBasJKUTr7OVur95_niKUXjSBRrMYlBbNvwWADnHYMx-PdHoIhCLI&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:10913616914410092999",
+            "product_id": "10913616914410092999",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=10913616914410092999",
+            "source": "Mercari",
+            "price": "$10.00",
+            "extracted_price": 10.0,
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTnTa3pKR72hkySrBZQTPW3virO7d3dT_UGHAYV8yOXCinxdgXYon8egA-cjKT6bOcub5mbN0IKhQTsy3uoSkn-4ym-fcRfI3Q6v6Jcmkw7M2a7FjT09tL_&usqp=CAE",
+            "delivery": "$3.99 delivery"
+        },
+        {
+            "position": 6,
+            "title": "Pacsun Men's Shirt - Black - S",
+            "link": "https://www.depop.com/products/giovanna_andrea-nightmare-on-elm-street-mens/?srsltid=AfmBOoradOmGFX9dqLrJZRfQqEorpLm-Lqt4hHpp0KKmVtyLzUQjyEaxsIA",
+            "product_link": "https://www.google.com/shopping/product/5553098475664718739?gl=us",
+            "product_id": "5553098475664718739",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=5553098475664718739",
+            "source": "Depop",
+            "price": "$30.00",
+            "extracted_price": 30.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS6_IvN6rrhMiuflBAUEu29uVgRuVr7Sm3zAuutFzJ8IW3lQY5uWj9csYV1D3f22IO2atz9iRT6j3TxlB_wjEgH5r_7ESBTvlBG84kHsgWJ&usqp=CAE",
+            "delivery": "$6.29 delivery"
+        },
+        {
+            "position": 7,
+            "title": "FOREVER 21 Ladies Juniors Black Shirt Size Small - Women | Color: Black | Size: S",
+            "link": "https://www.mercari.com/us/item/m55735067797/?srsltid=AfmBOorL_5ZCsCU-y9U5QP4BtlpEvv6J65ArXas1_XjrJ0fmC7HtzDErufo&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:5238188732822313681",
+            "product_id": "5238188732822313681",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=5238188732822313681",
+            "source": "Mercari",
+            "price": "$4.65",
+            "extracted_price": 4.65,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSLsnObS56CBsbg7ca2v1n4WFBsmq2bdai4NAqaA2cSlP4LKTT72cZZcNpMeN1uaaoDRuf9lrxW5df5d86EuEQAvN4b5qG4d7STwSM9W44&usqp=CAE",
+            "delivery": "$3.99 delivery"
+        },
+        {
+            "position": 8,
+            "title": "Retrofit Shirts | Black Shirt | Color: Black | Size: S | Tifsrn's Closet",
+            "link": "https://poshmark.com/listing/Black-shirt-5f4bdec33a0db985a426a651?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+            "product_link": "https://www.google.com/shopping/product/1695743919760453884?gl=us",
+            "product_id": "1695743919760453884",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=1695743919760453884",
+            "source": "Poshmark",
+            "price": "$8.00",
+            "extracted_price": 8.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRKAkQJhNtjg31jrs1OO8ZMVHrpn0_kZl3C5EneKK6PI4h39bDXlgoXdrQBf6Cn7DA4wbPbjgoSwBi7GYUh-vq_EAusrtQaSPi6TZx2164e90t2UxPeo5NR&usqp=CAE",
+            "delivery": "Delivery by Fri, Apr 5"
+        },
+        {
+            "position": 9,
+            "title": "TapouT Y2k Shirt - Women | Color: Black | Size: S",
+            "link": "https://www.mercari.com/us/item/m60498472966/?srsltid=AfmBOoo2ir_JKsaoSGwWpl455DE79Zdw3RnTfYtRJrnSf7Az6GOgKofm9Hs&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:4173623664681693289",
+            "product_id": "4173623664681693289",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=4173623664681693289",
+            "source": "Mercari",
+            "price": "$55.00",
+            "extracted_price": 55.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcROyoyzxD4bm5khF_kfCTcnU4oqszXGdqwaveeBdWBdC7OyqQijYUB95JJMCvsyoGLDGxqisepxfnQszfzWDOJwpPiF-q9_r1tBuP2hKB29&usqp=CAE",
+            "delivery": "$3.99 delivery"
+        },
+        {
+            "position": 10,
+            "title": "Forever 21 Tops | Black Shirt with Key Hole on Back | Color: Black | Size: Mj ...",
+            "link": "https://poshmark.com/listing/Black-shirt-with-key-hole-on-back-5c5bc72fbaebf61abf03c226?srsltid=AfmBOoo_Gj9j1MjzEAoIxGIiUJntxNbflU4-k9TRlKcq1B5fXz-rjuypRL8&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+            "product_link": "https://www.google.com/shopping/product/6638756860300445292?gl=us",
+            "product_id": "6638756860300445292",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=6638756860300445292",
+            "source": "Poshmark",
+            "price": "$5.00",
+            "extracted_price": 5.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRWK3UQ50AYkczpN8qExsGT7MiEGsMcCRbF9QF1J6ntw6D1FbRrW-2L_OOD22u4W8i5hju5pYGSBBCmNX035xtcFRNvL2rjRWDvWpYjRWM&usqp=CAE",
+            "delivery": "Delivery by Fri, Mar 29"
+        },
+        {
+            "position": 11,
+            "title": "Black Button Up Shirt With Chest Detail (size Xs)",
+            "link": "https://www.ebay.com/itm/274855576079?chn=ps&mkevt=1&mkcid=28&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:13313997478792063896",
+            "product_id": "13313997478792063896",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=13313997478792063896",
+            "source": "eBay",
+            "price": "$6.49",
+            "extracted_price": 6.49,
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQdwY_4shgyjWQhxdQTA9510GI9GCCDp_15YrFyVrFxkFIRy9VNtvKXHsDQCQJDdCg_bQ7k7_h7BZTRShEuJ0Fe5t9LJrtshWvM1j6IcAw&usqp=CAE",
+            "delivery": "Delivery by Tue, Apr 2"
+        },
+        {
+            "position": 12,
+            "title": "Consensus Black Dress Up Shirt Bundle - New Women | Color: Black | Size: M",
+            "link": "https://www.mercari.com/us/item/m75896716527/?srsltid=AfmBOooD6p3hhe7crAFoskLLsy5ZLecOVce4bI3i_q85UAWhazeSGie7H7Y&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:2883381888954045992",
+            "product_id": "2883381888954045992",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=2883381888954045992",
+            "source": "Mercari",
+            "price": "$14.00",
+            "extracted_price": 14.0,
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTsiAQ48CS0lRInu-P8dgEubL_8DKgG0UYo0gBFUAj1G4tZy7bnwLFJG7CZPM1PEbR_eiLPpcst5h4CaqekENcC9h7aFqGqlT5HJHNns2s&usqp=CAE",
+            "delivery": "$7.99 delivery"
+        },
+        {
+            "position": 13,
+            "title": "Black Scrunch Shirt | Color: Black | Size: Small | Closetwinsab's Closet",
+            "link": "https://poshmark.com/listing/Black-scrunch-shirt-62ba1df1800f64f9b93a4481?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+            "product_link": "https://www.google.com/shopping/product/13853061553896152499?gl=us",
+            "product_id": "13853061553896152499",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=13853061553896152499",
+            "source": "Poshmark",
+            "price": "$4.00",
+            "extracted_price": 4.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQYwieD_TvHR5JvbbW0DZ9GNYc8VIk-kCWejYs07VUn0_pljI8T2ZpeWl_NkjKeBdrGi3SXo-H3jWx0Fp5kWyq6d4M8JNev5lrMYza6pOQn&usqp=CAE",
+            "delivery": "Delivery by Fri, Apr 5"
+        },
+        {
+            "position": 14,
+            "title": "Hot Topic Men's Shirt - Black - L",
+            "link": "https://www.depop.com/products/richardlivesintx-hot-topic-zipper-dress-shirt/?srsltid=AfmBOooju490b1ipeANSYrgDdzclHn5nIYBazUvrvTKX84n8Zmp6lAINpr0",
+            "product_link": "https://www.google.com/shopping/product/4129394707603979390?gl=us",
+            "product_id": "4129394707603979390",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=4129394707603979390",
+            "source": "Depop",
+            "price": "$11.00",
+            "extracted_price": 11.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS7Ixt9m41zeSEY0iUmbcOdErahP5dEC0RifFCfJFvjvhH4OiSM4xgTK-FpobvMgmL7VwTduh5TEliBDrfeT2Yfowb48o94cE9FRxePBLQ&usqp=CAE",
+            "delivery": "$6.29 delivery"
+        },
+        {
+            "position": 15,
+            "title": "Bundle Of Shirts - Men | Color: Black | Size: S",
+            "link": "https://www.mercari.com/us/item/m97667103011/?srsltid=AfmBOorh05ylMSfpFVyG2Drgvu_3LdOJVjQ597F5c9PPycm8Tna6B4R7HUE&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:14108064198223219906",
+            "product_id": "14108064198223219906",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=14108064198223219906",
+            "source": "Mercari",
+            "price": "$57.00",
+            "extracted_price": 57.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS23b4BQEl9lPjv_rI8fN2nO5GJxc9NcgiU9Cz9v3JvX4vPgtUW6FSTzgc_RF62lD7EOyYC5gBZJgTpbETAQ7TzEYWWfclQoSdnb3zuylA&usqp=CAE",
+            "delivery": "$7.99 delivery"
+        },
+        {
+            "position": 16,
+            "title": "Pull&Bear Tops | Pull and Bear Black Shirt | Color: Black | Size: S | Willowgrayy ...",
+            "link": "https://poshmark.com/listing/Pull-and-bear-black-shirt-65a2c1d33b982a9fbd297ec8?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+            "product_link": "https://www.google.com/shopping/product/16203798095807840457?gl=us",
+            "product_id": "16203798095807840457",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=16203798095807840457",
+            "source": "Poshmark",
+            "price": "$10.00",
+            "extracted_price": 10.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzrE14N0zyR3lpqMUJAMRCEzJWWU164vOf8CEminQgXYSm5Oot37lhpOCYIO61vVFn0q_MD92iK2NE6GLcXVkPsrCq1af5HruVKnYE3NFY&usqp=CAE",
+            "delivery": "Delivery by Wed, Apr 3"
+        },
+        {
+            "position": 17,
+            "title": "Broken Threads Men's Medium Black Short Sleeve Shirt",
+            "link": "https://www.ebay.com/itm/225616720206?chn=ps&mkevt=1&mkcid=28&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:1312332154009147001",
+            "product_id": "1312332154009147001",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=1312332154009147001",
+            "source": "eBay",
+            "price": "$14.50",
+            "extracted_price": 14.5,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ5gocf1HRwnADCRrnUplSIYlKXJKx511AQojbpwYJLue6os_sHNDIuYAFxhwRVKwtr9hfGnSkAChhLPphyoE-bbrQeTYyWQ5HNmQfIFFz2&usqp=CAE",
+            "delivery": "Delivery by Tue, Apr 2"
+        },
+        {
+            "position": 18,
+            "title": "Vintage Y2k Stretch Black Blouse/ T Shirt Goth Grunge Size S Made In",
+            "link": "https://www.ebay.com/itm/334847388870?chn=ps&mkevt=1&mkcid=28&srsltid=AfmBOoree708f5V_1anc-s5v7oYkhV4EJ75-h9j1SvyAC9zkNDXk5Txwmc0&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:4325113577217067683",
+            "product_id": "4325113577217067683",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=4325113577217067683",
+            "source": "eBay - weenstan",
+            "price": "$20.80",
+            "extracted_price": 20.8,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTKkZfhwCcYdCX4s34c1suGsSZvvbZa28h7RXswVzAJMJt32ZB7lfRV25XmgO92PDWS0MzS-MOcRR3ZnaWMuqTILXR9HTvdYz3brwHPJ00&usqp=CAE",
+            "delivery": "Delivery by Wed, Apr 3"
+        },
+        {
+            "position": 19,
+            "title": "Mine Womens Black Spaghetti Strap Button Down Top Sz M",
+            "link": "https://www.ebay.com/itm/164999425659?chn=ps&mkevt=1&mkcid=28&srsltid=AfmBOopufmWYzffrQ6YkTPItlZToztGI6bJNNIphLQdXd4aWTRLd7ORvfX8&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:2505113073191677103",
+            "product_id": "2505113073191677103",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=2505113073191677103",
+            "source": "eBay - enlivengoods",
+            "price": "$13.00",
+            "extracted_price": 13.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRx4POUd0P4KXS8mjib5RsYFSDKRqs0BFB_8Guq8FSSEzVXkDOCmE21GRu7lJpBwIWVUJWuC46EYVi_nD-pu5jQWff2seBlY1x4FvcS__s&usqp=CAE",
+            "delivery": "Delivery by Mon, Apr 1"
+        },
+        {
+            "position": 20,
+            "title": "Black Vintage Shirt | Color: Black | Size: M | Jt8988's Closet",
+            "link": "https://poshmark.com/listing/Black-vintage-shirt-604ad9dae107bbc0364e94eb?srsltid=AfmBOop__Q-n2KSf1ZyhgpA9IHvUn-uJIcii-FLViDx4m4INT0rMglYVHWg&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+            "product_link": "https://www.google.com/shopping/product/9800100064969992391?gl=us",
+            "product_id": "9800100064969992391",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=9800100064969992391",
+            "source": "Poshmark",
+            "price": "$12.00",
+            "extracted_price": 12.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT0n99wyETEKcV_cmpjXJLrVJun9AWVMmqoDOBG_jgTPo0J-HBZz9P7Dg11VqhyPCfzR_B7pmxCVVySbTdGSEDO_w6e-O5e7U97neafpOY&usqp=CAE",
+            "delivery": "Delivery by Fri, Mar 29"
+        },
+        {
+            "position": 21,
+            "title": "212 Collection Black T-shirt - Women | Color: Black | Size: M",
+            "link": "https://www.mercari.com/us/item/m68283128932/?srsltid=AfmBOookXCXXkANC2rM_sFMJ4d_kR-zSHtt_336g6UFprC2quH94kJdteGM&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:3414800011186441219",
+            "product_id": "3414800011186441219",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=3414800011186441219",
+            "source": "Mercari",
+            "price": "$10.00",
+            "extracted_price": 10.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTvPOlXj0Fd_PmJqaAgt9XWPDlxWzfyVu6nxu7jlfqpnHXCq2fOj2bXSLv3HhTulyVOyC0a5lLk54xSThg_q-Rn9Fot5ttQ_YxK_FONZgA&usqp=CAE",
+            "delivery": "$4.99 delivery"
+        },
+        {
+            "position": 22,
+            "title": "Pop Icon Long Sleeve Button Up Shirt Size Large Black Cotton Blend,",
+            "link": "https://www.ebay.com/itm/134868913169?chn=ps&mkevt=1&mkcid=28&srsltid=AfmBOoqGPgf43CWL_DHe7hJvn8fx9pD7EtGQ4lN7eXQXqRmfZcZ27doiyxk&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:12269365767528980231",
+            "product_id": "12269365767528980231",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=12269365767528980231",
+            "source": "eBay - goodkind1000",
+            "price": "$21.99",
+            "extracted_price": 21.99,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR1ClL8YKNO2-KpQqo0v3-7nJjrjy9Rb5pMM7XWQ7qs1wWcwWXpO1hVNso03LtChPFWcaH-1Tx6N2AkOx-3s2ice_f08HMSiVuzq2-R-_sgeFeRNcOcreJyfA&usqp=CAE",
+            "delivery": "Delivery by Fri, Mar 29"
+        },
+        {
+            "position": 23,
+            "title": "FOREVER 21 Distressed Long Sleeve - Men | Color: Black | Size: M",
+            "link": "https://www.mercari.com/us/item/m89994446966/?srsltid=AfmBOoreNe8jE5Y-XmUdxSgSwoXg3970eh15alpYrpfDcRZSQ-PgU06vKXQ",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:13951395762668166949",
+            "product_id": "13951395762668166949",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=13951395762668166949",
+            "source": "Mercari",
+            "price": "$10.00",
+            "extracted_price": 10.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRAO47w78qp91xxhZ2QEJDNDBbyFH3S6dYpAot50TUzi9yrxrsrbsh2AhpcsVu5MkKqHDNtV-cicP_5hM_nbJP9Hp9K9KqcWay-NyKS1BU&usqp=CAE",
+            "delivery": "$6.99 delivery"
+        },
+        {
+            "position": 24,
+            "title": "Storia Tops | Cute Black Shirt with Lightening bolts. Size Medium | Color: Black ...",
+            "link": "https://poshmark.com/listing/Cute-black-shirt-with-lightening-bolts-Size-medium-62d8d4cd92e491d97e01e9a3?srsltid=AfmBOoppTnvEpjHH-XLkApCvYSsK9aXUi_Cd9xFtqEkxAPwk7VHFiAgmPPo&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+            "product_link": "https://www.google.com/shopping/product/14006955524578626966?gl=us",
+            "product_id": "14006955524578626966",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=14006955524578626966",
+            "source": "Poshmark",
+            "price": "$20.00",
+            "extracted_price": 20.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTzNbndh34SNsRX6SGvaFFUN6imHrU45zOowIH5-g8ADYObSNPotSidCoHkUVK5ZkPdIC2dCofwiNNZuHFMRhADrQ89yW-LfET80GG-HQsYl7qa9wyNpwyE&usqp=CAE",
+            "delivery": "Delivery by Tue, Apr 2"
+        },
+        {
+            "position": 25,
+            "title": "A\u00e9ropostale Aeropostale Black Front Tie Up Strappy Shirt With Flowy Bottom ...",
+            "link": "https://www.mercari.com/us/item/m55511777249/?srsltid=AfmBOoosMS1pblZ8Jd3h0ljIq6L7wfnwabgbvrdOcBJxAwrE727JXEdEGuw&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:10510224729846585033",
+            "product_id": "10510224729846585033",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=10510224729846585033",
+            "source": "Mercari",
+            "price": "$17.00",
+            "extracted_price": 17.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS16yix1gyKFT9EPjs0zFaIR4NXGK6FyTNQym6iyi3-1XI_ACOfvxSy3T0P_v7eHY8A75uCfpsENQveth48FcE1Weth7XJVlhYSDY0Bd2cI&usqp=CAE",
+            "delivery": "$4.99 delivery"
+        },
+        {
+            "position": 26,
+            "title": "212 Collection Women's Short Sleeve Top - Women | Color: Black | Size: XL",
+            "link": "https://www.mercari.com/us/item/m15654219818/?srsltid=AfmBOork0iF-12MseTWtXLoqoa9fp3eJO06Rpp8dL4JVJL1CT2p08HL4Gp0&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:12944304591449765313",
+            "product_id": "12944304591449765313",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=12944304591449765313",
+            "source": "Mercari",
+            "price": "$19.00",
+            "extracted_price": 19.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSgpH6VmVxbJ3942ZyHdPD3d6Ti1lFuYn-Jn5JBakR13Xgx_WVbg7qYVSA1pia9z1kDMiW3e_nR7_47Sv1YE8TVXVn5yqjzE5tSXGFChRy_&usqp=CAE",
+            "delivery": "$4.99 delivery"
+        },
+        {
+            "position": 27,
+            "title": "FOREVER 21 Short Sleeve Ripped Shirt - New Men | Color: Black | Size: L",
+            "link": "https://www.mercari.com/us/item/m43928987247/?srsltid=AfmBOopfaIoO1ypUqs9z1IIYicDjmiVMFnxh2-J68zXL4Ra_7CL0ahZnP3g",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:13010008026651277467",
+            "product_id": "13010008026651277467",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=13010008026651277467",
+            "source": "Mercari",
+            "price": "$15.00",
+            "extracted_price": 15.0,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQIZG6E54YdjIW2dTT_xECPiniuDSVRaWJxl2aZqilb6Jz5LxlotwMMvukM-4Ffr_n3FPO_QiVLMSU_dPCQAxO0TUTvcSzgcq080xZztFoM&usqp=CAE",
+            "delivery": "Free delivery"
+        },
+        {
+            "position": 28,
+            "title": "Black Shirt with Caller on Top with Strings on Side | Color: Black | Size: Mj ...",
+            "link": "https://poshmark.com/listing/Black-shirt-with-caller-on-top-with-strings-on-side-635f313b678c3a200ac356c2?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+            "product_link": "https://www.google.com/shopping/product/14138490296853326745?gl=us",
+            "product_id": "14138490296853326745",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=14138490296853326745",
+            "source": "Poshmark",
+            "price": "$7.00",
+            "extracted_price": 7.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRILteGpRWcNxrcJ5HXOdUp3wwICQtJie_zCH9FUp85zY5EiAzsIc4_Lwam5qX36rMXYckOhRhEt4yaq0eV2vpyb9yY35UVr2JjEe-0F019&usqp=CAE",
+            "delivery": "Delivery by Fri, Apr 5"
+        },
+        {
+            "position": 29,
+            "title": "Dereon Y2K Short Sleeve - Women | Color: Black | Size: M",
+            "link": "https://www.mercari.com/us/item/m53549070725/?srsltid=AfmBOor8G4yVsgqoSAwYQvc__2i8gruEaSPBlWuQT1C6zssyLwZK9HzMXrE&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:12615006352243699212",
+            "product_id": "12615006352243699212",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=12615006352243699212",
+            "source": "Mercari",
+            "price": "$46.00",
+            "extracted_price": 46.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSL37eKlXDYZitfaY12Qpo-buq0Y1UurgtPgArLpnOCIqrB38eCajhx3HwdPvKOo9Tfz3y9-jheok701Bi5hk-rmagIldbXAi6d8eUxORoq&usqp=CAE",
+            "delivery": "$4.99 delivery"
+        },
+        {
+            "position": 30,
+            "title": "Nwot Cute Black Shirt | Color: Black | Size: XL | Iselltoo's Closet",
+            "link": "https://poshmark.com/listing/NWOT-cute-black-shirt-65e3e6c2382db85d647faed3?srsltid=AfmBOooUWAm7L959tnVm54-_HPzrO48zDyBgqSWVPm1HLuggvL4l2TiGrQ8&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+            "product_link": "https://www.google.com/shopping/product/16355874274477835832?gl=us",
+            "product_id": "16355874274477835832",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=16355874274477835832",
+            "source": "Poshmark",
+            "price": "$30.00",
+            "extracted_price": 30.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTJWhEwFY-vF4Rquqc9SUkzxqkNnFZm11hJVd4z1ABRLi70_3vf8zURNxhDC0eotrkQMla_oRfbrkS1XLUOkUilx_Pf5hQhUZHsnwxElnf5&usqp=CAE",
+            "delivery": "Delivery by Mon, Apr 1"
+        },
+        {
+            "position": 31,
+            "title": "Ship N Shore Women Shirt 16 Black Button Up Short Sleeve Career",
+            "link": "https://www.ebay.com/itm/403846321315?chn=ps&mkevt=1&mkcid=28&srsltid=AfmBOopNUC0KyqM7PPjMSJhT2TOr7tS1hTg0N8HQe_kEKA91GakrcxfeGaI&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:17616420978463823905",
+            "product_id": "17616420978463823905",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=17616420978463823905",
+            "source": "eBay - wvtreasurechest",
+            "price": "$5.58",
+            "extracted_price": 5.58,
+            "old_price": "$13.95",
+            "extracted_old_price": 13.95,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTqTXesKwiflRqb7l6AD8qvV2x5YIveOiHUe8V9SFZYrsxA_vUfok-7K3ZU8k1taN1kXk21ypLXuXlkS1NhgEL3YAb0tgySNRDGQCfbG7N_&usqp=CAE",
+            "tag": "SALE",
+            "extensions": [
+                "SALE"
+            ],
+            "delivery": "Delivery by Wed, Mar 27"
+        },
+        {
+            "position": 32,
+            "title": "Black Short Sleeve Stretch Shirt with Tie at Bottom Size XL | Color: Black | Size ...",
+            "link": "https://poshmark.com/listing/Black-short-sleeve-stretch-shirt-with-tie-at-bottom-size-xl-65d7833204166d7781f122e5?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+            "product_link": "https://www.google.com/shopping/product/1289506960683922478?gl=us",
+            "product_id": "1289506960683922478",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=1289506960683922478",
+            "source": "Poshmark",
+            "price": "$5.00",
+            "extracted_price": 5.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRK7W2hbD2QxRl-CRIdynv2wQXVmBF6WIt6RT6z9azSHh8vg67UDrJJrhAGaot7jOXa8MlL0JBB1HeYMEEj_d1QxByyHrdpLyKs3ilFKqE&usqp=CAE",
+            "delivery": "Delivery by Fri, Mar 29"
+        },
+        {
+            "position": 33,
+            "title": "Branded Bull Tops | Black Shirt | Color: Black | Size: S | Eslo92's Closet",
+            "link": "https://poshmark.com/listing/Black-Shirt-6221b81c3cda8845decf7ee4?srsltid=AfmBOoq9KpoMSksL-p7Dd8SwTMEW_baxPbD3wjdS946YJXIzPKfkolDwSo8&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+            "product_link": "https://www.google.com/shopping/product/13293711244502220099?gl=us",
+            "product_id": "13293711244502220099",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=13293711244502220099",
+            "source": "Poshmark",
+            "price": "$10.00",
+            "extracted_price": 10.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRDn17UpXdnrCZPEGe_keIt83jCkAUXbb5k_oZBiIWNySbOuc4V91Ivh9svIsemHZ46OFWov_6BxSIFPyN_flgXMOiw7uiYlSa_vHugxSb2&usqp=CAE",
+            "delivery": "Delivery by Fri, Mar 29"
+        },
+        {
+            "position": 34,
+            "title": "Hot Topic Psychic Reader Crop Top Button Up Shirt Sz 2 Xsmall - Women | Color ...",
+            "link": "https://www.mercari.com/us/item/m15472432490/?srsltid=AfmBOooyQx3yzPpItqrOVDQt2cTePlcT5Z9WGUb68gDs00WlykneY1eOg70&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:16364094904126294400",
+            "product_id": "16364094904126294400",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=16364094904126294400",
+            "source": "Mercari",
+            "price": "$13.30",
+            "extracted_price": 13.3,
+            "old_price": "$14.00",
+            "extracted_old_price": 14.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS2h41m60aK9vtR0w7-4vbQV6fIMaPOcepFb3oGbUrSJGQKsjSriatmxafYeSbtJGG__9A_ZEKWbkrVuITKnTKlqQh2C963oJyU9snDYVg&usqp=CAE",
+            "tag": "SALE",
+            "extensions": [
+                "SALE"
+            ],
+            "delivery": "$4.99 delivery"
+        },
+        {
+            "position": 35,
+            "title": "Black Long Sleeve Hole Sleeve Shirt Small | Color: Black | Size: S ...",
+            "link": "https://poshmark.com/listing/Black-long-sleeve-hole-sleeve-shirt-small-6358bbac8bb2e2205b353204?srsltid=AfmBOopuMciq6CUqROQEsGDwEXPfnJTcB6Ua4--ekHBb0OH9jb1LTfq1UZs&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+            "product_link": "https://www.google.com/shopping/product/6308046284695088930?gl=us",
+            "product_id": "6308046284695088930",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=6308046284695088930",
+            "source": "Poshmark",
+            "price": "$10.00",
+            "extracted_price": 10.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQhK-y1Qz1YiMRAiF_8SJBPnQx1-iBb664_L9yxcKw8oNVEPGouly2faaeLog9xp2VMGXyvpHoEWFEuSLbVIQSh_NJ5_vP43-J6AtWcwrzU&usqp=CAE",
+            "delivery": "Delivery by Mon, Apr 1"
+        },
+        {
+            "position": 36,
+            "title": "Classic Subway Shirt | Color: Black | Size: M | Kaylee_Marie_95's Closet",
+            "link": "https://poshmark.com/listing/Classic-Subway-Shirt-64fc7034c9a2285166ff4371?srsltid=AfmBOopfvn5OptzRIRRzckD8EccVuyipaW-bk0BKIt7jBy3n6yABeKW5GWc#utm_source=gdm_unpaid&size_M",
+            "product_link": "https://www.google.com/shopping/product/3556239979979539075?gl=us",
+            "product_id": "3556239979979539075",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=3556239979979539075",
+            "source": "Poshmark",
+            "price": "$7.00",
+            "extracted_price": 7.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSS_xyvSmBEowDEJc8WVSB4DQe_gy9kppDlgkv2aBLEbQ5j0QgGVHDMO7bmwRLNvO14VFT_Es3mbnxsHUJhtqZ_ZJzAIUAXITH1KvYnAeRJ27OQTcgFdsV3&usqp=CAE",
+            "delivery": "Delivery by Fri, Mar 29"
+        },
+        {
+            "position": 37,
+            "title": "Pacsun Black Button Up Short Sleeve Shirt Size Small Solid Los Angeles",
+            "link": "https://www.ebay.com/itm/355303581477?chn=ps&mkevt=1&mkcid=28",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:2989663021357861438",
+            "product_id": "2989663021357861438",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=2989663021357861438",
+            "source": "eBay",
+            "price": "$8.99",
+            "extracted_price": 8.99,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT7qUceSfb9ksaDBMTy9AUVi4fJJnSEgwIkuliGG3aceYowjlXpWsM0IQMb1jwhmYGFhGFcNAVFm0mjxFTT7i9Wda72LRXio3OnTHKXqgg&usqp=CAE",
+            "delivery": "Delivery by Fri, Mar 29"
+        },
+        {
+            "position": 38,
+            "title": "Black Ribbed Shirt | Color: Black | Size: S | Duxsailor125's Closet",
+            "link": "https://poshmark.com/listing/Black-ribbed-shirt-5f3dd4278d9be976e1cf0a04?srsltid=AfmBOoq3cP3YhR5tCiLApo2HbDLEth0YO2hkDgEMAbLl7TSIrU9OOgSrhFk&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+            "product_link": "https://www.google.com/shopping/product/17537875921435018803?gl=us",
+            "product_id": "17537875921435018803",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=17537875921435018803",
+            "source": "Poshmark",
+            "price": "$10.00",
+            "extracted_price": 10.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGri_5WAD069V6xMPgD8Gt6QgK0hjAEQVYxRG0PnMwXiZa2RI9Vp0_wjptWGSHk4aNx9l1Rf5fy6vKYvPH4UiQ3q0n1uBbHzFS80tydaba&usqp=CAE",
+            "delivery": "Delivery by Wed, Apr 3"
+        },
+        {
+            "position": 39,
+            "title": "Black Long Sleeve Shirt | Color: Black | Size: S | Ellasunc's Closet",
+            "link": "https://poshmark.com/listing/Black-long-sleeve-shirt-656df8437f29dd7d46f13eed?srsltid=AfmBOor-0iicMxl3N_vT3c0VyL5ZJ0v0PU0kQh9sdCZ3JHfs3kC_RfVb88Y&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+            "product_link": "https://www.google.com/shopping/product/2946882357011871229?gl=us",
+            "product_id": "2946882357011871229",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=2946882357011871229",
+            "source": "Poshmark",
+            "price": "$18.00",
+            "extracted_price": 18.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTgVWCfKZwQXVJSzpvQwfeZmsCH4yIn-6b0BKseEGuaVNWnzF-LrCrRHAAmux9F9hbX52PzMSYOfgqWVdICmRJvF9cShHSYftvqphrYiSg&usqp=CAE",
+            "delivery": "Delivery by Tue, Apr 2"
+        },
+        {
+            "position": 40,
+            "title": "Aeropostale Shirt Womens Extra Small Black Tie-front Button Up Shirt",
+            "link": "https://www.ebay.com/itm/285087160647?chn=ps&mkevt=1&mkcid=28&srsltid=AfmBOorbRE7hOFY0JVOuAdGKQMSmtvCx9wblY8bchsAnpD98VdGAIzpSMPk&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:1177988171203688464",
+            "product_id": "1177988171203688464",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=1177988171203688464",
+            "source": "eBay - texasblessed_rcm",
+            "price": "$11.94",
+            "extracted_price": 11.94,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQIToHtmffIyT2uPSxvbCIqeZxhtXQIGRST1KTinNuHclcIdnHzr4DP1XQIh3wvhrVmyq5l3KyeTCCuNt0X8k5z9gg4HXEBz7fAYbDC75ZK&usqp=CAE",
+            "delivery": "Delivery by Tue, Apr 2"
+        },
+        {
+            "position": 41,
+            "title": "Nasty Gal Nasty Gall Ribbed Keyhole Shirt - Women | Color: Black | Size: M",
+            "link": "https://www.mercari.com/us/item/m87418704574/?srsltid=AfmBOoqEMavyHgLOkWdqfkUGLxo1WwWFgEZyPyfj9FL9tb-e0wEuLUR-j1M&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:12915569756733658774",
+            "product_id": "12915569756733658774",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=12915569756733658774",
+            "source": "Mercari",
+            "price": "$18.00",
+            "extracted_price": 18.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQW2nrMRo7Gm6x_O--74ZBEpN75KYMJKocYnbXMD7WXRBNNJPRwT3AxbXSeoEGHVoayJBR5M8mlYxCGX28kGFQKwx-eEWfxVTfDjgFAgBo&usqp=CAE",
+            "delivery": "$3.99 delivery"
+        },
+        {
+            "position": 42,
+            "title": "Cuts Clothing Shirts | Cuts Clothing Long Sleeve Black Shirt | Color: Black ...",
+            "link": "https://poshmark.com/listing/Cuts-Clothing-Long-Sleeve-Black-Shirt-64aaeacdeb7e7aa9cfc076d1?srsltid=AfmBOooIqDE9gZYNpZgrfBuuJaLfFiH-k7txY6zeMlzmFOD-9rhOvfvTemA&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+            "product_link": "https://www.google.com/shopping/product/1406152657157463359?gl=us",
+            "product_id": "1406152657157463359",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=1406152657157463359",
+            "source": "Poshmark",
+            "price": "$35.00",
+            "extracted_price": 35.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS-FF7xlFzXBsNPtjzl1cFM87QYF8snCgJKdUZQ2wmp7_jVRnOjK5FtjW0dEPDHxptmEUP6BBxU4CLVxPWz6ME8xUjqwI197ob6DU7d6As&usqp=CAE",
+            "delivery": "Delivery by Fri, Mar 29"
+        },
+        {
+            "position": 43,
+            "title": "PacSun CLUB INFERNO Shirt - Men | Color: Black | Size: One Size",
+            "link": "https://www.mercari.com/us/item/m42090790184/?srsltid=AfmBOoqpHW21xyzBMMttOVPQiQseBSpfh7QKeAb0ZbUJfrdZqG9S-IibZHQ&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:3361137882612723218",
+            "product_id": "3361137882612723218",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=3361137882612723218",
+            "source": "Mercari",
+            "price": "$15.00",
+            "extracted_price": 15.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTOVEwI-Il_jAGcKFBQKVjLwRV0958kFa2frHWHzEZ-n-GFgUEdp9myuvyQ04GUWPc8fEOaZf7p_IeMwNdf5dW0KW8RhlAJfBDymemvWTkhbtKxRPDDmJFcoQ&usqp=CAE",
+            "delivery": "$6.99 delivery"
+        },
+        {
+            "position": 44,
+            "title": "Rampage Tops | Black Shirt | Color: Black | Size: L | Jackiemisfitx's Closet",
+            "link": "https://poshmark.com/listing/Black-Shirt-64f536251741be629bc27c94?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+            "product_link": "https://www.google.com/shopping/product/2042810332432494552?gl=us",
+            "product_id": "2042810332432494552",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=2042810332432494552",
+            "source": "Poshmark",
+            "price": "$15.00",
+            "extracted_price": 15.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSAu-js3dL4d6e0JE4S0VJbKHAExjlacWYHY-UgNS4ZZwf-iWcxaJ0dYlNumCTgIzsoSNSmzQ4uHDityWzg-WlHqRdd4Zudp1pRG5cLUeke&usqp=CAE",
+            "delivery": "Delivery by Thu, Mar 28"
+        },
+        {
+            "position": 45,
+            "title": "Hot Topic Emo Shirt - Women | Color: Black | Size: M",
+            "link": "https://www.mercari.com/us/item/m88649088215/?srsltid=AfmBOopzsUQbuSASLgL5RIyQHdz1anQOumnBK_FfKl-6WZF5czPNelQzhgg&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:10655453883889116278",
+            "product_id": "10655453883889116278",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=10655453883889116278",
+            "source": "Mercari",
+            "price": "$5.00",
+            "extracted_price": 5.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQN2S686hZgmHTCIHH0zcM3eDUyZFMLsf3BGeD1GCYMgs0qcYMbkPphJ-PQ8vCOjGRYDjM8rjpflT8sUm3F3x42Js7subZVBfZIF8V8gZrt&usqp=CAE",
+            "delivery": "$4.99 delivery"
+        },
+        {
+            "position": 46,
+            "title": "Black Short Sleeve Shirt with SpikesOn Shoulders | Color: Black | Size: S ...",
+            "link": "https://poshmark.com/listing/Black-short-sleeve-shirt-with-spikeson-shoulders-55df90629c6fcfacba00dc2e?srsltid=AfmBOopsUIEOGZBIdaREZFdjd-nn9_3IbCCBaQElSwbVndTKOUsYaB7tvNg&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+            "product_link": "https://www.google.com/shopping/product/3787104069146219173?gl=us",
+            "product_id": "3787104069146219173",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=3787104069146219173",
+            "source": "Poshmark",
+            "price": "$6.00",
+            "extracted_price": 6.0,
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQBctMAk3WPuoBy0F12JTGVzMxQbqnwT9jGZZwrmNZ0X8mpIdyc-ydg0QNct4RMWKdRT6ig7zN6qOM0bzqHvSL7_KTYEvUxuAYY6Mlx3cEdKpk17ZQtR8eIew&usqp=CAE",
+            "delivery": "Delivery by Tue, Apr 2"
+        },
+        {
+            "position": 47,
+            "title": "Unknown Brand Black T-shirt Size L.",
+            "link": "https://www.ebay.com/itm/233916521714?chn=ps&mkevt=1&mkcid=28&srsltid=AfmBOorobbYut3HmQUQTAgcfL5_uw3LLp60w9z7vpheNGFsgJrXwp-zB4Fw",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:10465033913932333101",
+            "product_id": "10465033913932333101",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=10465033913932333101",
+            "source": "eBay - guinoal2",
+            "price": "$4.99",
+            "extracted_price": 4.99,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQgJbop6Sl6JOir8Z-xeTBDE2ACzFodUGGK3vE1huq7autPXkSsZ8UiI0N8JDOSGXB6atCO1JXkGX2zucOsgKSGxez7R51B1KPcZiHZoRXMG1fwgdVYA-JB&usqp=CAE",
+            "delivery": "Delivery by Tue, Apr 2"
+        },
+        {
+            "position": 48,
+            "title": "Black Shirt with Cris Cross Back | Color: Black | Size: S | Alyssakarfinkel's Closet",
+            "link": "https://poshmark.com/listing/Black-Shirt-with-Cris-Cross-Back-5cccbb37d400080bcc0af793?srsltid=AfmBOooEgYQCYS3LZELUVheW-VHOR9DeyQ0BzGg5GsHp2llMlToQ1QAXx60&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+            "product_link": "https://www.google.com/shopping/product/13364670800695582246?gl=us",
+            "product_id": "13364670800695582246",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=13364670800695582246",
+            "source": "Poshmark",
+            "price": "$15.00",
+            "extracted_price": 15.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQhzfMJIblkzUvBMcmQpJ8VqTvMTTqJps0KNneqcOHv2PpJWVbq33a2rggtreAQw43Sd_PKhBtzdrX9r2jIfj4L7coh1Z7wTy64ksvsKaVz&usqp=CAE",
+            "delivery": "Delivery by Fri, Mar 29"
+        },
+        {
+            "position": 49,
+            "title": "Vintage 90s Black Blank Shirt Women\u2019s Xl Single Stitch Usa Made Anvil",
+            "link": "https://www.ebay.com/itm/305065357292?chn=ps&mkevt=1&mkcid=28&srsltid=AfmBOorzXeG5ZONk6Up4fihFL54xEipWuX9JDWf3UtvpadWmJ7p68TSaQNc&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:10979012088565147919",
+            "product_id": "10979012088565147919",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=10979012088565147919",
+            "source": "eBay - nostalgic_collections_530",
+            "price": "$19.95",
+            "extracted_price": 19.95,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQliCnozRgfkXujErt8NjXBkdOFK7WETU6AVDWPRE8MriXqh0W2KHKe771cTB5L1ugygEbc5YbaSBym58sE2y74KQ1CIRH8D33Z3MpozANKOhuVC6yh0H-8OA&usqp=CAE",
+            "delivery": "Delivery by Mon, Apr 1"
+        },
+        {
+            "position": 50,
+            "title": "Members Only Black Vintage Shirt - Men | Color: Black | Size: S",
+            "link": "https://www.mercari.com/us/item/m25072641047/?srsltid=AfmBOooE_rTb2BI4yLQ14uj7SqjFE3Y_l3Q83zrSxuUGWhMAY5tIC4S2ago&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:15913412129237777162",
+            "product_id": "15913412129237777162",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=15913412129237777162",
+            "source": "Mercari",
+            "price": "$30.00",
+            "extracted_price": 30.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ0RjOLkvG-eHkebto-OBjjN-FgkG4VFmQtPvLOPSA6ulHJRJuCW1CIRdLCMaa1Uux1xW0aup4FnMBlIXCGntA7knolHxtZ7gsKc1fEtb5NP9zcnNNNV6qS&usqp=CAE",
+            "delivery": "$4.99 delivery"
+        },
+        {
+            "position": 51,
+            "title": "Nike Vintage Play Hard Shirt Large - Men | Color: Black | Size: L",
+            "link": "https://www.mercari.com/us/item/m21922155531/?srsltid=AfmBOoofDcQmvbR30lUO8tD1VjEsS5Cveo2aAxR-sQGIJMqs6g9jOr6n3fE&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:3432527468038961222",
+            "product_id": "3432527468038961222",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=3432527468038961222",
+            "source": "Mercari",
+            "price": "$22.00",
+            "extracted_price": 22.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSzeky86RucbkXZqMiMLS7kzvzyMsbn7Ibik0MnsYP6PL7RYnD9BI15QsLp9OxhcQOJFCeZMsmERxcDCWVFldYPWLXje0W25yja7DnafjSDRmqvR8eYsWdU&usqp=CAE",
+            "delivery": "$6.99 delivery"
+        },
+        {
+            "position": 52,
+            "title": "Black Long Sleeve Button-up T With Tie Front Ribbed Size Xs Women",
+            "link": "https://www.ebay.com/itm/386321866770?chn=ps&mkevt=1&mkcid=28&srsltid=AfmBOooHxaf3pvD8mtlVoMDoicFGRn8JcHkYNmHjQhIR6TeIboD1S4pBk-c&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:2800765156045820571",
+            "product_id": "2800765156045820571",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=2800765156045820571",
+            "source": "eBay - bel-6434",
+            "price": "$14.99",
+            "extracted_price": 14.99,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTYp2Kg8H9QC4y-JZQlZyz4vwJIdYKU61tGyAoKgdCOUIKDZ2gbvFOJ6N_-SQ4axBfONFhYDvuaz6WH8NyQh5DhaWdV3BJwAPM6u7ifsoW1&usqp=CAE",
+            "delivery": "Delivery by Mon, Apr 1"
+        },
+        {
+            "position": 53,
+            "title": "RTA Shirts | RTA 1997 2014 Long Sleeve Shirt in Black | Color: Black | Size: L ...",
+            "link": "https://poshmark.com/listing/RtA-1997-2014-Long-Sleeve-Shirt-in-Black-652e008534d1564365853304?srsltid=AfmBOoqVmnT0s3eqUBSa07vOcd7s0Wr2-WC6Adk7HjQdDwkHRjSME6Uaawg&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+            "product_link": "https://www.google.com/shopping/product/17000861609010645841?gl=us",
+            "product_id": "17000861609010645841",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=17000861609010645841",
+            "source": "Poshmark",
+            "price": "$42.00",
+            "extracted_price": 42.0,
+            "old_price": "$85.00",
+            "extracted_old_price": 85.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRKp6TD0ftS_cutVE4aEczgYqUnpQgBif6BvL7v_ApqGYr3Zcid4LCbS4573XEV3jcTCFjT-1SRlBjpHd0frTsYVa2xAW1So1W-dXbdj-WWC_4ugNSxib72NA&usqp=CAE",
+            "tag": "SALE",
+            "extensions": [
+                "SALE"
+            ],
+            "delivery": "Delivery by Fri, Mar 29"
+        },
+        {
+            "position": 54,
+            "title": "Black Front Tie Shirt | Color: Black | Size: M | Taybalzanoo's Closet",
+            "link": "https://poshmark.com/listing/Black-Front-Tie-Shirt-630971f0932a8abdf9a7d57e?srsltid=AfmBOooddDd2duFtx6MJm9nmD6TiuSVbYgbAj7suQtokuOh2CMHk1TCZKEA&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+            "product_link": "https://www.google.com/shopping/product/10029895185399910172?gl=us",
+            "product_id": "10029895185399910172",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=10029895185399910172",
+            "source": "Poshmark",
+            "price": "$10.00",
+            "extracted_price": 10.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTGLWInBK5O0xzw_cr_hGpvWMu1n6qDHSt88Cao8DXu5tEwlTTl51ZG3cPRIahaHSLpDNNl_r2bB8kzAg7EeK7u1iCQQH0d3VLnVn0EU_0&usqp=CAE",
+            "delivery": "Delivery by Mon, Apr 1"
+        },
+        {
+            "position": 55,
+            "title": "Shein Tops | Women\u2019s Black Short Sleeve Fitted Tee Size Small | Color: Black ...",
+            "link": "https://poshmark.com/listing/womens-black-short-sleeve-fitted-tee-size-small-62ce113ca0e6c63aac5ae741?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+            "product_link": "https://www.google.com/shopping/product/13376250315766650770?gl=us",
+            "product_id": "13376250315766650770",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=13376250315766650770",
+            "source": "Poshmark",
+            "price": "$8.00",
+            "extracted_price": 8.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQjaNkGWRIImyLxEzQHFfYb6T2qqYonmMUBoFF7-bdItySBZUqHmNCLQRpyi-3by4LW4aVDXhVdqCglH5RWTlengBDI1a6XHw3vviXoKo2_&usqp=CAE",
+            "delivery": "Delivery by Mon, Apr 1"
+        },
+        {
+            "position": 56,
+            "title": "Vtg Malbe Black Long Sleeve Button Front Shirt Size 9/10 Womens Ruffle",
+            "link": "https://www.ebay.com/itm/355119451270?chn=ps&mkevt=1&mkcid=28&srsltid=AfmBOoom3K4EqIQag1cXHch2hEEIV35CWhIR4HSBol7T64nMOBweKXFiqn0&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:6045665409186829450",
+            "product_id": "6045665409186829450",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=6045665409186829450",
+            "source": "eBay - your*designer*closet",
+            "price": "$19.99",
+            "extracted_price": 19.99,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQpGFst0X-Sk0eZaC-HIQhA7aQKAowoCRSu_SBFBmq29yIX3W__LujyRZt3E-y06xP6lqTxOuiL8jZVdQy4iU1dWFYIJUjC59cN77r44R0&usqp=CAE",
+            "delivery": "Delivery by Thu, Mar 28"
+        },
+        {
+            "position": 57,
+            "title": "9Five Shirt | Color: Black | Size: M | Flydopecloset's Closet",
+            "link": "https://poshmark.com/listing/9Five-Shirt-5a1d06bf620ff72866103ad8?srsltid=AfmBOopmHHtYVFXbqzshZKfwgZlUIGu3nYnul1eXSUdimgVuvqpLs6kEGAM&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+            "product_link": "https://www.google.com/shopping/product/14050677651753175302?gl=us",
+            "product_id": "14050677651753175302",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=14050677651753175302",
+            "source": "Poshmark",
+            "price": "$10.00",
+            "extracted_price": 10.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRfwws57AjvRy8fnQ5s3PjUG6q9AGpc80-CUcLNvIr-5afCUo-TAb4oN730ekGnYhc0p9vGZsoq6mm719ohb3NPP-5STXrrrWXQIYPm2Mce&usqp=CAE",
+            "delivery": "Delivery by Mon, Apr 1"
+        },
+        {
+            "position": 58,
+            "title": "5/48 Cap Sleeve Black Shirt | Color: Black | Size: M | Jennjenn619's Closet",
+            "link": "https://poshmark.com/listing/548-cap-sleeve-black-shirt-63b760dbf8c5da1d600e57da?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+            "product_link": "https://www.google.com/shopping/product/15301392917265132449?gl=us",
+            "product_id": "15301392917265132449",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=15301392917265132449",
+            "source": "Poshmark",
+            "price": "$30.00",
+            "extracted_price": 30.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcThjrS9SQ_Tvvm8MQ96GsSAi92j8OqYJhpOHFtzVD7_mzeIJ0WjQEuZ4ZrY0-8cWrjZc1XsZEtTk6JE2VK6d7Bgy0UwPKx-8T38hYkDXko&usqp=CAE",
+            "delivery": "Delivery by Fri, Apr 5"
+        },
+        {
+            "position": 59,
+            "title": "Almost Famous Tops | Almost Famous Y2K Black Button Up Half Sleeve Shirt | Color ...",
+            "link": "https://poshmark.com/listing/almost-famous-y2k-black-button-up-half-sleeve-shirt-647d71f57f29ddd2fad9e4cc?srsltid=AfmBOooOCZLOCNrQVJ8NmaJMCy1962W8AuMflrC3kwHMvO9pNg5wXU0bVWs&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+            "product_link": "https://www.google.com/shopping/product/11623778249121356500?gl=us",
+            "product_id": "11623778249121356500",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=11623778249121356500",
+            "source": "Poshmark",
+            "price": "$16.00",
+            "extracted_price": 16.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQz7JIIm_UIYY23BByO9whzdWfY0JiAyjaRU4b34rrR_Hjb6-yqtPNor-Q3th4jobbp7_Cwz9MbA7l8O9JZtmKhGJZkkxBhEEXskd88O1mA&usqp=CAE",
+            "delivery": "Delivery by Fri, Mar 29"
+        },
+        {
+            "position": 60,
+            "title": "Stylles Tops | Work Top. Button Up, Short Bleated Sleeves. | Color: Black | Size ...",
+            "link": "https://poshmark.com/listing/Work-top-Button-up-short-bleated-sleeves-6349a0c7fed51f7f7aec1acc?srsltid=AfmBOopTv5Gv3Br19Dbdp7rlUlEDAqRRTnQyxTgi8mYncXTPBVhDb-6IEH4&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+            "product_link": "https://www.google.com/shopping/product/7502175549581710778?gl=us",
+            "product_id": "7502175549581710778",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=7502175549581710778",
+            "source": "Poshmark",
+            "price": "$15.00",
+            "extracted_price": 15.0,
+            "second_hand_condition": "used",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRRYS-vjLOG_ZcHapaCfAslFlyIWFCZV-en1NNvZpfQa7SBGC8F5nzh0OLksrIQIX8AfEGFXNbJl9adbilsUoaZbuSBAeiDFmNBGYNqQ8w&usqp=CAE",
+            "delivery": "Delivery by Fri, Apr 5"
+        }
+    ],
+    "categories": [
+        {
+            "title": "Filter by department",
+            "filters": [
+                {
+                    "title": "Women's",
+                    "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTLuBQLgkmPBSmeR4jt-OJhXJ9DnCcuAbiXCyCql53UUoQr94sYUAcUSt2K4T-6x9eT1m1suRP1_MCBZ_qFFfQ8tDjIctFt5gEESSqXT9sRaYlcaelmsrok&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:1020288%7C1020290&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkIihEoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A1020288%7C1020290"
+                },
+                {
+                    "title": "Men's",
+                    "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQTgbXQU9s-RBjorH8e5dVIdGgfc229gUPkq3N2Dpyt6LPhgjEfODoFfGIojC_Dgca52XvuZt2roPlxcKrbRy4Jk9_5llEGLiabdgKhId4l&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:1020288%7C1020289&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkIjREoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A1020288%7C1020289"
+                }
+            ]
+        },
+        {
+            "title": "You might like",
+            "filters": [
+                {
+                    "title": "Short Sleeve",
+                    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSHFz7iciiUU88acifSLjDzZzJDWRKiraCYMX_bIJ2YmXQ63O-A9HWeDAs6ieV1oUKCScPNhPNkr7wY51qYIfDHbdB5IJoTO-Y46lS7kNNSBZCT11Y89Lx9&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:2613473%7C2613477&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkIlBEoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A2613473%7C2613477"
+                },
+                {
+                    "title": "Polyester",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTEo4D3Gjw91G9QiVLX_4Bfpv3zbmMv0tcX5Vz1ZDsjRsMAdfHWqwg-3uPVj5BOuGG-QCICsfkSgK7DO2wOaQOSyeBiqELY2QxMPnCfQz5ly6Uzx2UDEhgk&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:965178%7C1634148&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkIlxEoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A965178%7C1634148"
+                },
+                {
+                    "title": "Long Sleeve",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSttd5BJc94zuL3g6J8psD0ZngvLzb5z7Hbq7GDZrxyI0jfLrExS0vvrOSY4wIlTuukPvc7biiVSFskIbBhJttFAaSpHz1DmNXLPhiali7aPu_TYrWz1cM5jg&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:2613473%7C2613474&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkImhEoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A2613473%7C2613474"
+                },
+                {
+                    "title": "Casual",
+                    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTIxkHSww9AyIXmQwhXNSFV2RGofY4ckMdEPh3qk8VszdXYPXMsWQLiLKyvde0oS68aAi7HH5azanEw7EDjFEjTGUFH2ra0a7LywgvxeG-z&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:6801767%7C6803584&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkInREoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A6801767%7C6803584"
+                },
+                {
+                    "title": "Solid",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSJzIVL6xoKXQWWmVUaLyfNHDrw8yoHi2eQQVmra7c1C2hzpE4QRWI9XnLgwP6NWqzM7yccF3Sv80Zv-MUseDojCSVkmjqR5fg2AqmAzHDh7oMn0nz-8PbaLw&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:1016644%7C7832083&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkIoBEoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A1016644%7C7832083"
+                },
+                {
+                    "title": "Round Neck",
+                    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSaSWi56IhXOWsSMPSGbv3MWVpvdJUUyxasA_QuQF3n8ztGVrnRwcVq3eZ14Xhlnbi2nvOlOSac4qJuFZoFZQsW5TBW0yP492hJhLaO6yH_ostD3ZDbQT4-&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:2613451%7C2613453&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkIoxEoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A2613451%7C2613453"
+                },
+                {
+                    "title": "Cotton",
+                    "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTG_CnFWdD4Jxt6Trggtf0zPYXz-X-WxgGeXnuf_1LSBjTHDR5nyB2NgHYvfj9g1HVEvd5tkXTSnckz4ei8AJ-gpTuA4nOiVwvyui6dLhw-H9mObdliiKYf&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:965178%7C965397&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkIphEoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A965178%7C965397"
+                },
+                {
+                    "title": "Button Up",
+                    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGCjv82uN4pKcImj6Rfy4nA1uRwyRsB5Lg7BVJdvzMITfIDx-5LBnHzxG3q5RECPP-gH_jfv-DuuESjn7byjuwahaq54dzPxgX6aHDvNcR&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:2154444%7C2154445&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkIqREoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A2154444%7C2154445"
+                },
+                {
+                    "title": "Collared",
+                    "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQts3YvT7pwYYvkuYIp8anj0C1IxezhlaDnGCh1UaZ17cj0tg0ahtaez0-vN3eenJhln7tACfLBUsyloqjRGJwHug0PAsFBt7gTC3lec_pWOrtiCKrPnU95&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:2613451%7C2613461&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkIrBEoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A2613451%7C2613461"
+                },
+                {
+                    "title": "Cotton Blend",
+                    "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTZ-TOd3U31aViMnsrYDKgYqzyl2FPnWCKY5Sm36y7sHqjGXrZgyBkxAbSNnc6NETp_dkpBbIFSQV0W1xnNCjItvDbJMlyaEgHYPeCW4BilGK8nULmWRHtf&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:965178%7C1634130&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkIrxEoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A965178%7C1634130"
+                },
+                {
+                    "title": "SHEIN",
+                    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS2L8gLA0lHMH91ndO7ZhfZmYxLGMvYyljyCvxN8cc0u9rgpEmU7vJDdij6G_qZdqSk6Lyu_hCLJ13SlXGkO4HoIYVIRwU-We6imrOcu02J&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:997763%7C1693290&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkIshEoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A997763%7C1693290"
+                },
+                {
+                    "title": "V-neck",
+                    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSyXoiffgfuWlMt1U8GJCLyl8QMfld6YU9wo8nP2spaunCkWivQMCiBQlSTysCTmooEUrareyWBHHqm-PqmWyQHatgxJOVjbYuABN-7gEr_3ebMCibRyYP0&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:2613451%7C2613455&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkItREoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A2613451%7C2613455"
+                },
+                {
+                    "title": "Spandex",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTzFah5AZCg5YEFiWwDo3-bOXSCiBVouXDpV73sMhRZKwXSdmmdkDQpoRVeH8wjETQzTnv8MhwVmzibOi5vUjQw4o-t_C_H8wSsILh8OeCNg5ZQPDrHu3tc&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:965178%7C1634155&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkIuBEoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A965178%7C1634155"
+                },
+                {
+                    "title": "Slim",
+                    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQsAfLnBhQULGIMxozqKny_Wk7Jimo9AFaiAkTMJ1OXcOux8ffz5tbff8CJGIouVfj25XgBcmo5780FRKJlTxfD_Qsj_DRtsDdA7kLS8AI&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:6882371%7C6882526&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkIuxEoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A6882371%7C6882526"
+                },
+                {
+                    "title": "Summer",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRJGu8xiT_gQ_C9OA9ot7wHUDSAzNtvfQ1xrbA4gA9YicfgCdwudhp6kVq7p2dlX2-L0aQ2l6lrsAOWCWhkeaR6FTpNKWaKoyV8agKAw_qz&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:6802922%7C6803484&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkIvhEoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A6802922%7C6803484"
+                },
+                {
+                    "title": "Oversize",
+                    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTMYahFm84nUPwtwvZgO7Nwl3BvbgS6yrZyj7zaJDTZDrjNUG3EFd-FfjqI1PbVr0kpg7m9GhPtQyoXAwCbItEhq5JL_2Oao94nryarDjVBIuMoExrOh2UqiA&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:6882371%7C6882475&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkIwREoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A6882371%7C6882475"
+                },
+                {
+                    "title": "Rayon",
+                    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRiIWfX1dXBCgjt8zzLYUnhhfPPEdDOJJtN2EKNYCRMwU4xaTKERol90whgMeg_t5q2hOF-izGyBCFsBAU8lZQGJGrGn0Iob-XZ3qjVgWxVBi0Gh6euGQKPKg&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:965178%7C1634149&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkIxBEoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A965178%7C1634149"
+                },
+                {
+                    "title": "Jersey",
+                    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTp98mrKkGYHmmRQa0if8wl7B4-is3F49lqJWFGZ3yJ20xcyifZ_IcF6FCMIW0LnHRgYGaaHvKLOFhctdo2sFxwGTimI62fpVbo5-FQak9X&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:965178%7C1634140&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkIxxEoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A965178%7C1634140"
+                },
+                {
+                    "title": "Pullover",
+                    "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQBZdyFXGxargR0d2L31y1ikBIYY2szve7iJxFRkjCk-xiYrr0E3M8hn1Jr5OfC6v2E-VzpRoW5iPasQIvChLMWVSEyqc9VIGFwsfKLmTqQ&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:2154444%7C6803280&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkIyhEoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A2154444%7C6803280"
+                },
+                {
+                    "title": "Spring",
+                    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTU6JxjBe9dizaumuurhXwiZoQxq7Yw1K5EdT71XzU-LuoB20H9-tzjInrKT0ZR1aqJL1jlN6GSh46Fxpc1imLSr0ERVfVsEJZ6_4dicepr&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:6802922%7C6803483&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkIzREoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A6802922%7C6803483"
+                },
+                {
+                    "title": "Relaxed",
+                    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS5OvFxWRoMWDXNSErdgGASgJq48z3E75p_YNkkkm_g0ODPRpUiGThATHZvQyW9WA6iCZiNA_jS4NTWrdBHIy9KHVgqsaHK-Truk8SbMoIh&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:6882371%7C6882414&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkI0BEoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A6882371%7C6882414"
+                },
+                {
+                    "title": "Mesh",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQTi-z6CM9jabofxz9x1tZ5HRv26RwFdmaaLIMUFm4WOS49mhca964-WYukz_hp99CzEDkWGowVTFhwtXJAr4bVT_4Z2XwxrEJyGjV0Uh4XJ9lGIMSWzuUrYg&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:965178%7C1634141&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkI0xEoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A965178%7C1634141"
+                },
+                {
+                    "title": "Winter",
+                    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQBCsTKaNvhnMVqap9M5GDEt1VvUL_xlm0ydUGFDH-wjpD7Q02Hm3U1Ze1NnwX4dOKdR2TGrIaf1_Eanokc4aeOceMRasyJBfZA_2kIMcW6AmRMjEqGc_5xxw&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:6802922%7C6802924&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkI1hEoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A6802922%7C6802924"
+                },
+                {
+                    "title": "Fall",
+                    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQdZPZMxVV-ON0FujqTC3jk8RZlRzRQbsNzoTcvJBEWZpQM0z0WGaMawH-g0SfoQ2xFe3eYRYLJToROrhiNJu-5dZkKNYrCeopfJFrux3k&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:6802922%7C6802923&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkI2REoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A6802922%7C6802923"
+                },
+                {
+                    "title": "High Neck",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSvCEzUdoY5BU3m6SasKr4YQ77vy16aF3SXE9QS9u5Yo7uzCTaAf_n8M0ejNyGNNnyZtDjLPfJS7mMaFAFFgZ6IVMTkXVyfSvT7kyj9oBHrmoP270mwVaDpuQ&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:2613451%7C2753533&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkI3BEoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A2613451%7C2753533"
+                },
+                {
+                    "title": "Formal",
+                    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQZ7fiw2ejSMA9FZvaMC-XcCtMQrM10MEKd_Dt9-zt5mooRBlBF7BWXpkNIXY91N29LEs2-c7M22WIi6dtxKQouB5O53Og0OvhF34kp_Irw&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:6801767%7C6803686&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkI3xEoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A6801767%7C6803686"
+                },
+                {
+                    "title": "Zipper",
+                    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQh5q9tpVcCjoIWWgl8Ky2gUN24lQFLMzELR4D0VPk0w_yK2MVPsJK1va1wWZYTjd2C9RoHQubaQSLjrF1dPQ5mvu8M_pAd6UrTDIaCWjw&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:2154444%7C2154447&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkI4hEoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A2154444%7C2154447"
+                },
+                {
+                    "title": "Snap",
+                    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRYOB9NuwWSe41qSoO-lvBiIyo-g_B3cM9fTA8PSudvbhnk31SGF2ueEllHdlmiXePiMyQ68RN31LdWmqzCyERWMjL1qgFV1_4fhXnMUls&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:2154444%7C6844092&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkI5REoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A2154444%7C6844092"
+                },
+                {
+                    "title": "Floral",
+                    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS1RFRsilFzFBXDHBgo9EVUbj6S8b2FyWDX9OK2t2dieckc3QAjVEDVjxNc8TKlRUx2fs6FT925p8k8NdrhkQShActYe16dZpNMmQ2LebxK7UVirQ03RdtQWA&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:1016644%7C1016646&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkI6BEoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A1016644%7C1016646"
+                },
+                {
+                    "title": "Cap",
+                    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTqMQCwNP5XzUNLtoO0gU6GjFZK2I8rfykUPejTFb0xS-Yjfe12SsZj6jNYIR3Os-y9r2gIgijSFQ3FXmzwMELlEDoqu5zzbnS9jF5PuNo&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:7450434%7C7450435&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkI6xEoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A7450434%7C7450435"
+                },
+                {
+                    "title": "Puff",
+                    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQd_1fdonXnP2nJb9v7lAlV1iMMVf9dZ2Lj4Ey64A_JVO5iVMF6Av5ifv7pShpAL0Tumux3c1nIb1_yZrFbY4LCOKhQel5d5gtQnJsf_Wz0SF_uB-VYOWSMvw&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:7450434%7C7450436&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkI7hEoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A7450434%7C7450436"
+                },
+                {
+                    "title": "Bell",
+                    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRgot087efndr61u5yYyAiKkc9czeuovCmX5_sIq5W9urAaWINo2ZwcDFq6iKW2RFucYIIDabRVm5WabJFNQRSdKIY39BejYWaIQElgyq4&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:7450434%7C7450323&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkI8REoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A7450434%7C7450323"
+                },
+                {
+                    "title": "212 Collection",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSiFllqxUv4pBLNpkTMzAMDG_wMS7EcTK9z12f1WPniU9tQLbm0lt-bD1EZyCmPED7Wy9tN_Cdp_tR0FEWKd0utW45m9pwm8NvLTw81Xfc&usqp=CAE",
+                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&tbm=shop&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:997763%7C1002411908&sa=X&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQwQkI9BEoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A997763%7C1002411908"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=black+shirt+ebay+depop+mercari+poshmark&sca_esv=90804e148f55bbfd&tbs=vw:g&tbm=shop&ei=1RD_ZeGGFdXf5NoP7KipiAI&start=60&sa=N&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQ8NMDCIwS",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=black+shirt+ebay+depop+mercari+poshmark&sca_esv=90804e148f55bbfd&tbs=vw:g&tbm=shop&ei=1RD_ZeGGFdXf5NoP7KipiAI&start=60&sa=N&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQ8tMDCPwR",
+            "3": "https://www.google.com/search?q=black+shirt+ebay+depop+mercari+poshmark&sca_esv=90804e148f55bbfd&tbs=vw:g&tbm=shop&ei=1RD_ZeGGFdXf5NoP7KipiAI&start=120&sa=N&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQ8tMDCP4R",
+            "4": "https://www.google.com/search?q=black+shirt+ebay+depop+mercari+poshmark&sca_esv=90804e148f55bbfd&tbs=vw:g&tbm=shop&ei=1RD_ZeGGFdXf5NoP7KipiAI&start=180&sa=N&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQ8tMDCIAS",
+            "5": "https://www.google.com/search?q=black+shirt+ebay+depop+mercari+poshmark&sca_esv=90804e148f55bbfd&tbs=vw:g&tbm=shop&ei=1RD_ZeGGFdXf5NoP7KipiAI&start=240&sa=N&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQ8tMDCIIS",
+            "6": "https://www.google.com/search?q=black+shirt+ebay+depop+mercari+poshmark&sca_esv=90804e148f55bbfd&tbs=vw:g&tbm=shop&ei=1RD_ZeGGFdXf5NoP7KipiAI&start=300&sa=N&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQ8tMDCIQS",
+            "7": "https://www.google.com/search?q=black+shirt+ebay+depop+mercari+poshmark&sca_esv=90804e148f55bbfd&tbs=vw:g&tbm=shop&ei=1RD_ZeGGFdXf5NoP7KipiAI&start=360&sa=N&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQ8tMDCIYS",
+            "8": "https://www.google.com/search?q=black+shirt+ebay+depop+mercari+poshmark&sca_esv=90804e148f55bbfd&tbs=vw:g&tbm=shop&ei=1RD_ZeGGFdXf5NoP7KipiAI&start=420&sa=N&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQ8tMDCIgS",
+            "9": "https://www.google.com/search?q=black+shirt+ebay+depop+mercari+poshmark&sca_esv=90804e148f55bbfd&tbs=vw:g&tbm=shop&ei=1RD_ZeGGFdXf5NoP7KipiAI&start=480&sa=N&ved=0ahUKEwihxe3084qFAxXVL1kFHWxUCiEQ8tMDCIoS"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&start=60&tbs=vw%3Ag",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&start=60&tbs=vw%3Ag",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&start=60&tbs=vw%3Ag",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&start=120&tbs=vw%3Ag",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&start=180&tbs=vw%3Ag",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&start=240&tbs=vw%3Ag",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&start=300&tbs=vw%3Ag",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&start=360&tbs=vw%3Ag",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&start=420&tbs=vw%3Ag",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=black+shirt+ebay+depop+mercari+poshmark&start=480&tbs=vw%3Ag"
+        }
+    }
+}
