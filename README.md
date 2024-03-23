@@ -1,5 +1,5 @@
 # HooHacks24-FastFashion
-# *Name of App*
+# *GreenThreads*
 
 ## Overview
 The app focuses on providing eco-friendly shopping suggestions by analyzing links inputted by users. Its primary goal is to combat the environmental impact of fast fashion brands like Shein, H&M, Uniqlo, Romwe, and BOOHOOMAN by offering alternatives that help reduce the carbon footprint. The app aims to quantify waste reduction, track overall eco savings, and set goals for users to achieve more sustainable shopping habits.
