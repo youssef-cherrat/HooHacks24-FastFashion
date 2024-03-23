@@ -1,6 +1,7 @@
 
 from serpapi import GoogleSearch
 import json
+import scrape
 
 def write_results_to_file(search_term):
     # appending necessary platforms to search query
@@ -22,10 +23,23 @@ def write_results_to_file(search_term):
     with open('results.json', 'w') as f:
         json.dump(results, f, indent=4)
     print("Results written to file")
+def search_with_product_details(url):
+    # Get product details using the scraped data
+    product_details = scrape.scrape_product(url)
+    # Check if both name and color are found
+    if product_details['name'] and product_details['color']:
+        # Construct the search term using the product details
+        search_term = f"{product_details['color']} {product_details['name']}"
+        print(f"Search term: {search_term}")
+        write_results_to_file(search_term)
+    else:
+        print("Product details not found")
+
+
 
 def test_search():
-    search_term = input("Enter search term: ")
-    write_results_to_file(search_term)
+    url = input("URL: ")
+    search_with_product_details(url)
 
 if __name__ == "__main__":
     test_search()

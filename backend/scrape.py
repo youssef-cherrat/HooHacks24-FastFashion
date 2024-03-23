@@ -96,23 +96,25 @@ def scrape_product(url):
         
         # Passing the BeautifulSoup object (soup) directly to find_product_details without re-parsing
         product_details = find_product_details(soup)  # Edited comment: Simplified the process by directly using soup
-        
-        # Construct the response text
-        response_text = ''
-        if product_details['name']:
-            response_text += f'Name: {product_details["name"]}\n'
-        else:
-            response_text += 'Product name not found\n'
-        
-        if product_details['color']:
-            response_text += f'Color: {product_details["color"]}\n'
-        else:
-            response_text += 'Product color not found\n'
-        
-        return response_text.strip()
+        return product_details
     else:
-        return f"Failed to access: {response.status_code}"
+        print(f"Failed to access: {response.status_code}")
+        return {}
 
 if __name__ == '__main__':
     url = input('Enter URL: ')
-    print(scrape_product(url))
+    product_details = scrape_product(url)
+    
+    # Construct the response text based on the product_details dictionary
+    response_text = ''
+    if product_details.get('name'):
+        response_text += f'Name: {product_details["name"]}\n'
+    else:
+        response_text += 'Product name not found\n'
+    
+    if product_details.get('color'):
+        response_text += f'Color: {product_details["color"]}\n'
+    else:
+        response_text += 'Product color not found\n'
+    
+    print(response_text.strip())
