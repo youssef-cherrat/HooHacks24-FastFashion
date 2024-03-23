@@ -1,4 +1,3 @@
-
 import requests
 from bs4 import BeautifulSoup, Comment
 from selenium import webdriver
@@ -71,7 +70,6 @@ def find_product_details(soup):
     
     # Heuristic for product name
     for tag in ['h1', 'h2']:
-        print(tag)
         if not details['name']:
             name_tag = soup.find(tag)
             if name_tag:
@@ -82,7 +80,6 @@ def find_product_details(soup):
     # This function now directly receives the BeautifulSoup https://www2.hm.com/en_us/productpage.1096385001.htmlbject (soup) already parsed from the response content
     page_text = text_from_html(soup).lower()
     words = page_text.split()
-    print(words)
     for word in words:
         # Check for direct color match
         if word in known_colors:
@@ -109,23 +106,25 @@ def scrape_product(url):
         
         # Passing the BeautifulSoup object (soup) directly to find_product_details without re-parsing
         product_details = find_product_details(soup)  # Edited comment: Simplified the process by directly using soup
-        
-        # Construct the response text
-        response_text = ''
-        if product_details['name']:
-            response_text += f'Name: {product_details["name"]}\n'
-        else:
-            response_text += 'Product name not found\n'
-        
-        if product_details['color']:
-            response_text += f'Color: {product_details["color"]}\n'
-        else:
-            response_text += 'Product color not found\n'
-        
-        return response_text.strip()
+        return product_details
     else:
-        return f"Failed to access: {response.status_code}"
+        print(f"Failed to access: {response.status_code}")
+        return {}
 
 if __name__ == '__main__':
     url = input('Enter URL: ')
-    print(scrape_product(url))
+    product_details = scrape_product(url)
+    
+    # Construct the response text based on the product_details dictionary
+    response_text = ''
+    if product_details.get('name'):
+        response_text += f'Name: {product_details["name"]}\n'
+    else:
+        response_text += 'Product name not found\n'
+    
+    if product_details.get('color'):
+        response_text += f'Color: {product_details["color"]}\n'
+    else:
+        response_text += 'Product color not found\n'
+    
+    print(response_text.strip())

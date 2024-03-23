@@ -1,7 +1,7 @@
 
 from serpapi import GoogleSearch
 import json
-import scrape
+import colorscraper as scrape
 
 def write_results_to_file(search_term):
     # appending necessary platforms to search query
