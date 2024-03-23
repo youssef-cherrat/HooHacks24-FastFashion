@@ -4,7 +4,7 @@ import json
 
 def write_results_to_file(search_term):
     # appending necessary platforms to search query
-    full_search_query = f"{search_term} ebay depop mercari poshmark"
+    full_search_query = f"{search_term} ebay depop mercari poshmark realreal thredup"
     
     #set up parameters for api
     
@@ -20,7 +20,7 @@ def write_results_to_file(search_term):
 
     # write results to file
     with open('results.json', 'w') as f:
-        json.dump(results, f, indent=4)
+        json.dump(results["shopping_results"], f, indent=4)
     print("Results written to file")
 
 def test_search():

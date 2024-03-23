@@ -1,1734 +1,1222 @@
-{
-    "search_metadata": {
-        "id": "65ff13e1eb690f275b6c94ee",
-        "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/434c46e138866ff1/65ff13e1eb690f275b6c94ee.json",
-        "created_at": "2024-03-23 17:39:45 UTC",
-        "processed_at": "2024-03-23 17:39:45 UTC",
-        "google_shopping_url": "https://www.google.com/search?tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us",
-        "raw_html_file": "https://serpapi.com/searches/434c46e138866ff1/65ff13e1eb690f275b6c94ee.html",
-        "total_time_taken": 5.63
+[
+    {
+        "position": 1,
+        "title": "Women's Shirt - Black - M",
+        "link": "https://www.depop.com/products/leahluvsladybugs-tool-tee-super-cute-size/?srsltid=AfmBOopxpjbzbPkiXtivBursvLbGPLYKqxbdgrHXMHVKXQLxh3lUZavx6aY",
+        "product_link": "https://www.google.com/shopping/product/6330327226089053700?gl=us",
+        "product_id": "6330327226089053700",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=6330327226089053700",
+        "source": "Depop",
+        "price": "$19.60",
+        "extracted_price": 19.6,
+        "extensions": [
+            "$1.40 below typical",
+            "LOW PRICE"
+        ],
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSlFyr6wIqAja4qLVd3QsVFhm9O9g04l8OOF82SHkqLbdi7onakt8gi-LcO26UTs6lWodGKxF8fVDcbUEQRFAJc050WijmULWqyXPdHlJs&usqp=CAE",
+        "tag": "LOW PRICE",
+        "delivery": "$6.29 delivery"
     },
-    "search_parameters": {
-        "engine": "google_shopping",
-        "q": "leather jacket ebay depop mercari poshmark",
-        "location_requested": "United States",
-        "location_used": "United States",
-        "google_domain": "google.com",
-        "hl": "en",
-        "gl": "us",
-        "device": "desktop"
+    {
+        "position": 2,
+        "title": "Worn Short Sleeve Blouse: Black Tops - Women's Size X-Large, thredUP",
+        "link": "https://www.thredup.com/featured/163164916?department_tags=plus&referral_code=adwords_pla&srsltid=AfmBOopMB_0QeOPn41x7G_1rkfbfO2J4gmWOljdA3FpfGa6lSdgrJIdBfAU",
+        "product_link": "https://www.google.com/shopping/product/12122789220658666625?gl=us",
+        "product_id": "12122789220658666625",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=12122789220658666625",
+        "source": "ThredUp",
+        "price": "$7.49",
+        "extracted_price": 7.49,
+        "old_price": "$9.99",
+        "extracted_old_price": 9.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR1J9GvV32s50mEtPdIUC20ZmKIntJffkwCOEmVtPPFYxI-MZyG3xh51KRjgFi6n2IQFs4CqealVhzqt2O-aJ-_5Xa2ymOGhwh90tlX43gvoZVC0kGtlYg3Tw&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
     },
-    "search_information": {
-        "shopping_results_state": "Results for exact spelling",
-        "query_displayed": "leather jacket ebay depop mercari poshmark",
-        "location_detected": "United States"
+    {
+        "position": 3,
+        "title": "Shein Long Sleeve Blouse: Black Solid Tops - Women's Size Small, thredUP",
+        "link": "https://www.thredup.com/featured/163751467?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOooClcL3YgsGHpJaZvqIcitZBTvU5zSFnP8cCDXjSEFb7O4miCi9jAk",
+        "product_link": "https://www.google.com/shopping/product/1734780015315129050?gl=us",
+        "product_id": "1734780015315129050",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=1734780015315129050",
+        "source": "ThredUp",
+        "price": "$17.99",
+        "extracted_price": 17.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT8hIPQH5yCeFGWIi1wfBzu3lZaHI7KKcT3cTNe6pvXWWjFmt8AdnIga44sOIASfrMmwAbRwOGvipzJKSaG1R17mAtkcVZbUjig_ASdkflRuF5vs6hH0oJb&usqp=CAE",
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
     },
-    "filters": [
-        {
-            "type": "Show only",
-            "options": [
-                {
-                    "text": "On sale",
-                    "tbs": "mr:1,sales:1"
-                }
-            ]
-        },
-        {
-            "type": "Price",
-            "options": [
-                {
-                    "text": "Up to $25",
-                    "tbs": "mr:1,price:1,ppr_max:25"
-                },
-                {
-                    "text": "$25 \u2013 $40",
-                    "tbs": "mr:1,price:1,ppr_min:25,ppr_max:40"
-                },
-                {
-                    "text": "$40 \u2013 $60",
-                    "tbs": "mr:1,price:1,ppr_min:40,ppr_max:60"
-                },
-                {
-                    "text": "$60 \u2013 $100",
-                    "tbs": "mr:1,price:1,ppr_min:60,ppr_max:100"
-                },
-                {
-                    "text": "Over $100",
-                    "tbs": "mr:1,price:1,ppr_min:100"
-                }
-            ]
-        },
-        {
-            "type": "Color",
-            "options": [
-                {
-                    "tbs": "mr:1,color:specific,color_val:black"
-                },
-                {
-                    "tbs": "mr:1,color:specific,color_val:brown"
-                },
-                {
-                    "tbs": "mr:1,color:specific,color_val:beige"
-                },
-                {
-                    "tbs": "mr:1,color:specific,color_val:red"
-                },
-                {
-                    "tbs": "mr:1,color:specific,color_val:blue"
-                },
-                {
-                    "tbs": "mr:1,color:specific,color_val:purple"
-                },
-                {
-                    "tbs": "mr:1,color:specific,color_val:pink"
-                }
-            ]
-        },
-        {
-            "type": "Brand",
-            "options": [
-                {
-                    "text": "Wilsons Leather",
-                    "tbs": "mr:1,pdtr0:881052%7C2850115"
-                },
-                {
-                    "text": "Snap-on",
-                    "tbs": "mr:1,pdtr0:881052%7C1079149"
-                },
-                {
-                    "text": "First Manufacturing Company Inc.",
-                    "tbs": "mr:1,pdtr0:881052%7C2636167"
-                }
-            ]
-        },
-        {
-            "type": "Department",
-            "options": [
-                {
-                    "text": "Men's",
-                    "tbs": "mr:1,pdtr0:938026%7C938027"
-                },
-                {
-                    "text": "Women's",
-                    "tbs": "mr:1,pdtr0:938026%7C938028"
-                }
-            ]
-        },
-        {
-            "type": "Type",
-            "options": [
-                {
-                    "text": "Motorcycle Jackets",
-                    "tbs": "mr:1,pdtr0:4344494%7C4344499"
-                },
-                {
-                    "text": "Bomber Jackets",
-                    "tbs": "mr:1,pdtr0:4344494%7C4344507"
-                },
-                {
-                    "text": "Blazers",
-                    "tbs": "mr:1,pdtr0:4344494%7C4344496"
-                }
-            ]
-        },
-        {
-            "type": "Material",
-            "options": [
-                {
-                    "text": "Genuine Leather",
-                    "tbs": "mr:1,pdtr0:1642207%7C1642134"
-                },
-                {
-                    "text": "Polyester",
-                    "tbs": "mr:1,pdtr0:1642207%7C1642147"
-                },
-                {
-                    "text": "Faux Leather",
-                    "tbs": "mr:1,pdtr0:1642207%7C1642130"
-                },
-                {
-                    "text": "Genuine Suede",
-                    "tbs": "mr:1,pdtr0:1642207%7C1642135"
-                }
-            ]
-        },
-        {
-            "type": "Season",
-            "options": [
-                {
-                    "text": "Winter",
-                    "tbs": "mr:1,pdtr0:991215%7C991218"
-                },
-                {
-                    "text": "Fall",
-                    "tbs": "mr:1,pdtr0:991215%7C991217"
-                },
-                {
-                    "text": "Spring",
-                    "tbs": "mr:1,pdtr0:991215%7C991216"
-                }
-            ]
-        },
-        {
-            "type": "Fastener Type",
-            "options": [
-                {
-                    "text": "Coats & Jackets with Zipper",
-                    "tbs": "mr:1,pdtr0:2596873%7C2596875"
-                },
-                {
-                    "text": "Coats & Jackets with Buttons",
-                    "tbs": "mr:1,pdtr0:2596873%7C2596876"
-                }
-            ]
-        },
-        {
-            "type": "Size",
-            "options": [
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C1021391"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879020"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C2905247"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879021"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C2905248"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879022"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C2905249"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C7575117"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879023"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C2905250"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879024"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C2905251"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879025"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C7573479"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C2905252"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C7574707"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879026"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879027"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C7574590"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879028"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879029"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879030"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879033"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879034"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879041"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879043"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879045"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879047"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879049"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879051"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879053"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879055"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879057"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879058"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879060"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879065"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879066"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879067"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879068"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879069"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879070"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C1021392"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879071"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879072"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879073"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879074"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879075"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879076"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C4869430"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C4869431"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C4869432"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C4869433"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C4869434"
-                },
-                {
-                    "tbs": "mr:1,pdtr0:879019%7C879077"
-                }
-            ]
-        },
-        {
-            "type": "Pattern",
-            "options": [
-                {
-                    "text": "Floral",
-                    "tbs": "mr:1,pdtr0:1016622%7C1016624"
-                },
-                {
-                    "text": "Leopard",
-                    "tbs": "mr:1,pdtr0:1016622%7C1016625"
-                },
-                {
-                    "text": "Paisley",
-                    "tbs": "mr:1,pdtr0:1016622%7C1016631"
-                },
-                {
-                    "text": "Striped",
-                    "tbs": "mr:1,pdtr0:1016622%7C1016623"
-                }
-            ]
-        },
-        {
-            "type": "Length",
-            "options": [
-                {
-                    "text": "Waist",
-                    "tbs": "mr:1,pdtr0:6820285%7C6821053"
-                },
-                {
-                    "text": "Hip",
-                    "tbs": "mr:1,pdtr0:6820285%7C6814755"
-                },
-                {
-                    "text": "Crop",
-                    "tbs": "mr:1,pdtr0:6820285%7C6821054"
-                }
-            ]
-        },
-        {
-            "type": "Lining Style",
-            "options": [
-                {
-                    "text": "Full",
-                    "tbs": "mr:1,pdtr0:6857629%7C6858221"
-                },
-                {
-                    "text": "Unlined",
-                    "tbs": "mr:1,pdtr0:6857629%7C6857984"
-                }
-            ]
-        },
-        {
-            "type": "Sleeve Design",
-            "options": [
-                {
-                    "text": "Bell",
-                    "tbs": "mr:1,pdtr0:6802283%7C6803685"
-                },
-                {
-                    "text": "Puff",
-                    "tbs": "mr:1,pdtr0:6802283%7C6803074"
-                },
-                {
-                    "text": "Raglan",
-                    "tbs": "mr:1,pdtr0:6802283%7C6803176"
-                },
-                {
-                    "text": "Batwing",
-                    "tbs": "mr:1,pdtr0:6802283%7C6803634"
-                }
-            ]
-        },
-        {
-            "type": "Fit",
-            "options": [
-                {
-                    "text": "Oversized",
-                    "tbs": "mr:1,pdtr0:6803480%7C6803073"
-                },
-                {
-                    "text": "Relaxed",
-                    "tbs": "mr:1,pdtr0:6803480%7C6803736"
-                },
-                {
-                    "text": "Slim Fitted",
-                    "tbs": "mr:1,pdtr0:6803480%7C6803737"
-                }
-            ]
-        },
-        {
-            "type": "Neck Style",
-            "options": [
-                {
-                    "text": "V-neck",
-                    "tbs": "mr:1,pdtr0:6857526%7C6857628"
-                },
-                {
-                    "text": "Mock Turtleneck",
-                    "tbs": "mr:1,pdtr0:6857526%7C6858217"
-                },
-                {
-                    "text": "Shawl",
-                    "tbs": "mr:1,pdtr0:6857526%7C6857577"
-                },
-                {
-                    "text": "Turtleneck",
-                    "tbs": "mr:1,pdtr0:6857526%7C6857578"
-                },
-                {
-                    "text": "Crew",
-                    "tbs": "mr:1,pdtr0:6857526%7C6858215"
-                }
-            ]
-        },
-        {
-            "type": "Care Instructions",
-            "options": [
-                {
-                    "text": "Dry Clean",
-                    "tbs": "mr:1,pdtr0:6819719%7C6814031"
-                },
-                {
-                    "text": "Machine Wash",
-                    "tbs": "mr:1,pdtr0:6819719%7C6821052"
-                },
-                {
-                    "text": "Hand Wash",
-                    "tbs": "mr:1,pdtr0:6819719%7C6821051"
-                }
-            ]
-        },
-        {
-            "type": "Fill Material",
-            "options": [
-                {
-                    "text": "100% Down Fill",
-                    "tbs": "mr:1,pdtr0:6857510%7C6857870"
-                },
-                {
-                    "text": "100% Synthetic Fill",
-                    "tbs": "mr:1,pdtr0:6857510%7C6857610"
-                }
-            ]
-        },
-        {
-            "type": "Shipping",
-            "options": [
-                {
-                    "text": "1-3 day delivery",
-                    "tbs": "mr:1,shipspeed:3"
-                },
-                {
-                    "text": "Free shipping",
-                    "tbs": "mr:1,ship:1"
-                }
-            ]
-        },
-        {
-            "type": "Condition",
-            "options": [
-                {
-                    "text": "New items",
-                    "tbs": "mr:1,new:1"
-                },
-                {
-                    "text": "Used items",
-                    "tbs": "mr:1,new:3"
-                }
-            ]
-        },
-        {
-            "type": "Seller",
-            "options": [
-                {
-                    "text": "Depop",
-                    "tbs": "mr:1,merchagg:g510935342%7Cm511746530"
-                },
-                {
-                    "text": "Mercari",
-                    "tbs": "mr:1,merchagg:g126339810%7Cm126358573"
-                },
-                {
-                    "text": "Poshmark",
-                    "tbs": "mr:1,merchagg:g114427190%7Cm10517038"
-                }
-            ]
-        }
-    ],
-    "shopping_results": [
-        {
-            "position": 1,
-            "title": "avec Les Filles Jackets & Coats | Leather Jacket - avec Les Filles Moto Jacket ...",
-            "link": "https://poshmark.com/listing/Leather-Jacket--Avec-Les-Filles-Moto-jacket-6386e050e5460f74e98d2950?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/13199925244275150799?gl=us",
-            "product_id": "13199925244275150799",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=13199925244275150799",
-            "source": "Poshmark",
-            "price": "$70.00",
-            "extracted_price": 70.0,
-            "old_price": "$110.00",
-            "extracted_old_price": 110.0,
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRQjWsqkwBcAmfgzD6XeFw_s7hsgnRciuYhYBCVaK-utfD-Iq3LbFVe1e3NFOHpt79BXE_J06zqiTUguOJuKCqjcnXeUfgR5Q35RhSiawRN&usqp=CAE",
-            "tag": "SALE",
-            "extensions": [
-                "SALE"
-            ],
-            "delivery": "Delivery by Tue, Apr 2"
-        },
-        {
-            "position": 2,
-            "title": "Vintage Leather Jacket from The City | Color: Brown/Purple | Size: S | Pm ...",
-            "link": "https://poshmark.com/listing/Vintage-leather-jacket-from-the-city-65441828f644e51967c94a23?srsltid=AfmBOopg31-kJ5Wg6p7mzjyu-vU5Mh8Kh71B7kD8Xs4RtbAAUR7rBQqzhlE&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/4110258001099441186?gl=us",
-            "product_id": "4110258001099441186",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=4110258001099441186",
-            "source": "Poshmark",
-            "price": "$40.00",
-            "extracted_price": 40.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRQrMqKyydT3-VWxrkiy1UQtaym0QK6WJnsotVKLLmod2KcABDM0gftPRop4QykkZX0pHTTV0CN45AHyG4-y83k7S5sXn3VSyjAEgkInQUP&usqp=CAE",
-            "delivery": "Delivery by Tue, Apr 2"
-        },
-        {
-            "position": 3,
-            "title": "Vintage Leather Jacket | Color: Black | Size: S | Megwhelp's Closet",
-            "link": "https://poshmark.com/listing/Vintage-Leather-Jacket-6591f44956b2f823ee5491bd?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/6964491630969899194?gl=us",
-            "product_id": "6964491630969899194",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=6964491630969899194",
-            "source": "Poshmark",
-            "price": "$15.00",
-            "extracted_price": 15.0,
-            "old_price": "$35.00",
-            "extracted_old_price": 35.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRARysqEhgBQ8DKrBpJB4xYQUwSV1FrSAHrdaqNoGEsTgGjR70R-Bzny6RRYPYeiYXM6wXZAdzV_LWEw5ZIXzSepoXkZl1MYTm_t8yvAFc&usqp=CAE",
-            "tag": "SALE",
-            "extensions": [
-                "SALE"
-            ],
-            "delivery": "Delivery by Fri, Mar 29"
-        },
-        {
-            "position": 4,
-            "title": "Vintage Women's Leather Jacket - Black - XL",
-            "link": "https://www.depop.com/products/kensynfin-vintage-black-suede-jacket-with/?srsltid=AfmBOooDbw84zOL2uSuaUZTTDAt_OJWyF79z4qcTNQMvqDvlscL93-b8KIk",
-            "product_link": "https://www.google.com/shopping/product/12288512297779831196?gl=us",
-            "product_id": "12288512297779831196",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=12288512297779831196",
-            "source": "Depop",
-            "price": "$60.00",
-            "extracted_price": 60.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQaeC-w8o3T7c6tvSm8zHYF2Ufm1fANgAli2pSkAGZ3DrlXaXMN0A-Puw0SgTU5rxULOeCLEgugkuz231rylxiVHfcYwHta4qo-_uM5UZF6&usqp=CAE",
-            "delivery": "$10.99 delivery"
-        },
-        {
-            "position": 5,
-            "title": "Parasol Jackets & Coats | Vintage Genuine Leather Jacket | Color: Brown/Red ...",
-            "link": "https://poshmark.com/listing/Vintage-Genuine-Leather-Jacket-5ede5bec60fdeda6e1b00e93?srsltid=AfmBOoqzVguyEpzn_hJtV3VR1PRM22nFfBf-Z-gLWHqxKG8hkNIv16CgJu4&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/5821031049589222247?gl=us",
-            "product_id": "5821031049589222247",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=5821031049589222247",
-            "source": "Poshmark",
-            "price": "$25.00",
-            "extracted_price": 25.0,
-            "old_price": "$35.00",
-            "extracted_old_price": 35.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSUZouROaRvsRq-xKX76nZ6ux8Bm9BuvT4dDL9I0Hfnh-ZNxDP_aJ8XO0-eDMqgPU6P5D_Dnsaa_vwEablwpvWAxf0h4Xr_qmbGcbCq1T-ZnlIgVcaCI5e&usqp=CAE",
-            "tag": "SALE",
-            "extensions": [
-                "SALE"
-            ],
-            "delivery": "Delivery by Wed, Apr 3"
-        },
-        {
-            "position": 6,
-            "title": "Laundry by Shelli Segal Jackets & Coats | Laundry Brown Genuine Leather Jacket,S ...",
-            "link": "https://poshmark.com/listing/Laundry-brown-genuine-leather-jacketS-6510d2c1382db8646a971823?srsltid=AfmBOorOhQ4e8sM3Gb1hjAAaoNycgkRk9nDTILzVnzCjIYHlMBKdZqd2Xz4&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/7756745587599388312?gl=us",
-            "product_id": "7756745587599388312",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=7756745587599388312",
-            "source": "Poshmark",
-            "price": "$40.00",
-            "extracted_price": 40.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS85PMC8CAy3HLfmAVi0y2Klx_FoOYI756DZRhw-AT2NPGUxWf23r5tNHxHliXZeXezvlT7wWCtKbRUDLL-aG4vqFbYjI9nR4P-lpJWOTWu&usqp=CAE",
-            "delivery": "Delivery by Tue, Apr 2"
-        },
-        {
-            "position": 7,
-            "title": "Snap-on Leather Jacket - Men | Color: Black | Size: XL",
-            "link": "https://www.mercari.com/us/item/m98412829948/?srsltid=AfmBOoqGCZ7PrQLgph_XiRK2LW8D5aGE5Oi7FqK36qq0IxKoxNDEfOq_Wbs&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
-            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:4923670060705386652",
-            "product_id": "4923670060705386652",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=4923670060705386652",
-            "source": "Mercari",
-            "price": "$150.00",
-            "extracted_price": 150.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRuMAPL3VsGFW2adgvtnnQTZ6peQBzaBICbaEtzHeB3mKCaEa41Vmwj-m6FyPfK2Akzv-yHs1DQpU1nVejIs461WCYFUkscU7fPp7Shwpo&usqp=CAE",
-            "delivery": "$24.97 delivery"
-        },
-        {
-            "position": 8,
-            "title": "Bke Jackets & Coats | Bke Leather Jacket | Color: Black | Size: XS ...",
-            "link": "https://poshmark.com/listing/BKE-leather-jacket-61f21080163df4ea99129289?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/16248844864783599548?gl=us",
-            "product_id": "16248844864783599548",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=16248844864783599548",
-            "source": "Poshmark",
-            "price": "$45.00",
-            "extracted_price": 45.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRZxlxya0cGwrv_z0OJ3ARn1lZjlLF9ySdyLxzjMxGfL_ynpbMAu-2TlvijFBThf8OY6XyiPueqd6aykZozjMbNIZRT6mTCThxY2befIJA&usqp=CAE",
-            "delivery": "Delivery by Wed, Apr 3"
-        },
-        {
-            "position": 9,
-            "title": "Genuine Leather Jacket | Color: Black | Size: S | Spellarisha's Closet",
-            "link": "https://poshmark.com/listing/Genuine-leather-jacket-633da1641741bedcc4a6de18?srsltid=AfmBOorM7JdMA9pN-CaCCXIhSQiUe9rBb7Oa42Il6s0LWn1sYHvHjz9CpwQ&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/17051908043930032297?gl=us",
-            "product_id": "17051908043930032297",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=17051908043930032297",
-            "source": "Poshmark",
-            "price": "$45.00",
-            "extracted_price": 45.0,
-            "old_price": "$55.00",
-            "extracted_old_price": 55.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTDhfZzDwJv0oKtDJpB_go-Y_W6mRzlZW9isldym2yRBeeIgwIIOPUiArWSTAeuA3uQ_Y-HhLNw7fHTDXhVQMQbVt9g2SZ7gZRJGr6SFIA&usqp=CAE",
-            "tag": "SALE",
-            "extensions": [
-                "SALE"
-            ],
-            "delivery": "Delivery by Fri, Mar 29"
-        },
-        {
-            "position": 10,
-            "title": "Leather Jacket Black | Color: Black | Size: 14W | Pm-71110395's Closet",
-            "link": "https://poshmark.com/listing/Leather-jacket-black-64e93dc1a0aeb7fe86fb1856?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/4784147917964691008?gl=us",
-            "product_id": "4784147917964691008",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=4784147917964691008",
-            "source": "Poshmark",
-            "price": "$65.00",
-            "extracted_price": 65.0,
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS5NaPqljvWpKM3RzoHQIOYrdZyCDA2D6fAqNjJYlumZ8_aeXV96M8QzD9iu44iTM8bMyI-51f-_D4ehAe3Z5VzOUec0HVFiCvpq0Ac70Ro&usqp=CAE",
-            "delivery": "Delivery by Fri, Mar 29"
-        },
-        {
-            "position": 11,
-            "title": "Last Kiss Jackets & Coats | Leather Jacket | Color: Brown | Size: S ...",
-            "link": "https://poshmark.com/listing/Leather-jacket-5ed6fce2ae766fcb9ab26a16?srsltid=AfmBOopO7Wfqd4etMUzYXtFS2C8mfk8mj1U90LDivKNdHpnUyVAutw-rcmU&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/13648275398614909702?gl=us",
-            "product_id": "13648275398614909702",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=13648275398614909702",
-            "source": "Poshmark",
-            "price": "$32.00",
-            "extracted_price": 32.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQPt63UKYAFB7JM1umnaX6183yfcq_bcGn5tmGGmUfMvmEG1DmizOLCOZ8NPv0ph2W_v713vynXJoCcxcxj3U02QTrZK-sI3G8jmHHyAnOR&usqp=CAE",
-            "delivery": "Delivery by Tue, Apr 2"
-        },
-        {
-            "position": 12,
-            "title": "Burgundy Leather Jacket | Color: Black | Size: S | Cmg1019's Closet",
-            "link": "https://poshmark.com/listing/Burgundy-leather-jacket-5e32628179df27d6f3c349bf?srsltid=AfmBOoosPDcEWUPYnER58TipcLAg2RUgMviJThG13tOerleAXBgPOLOk0QA&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/6785213062411566643?gl=us",
-            "product_id": "6785213062411566643",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=6785213062411566643",
-            "source": "Poshmark",
-            "price": "$25.00",
-            "extracted_price": 25.0,
-            "old_price": "$50.00",
-            "extracted_old_price": 50.0,
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTD6ZuSwAT6R_5xzjNQq_WGPPCcPqLOHZk9qfXtoOE9D_4I3CWxlp0OI_LAwm1kzkRcbzK07PM3rjHQl0WQEbUtbavHWApK0JVDaQcGnes&usqp=CAE",
-            "tag": "SALE",
-            "extensions": [
-                "SALE"
-            ],
-            "delivery": "Delivery by Mon, Apr 1"
-        },
-        {
-            "position": 13,
-            "title": "Vericci Jackets & Coats | Vericci Leather Jacket | Color: Black | Size: S ...",
-            "link": "https://poshmark.com/listing/Vericci-Leather-Jacket-5ea0bb5e81a36c73f6316dfc?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/5327150782278116375?gl=us",
-            "product_id": "5327150782278116375",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=5327150782278116375",
-            "source": "Poshmark",
-            "price": "$40.00",
-            "extracted_price": 40.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSfWjsy4fdHk-kJ5WpOFVDL84Vsobh7W2EYE4-JBDsXsRjLFD2JtiRFWQugCaLgMlb-UlZNZTBh_tZn3sSdpx3KKlzv2U2f63IlS8ts2Wc&usqp=CAE",
-            "delivery": "Delivery by Mon, Apr 1"
-        },
-        {
-            "position": 14,
-            "title": "Preloved Women's Leather Coat - Purple - L",
-            "link": "https://www.depop.com/products/kaitobaby-iman-leather-moto-zip-up-purple/?srsltid=AfmBOoo9MdoUGv0ibqAZdYWRsZY-k4l-1plF1t-ekzKmjf-ZmsR02lXuAWs",
-            "product_link": "https://www.google.com/shopping/product/9815324264540631176?gl=us",
-            "product_id": "9815324264540631176",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=9815324264540631176",
-            "source": "Depop",
-            "price": "$30.00",
-            "extracted_price": 30.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRarBl-dk_w7KDKX02LuLMGHFDaOkhiP6lp3QfQ6VuRcKhXrxqXfnwvBjCPBgVnjxrmfLxXj1-HKXRP8N-aGF2_arBjLsyPHaLNOb5EJE-_rwGBrzIKArvz&usqp=CAE",
-            "delivery": "$10.99 delivery"
-        },
-        {
-            "position": 15,
-            "title": "Vintage Jackets & Coats | Vtg 1960\u2019s Genuine Leather Jacket | Color: Brown | Size ...",
-            "link": "https://poshmark.com/listing/VTG-1960s-Genuine-leather-jacket-6430ec4d4bd760c219f67ffd?srsltid=AfmBOop5lI4N4i0j_Tsf3a7xu07wSkVh2ATN60YRYhK3GmsFS-ymRIQSI40&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/6005984573422957914?gl=us",
-            "product_id": "6005984573422957914",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=6005984573422957914",
-            "source": "Poshmark",
-            "price": "$45.00",
-            "extracted_price": 45.0,
-            "old_price": "$80.00",
-            "extracted_old_price": 80.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7kuoFvo6junSQvaNgdNrprWR3CQQFm7o3Tz1pfb2Yiv4o77ZEm9fhNnrG9l8ylsoFTCjJ3sJB5ZefapoE1TolWIqwAhP-Dy66KzrngQ0&usqp=CAE",
-            "tag": "SALE",
-            "extensions": [
-                "SALE"
-            ],
-            "delivery": "Delivery by Mon, Apr 1"
-        },
-        {
-            "position": 16,
-            "title": "MLC Jackets & Coats | Black Leather Moto Jacket | Color: Black | Size: M ...",
-            "link": "https://poshmark.com/listing/Black-leather-moto-jacket-58cc5f3378b31c96f004411e?srsltid=AfmBOordEkZNubkJ6wcPJCP80idvvTI5QWe7gc0UgCP3e1Hq-AzB4SoABrM&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/17985553000446007502?gl=us",
-            "product_id": "17985553000446007502",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=17985553000446007502",
-            "source": "Poshmark",
-            "price": "$22.00",
-            "extracted_price": 22.0,
-            "old_price": "$25.00",
-            "extracted_old_price": 25.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQaLsT_JFVvE0s_2v7crfPqbmcQDp80Yh_T7_s9PdDE-XL0WDW_Mj3BLhICgOr5ZXblen7wEfoE6NoJR_APuUH_etBqszsJU41Tu8Lt3fs6THVydxFe6dJuDg&usqp=CAE",
-            "tag": "SALE",
-            "extensions": [
-                "SALE"
-            ],
-            "delivery": "Delivery by Fri, Mar 29"
-        },
-        {
-            "position": 17,
-            "title": "Who What Wear Jackets & Coats | Who Shat Wear Leather Jacket | Color: Black ...",
-            "link": "https://poshmark.com/listing/Who-Shat-Wear-Leather-Jacket-6007005009d760bb025236de?srsltid=AfmBOopk6CnJNUzNalHy7eqVr7vdiFbrXBhn0hxMdqehLugao18-3PC9zpQ&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/5214659044270450937?gl=us",
-            "product_id": "5214659044270450937",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=5214659044270450937",
-            "source": "Poshmark",
-            "price": "$20.00",
-            "extracted_price": 20.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSkN9dU_DCmFiJ1hrhxv7G2WLpgixKUnM9TLwxySXgJpNL0dwi9tcs6kJol2polkNjp_0efDdHT6gKmLIxbZq5TmKyfiEwsXPDBIg-5IYiE&usqp=CAE",
-            "delivery": "Delivery by Fri, Mar 29"
-        },
-        {
-            "position": 18,
-            "title": "Leather Jacket | Color: Black | Size: L | Cappuccinokitty's Closet",
-            "link": "https://poshmark.com/listing/leather-jacket-56d11111ea3f3604cc011282?srsltid=AfmBOoofx62KNlNrF4Y4PDUCFId0yWPDmD0Bp1NIJHiOOhKWd67By607UAg&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/9807272940970285372?gl=us",
-            "product_id": "9807272940970285372",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=9807272940970285372",
-            "source": "Poshmark",
-            "price": "$22.00",
-            "extracted_price": 22.0,
-            "old_price": "$30.00",
-            "extracted_old_price": 30.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQhp69gn1VQbkCmc-gSKn_V0RVfXEwGdwHs8KTfDIbXu9g6hdYCSRP8BTmDgZDrUXBbHUW4csJgswTldwPMHR8w9lekJ6VKmWJrStatW_s&usqp=CAE",
-            "tag": "SALE",
-            "extensions": [
-                "SALE"
-            ],
-            "delivery": "Delivery by Fri, Mar 29"
-        },
-        {
-            "position": 19,
-            "title": "Leather & Soul Jackets & Coats | Men's Vintage Leather & Soul Genuine Black ...",
-            "link": "https://poshmark.com/listing/Mens-Vintage-Leather--Soul-Genuine-Black-Leather-Jacket-Size-Large-65bfe3cb6cb7771a5805f1ac?srsltid=AfmBOopSosZzQ4jPTD1YXtAgUNvWW_X9E1Zd59231o-60lTZAsnCvmfTTtM&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/802186503437120533?gl=us",
-            "product_id": "802186503437120533",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=802186503437120533",
-            "source": "Poshmark",
-            "price": "$20.00",
-            "extracted_price": 20.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ0NAFW120HsnfIY0Sypz2hNQglDT07UJHDqP1kuqAkho2EObEtBZjmcmwbgQwws8FSFJOp4VqBkgdAa1gGx21aZ753tjAwQg5DyYofnKze&usqp=CAE",
-            "delivery": "Delivery by Fri, Mar 29"
-        },
-        {
-            "position": 20,
-            "title": "Classic Black Leather Driving Jacket | Color: Black | Size: 8 | Rcallman's Closet",
-            "link": "https://poshmark.com/listing/Classic-Black-Leather-Driving-Jacket-64aa025fc9a2285878d85c24?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/12021373281738090833?gl=us",
-            "product_id": "12021373281738090833",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=12021373281738090833",
-            "source": "Poshmark",
-            "price": "$35.00",
-            "extracted_price": 35.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRnabBt25VBpg3PiiAR8tNzYUaaIaRR_X_tHPDteO-t54d7ZKiTM4waI5bhVMo0egruuuyJi80vYDap32JqTXR_U-CZvG0i-aBpkzmZZnY&usqp=CAE",
-            "delivery": "Delivery by Thu, Mar 28"
-        },
-        {
-            "position": 21,
-            "title": "Giii Jackets & Coats | Vintage Giii Leather Jacket | Color: Black | Size: M ...",
-            "link": "https://poshmark.com/listing/Vintage-GIII-Leather-Jacket-5d229d7d7f617ff3bc921821?srsltid=AfmBOorNCXSvX8IsewCkYauW2wkGwGyQEBgXyaR9nlTM0J3ciG8ywIF4huE&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/7906573570294749275?gl=us",
-            "product_id": "7906573570294749275",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=7906573570294749275",
-            "source": "Poshmark",
-            "price": "$30.00",
-            "extracted_price": 30.0,
-            "old_price": "$40.00",
-            "extracted_old_price": 40.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQCJnU7UayxIKT3cg614BHs4Gym0crg0IhsdSZK_U9Wr5MMGDHofM6y95bpxfGluUl46rFjXLhwPBHn8JFPWcT0HL_-IGCTt9CHuV3v17lC&usqp=CAE",
-            "tag": "SALE",
-            "extensions": [
-                "SALE"
-            ],
-            "delivery": "Delivery by Fri, Mar 29"
-        },
-        {
-            "position": 22,
-            "title": "First Genuine Leather Jackets & Coats | Vintage Men\u2019s Thick Biker Jacket Size 42 ...",
-            "link": "https://poshmark.com/listing/Vintage-mens-thick-biker-jacket-size-42-Some-minor-fading-on-jacket-Classic-65c2f3348634cb1769515e2d?srsltid=AfmBOorRpPhJ-4oz77H4GYT8L1XNfGtf0o8_XHlkyUBGIUoNLYl966CAyVQ&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/16652414338718774200?gl=us",
-            "product_id": "16652414338718774200",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=16652414338718774200",
-            "source": "Poshmark",
-            "price": "$135.00",
-            "extracted_price": 135.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQGDO4o518yoe-2CqrBje6j5-okVuLHvoACGMjfZhsKFJmSKcmykdEfFpTHsDAcuetqduEhcyRhzagKzFs6FE3KRP0ySGOdHAEBkp-ujMg&usqp=CAE",
-            "delivery": "Delivery by Thu, Mar 28"
-        },
-        {
-            "position": 23,
-            "title": "Y2K Genuine Leather Jacket | Color: Tan | Size: L | Throwingoutfits's Closet",
-            "link": "https://poshmark.com/listing/Y2K-genuine-leather-jacket-627590183a0db95a13f0d26c?srsltid=AfmBOoqOu5VO8vKAkxt4Qe7PA4vKssgoTE0bt_fDzyKasVbcTrDbU_Ds5DA&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/14361620220599675293?gl=us",
-            "product_id": "14361620220599675293",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=14361620220599675293",
-            "source": "Poshmark",
-            "price": "$85.00",
-            "extracted_price": 85.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQIKAv3ZSLX3B1G_Pw1OrF4vfXfYpdttPLWwe66Oz_y8YmTTT5LSLGBVqed1KdfGb62xlgrGzCK0zz8ixVggJdJDhFlCsyduJjwiZavpwOK&usqp=CAE",
-            "delivery": "Delivery by Fri, Mar 29"
-        },
-        {
-            "position": 24,
-            "title": "Joujou Jackets & Coats | Joujou Leather Jacket | Color: Tan | Size: L | Amorris13 ...",
-            "link": "https://poshmark.com/listing/Joujou-leather-jacket-61ddcd8eae766f0eada7fa60?srsltid=AfmBOoocsz43-uklgGzCSh4waLfUEtC8iLO0D2jHCWMjmzKot3gdtmk7orU&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/892767556231183259?gl=us",
-            "product_id": "892767556231183259",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=892767556231183259",
-            "source": "Poshmark",
-            "price": "$25.00",
-            "extracted_price": 25.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcShAcVjJMpw_XquMoeSRuq2ZiKhFtRlgLVRIyK35ntmwPHCCrNUqKSW1kblRgNnJQl0XTrCTINyKC5Lu8Vgbl15cBzLgXcixr7WicnsRgzY&usqp=CAE",
-            "delivery": "Delivery by Tue, Apr 2"
-        },
-        {
-            "position": 25,
-            "title": "Vintage Jackets & Coats | Red Leather Jacket | Color: Red | Size: S | Smartell120 ...",
-            "link": "https://poshmark.com/listing/Red-leather-jacket-571014b94e8d17291300c96b?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/13564257572262516118?gl=us",
-            "product_id": "13564257572262516118",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=13564257572262516118",
-            "source": "Poshmark",
-            "price": "$45.00",
-            "extracted_price": 45.0,
-            "old_price": "$60.00",
-            "extracted_old_price": 60.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRvG3D-sgQeCWWAeXBZBOrsd7hescbXuivZFBJbqSHl-YnxOdLoa5L1QX5p-Ecgf5EkQhxw70SHCujmzL6kFuEbqZ0bgvBucHts5LAZ4eui&usqp=CAE",
-            "tag": "SALE",
-            "extensions": [
-                "SALE"
-            ],
-            "delivery": "Delivery by Mon, Apr 1"
-        },
-        {
-            "position": 26,
-            "title": "Black Leather Jacket Small Nwt | Color: Black | Size: S | Sonya_Sells's Closet",
-            "link": "https://poshmark.com/listing/Madam-Brand-Top-Grain-Lambskin-Leather-Italian-Mosaic-Design-womens-size-small-64c689b24bf9ffa0488fb98d?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/13590900368589213033?gl=us",
-            "product_id": "13590900368589213033",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=13590900368589213033",
-            "source": "Poshmark",
-            "price": "$50.00",
-            "extracted_price": 50.0,
-            "old_price": "$80.00",
-            "extracted_old_price": 80.0,
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRqnwp8Aa4BxcxK9melIKPmz3-AAGVpBxknoa1sMYBI2wdlcfedNK1xwLK_UbutSCBO4FIweXvzAoCf4IkGxR1oQVNxAO6iwCiJw-wssso&usqp=CAE",
-            "tag": "SALE",
-            "extensions": [
-                "SALE"
-            ],
-            "delivery": "Delivery by Fri, Apr 5"
-        },
-        {
-            "position": 27,
-            "title": "FZ Merchandise Jackets & Coats | Rare FZ Merchandise Genuine Leather Jacket ...",
-            "link": "https://poshmark.com/listing/RARE-FZ-merchandise-genuine-leather-jacket-discontinued-64320b09fed51f89742ff289?srsltid=AfmBOor5Ybq22_4gWgJ0RvRtOB4_bJYQYNqDEQPJnD1Bghj3egMaybjw4uI&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/10386323571185481256?gl=us",
-            "product_id": "10386323571185481256",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=10386323571185481256",
-            "source": "Poshmark",
-            "price": "$65.00",
-            "extracted_price": 65.0,
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTazDNnw8mh8rYsZ5RP3DDCZkVI4HVWFPAeUvHLXBnKSpMbwgqbHaL-OTU-1HsetlnmaERaSLeTBbgflr53j4MQk1YOmpl8u75eAnedVgI&usqp=CAE",
-            "delivery": "Delivery by Wed, Apr 3"
-        },
-        {
-            "position": 28,
-            "title": "Vintage Black Leather Jacket with Heart Zippers | Color: Black/Gold | Size: L ...",
-            "link": "https://poshmark.com/listing/vintage-black-leather-jacket-with-heart-zippers-63e112eec5df6c4248168d7e?srsltid=AfmBOorfjVJRApzPmY1N8O2tzTLrY5ZVXiNv-9JYnOdqPli4D0edWU0Tz_M&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/4509672181631241210?gl=us",
-            "product_id": "4509672181631241210",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=4509672181631241210",
-            "source": "Poshmark",
-            "price": "$65.00",
-            "extracted_price": 65.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ9WwG0j8S40PpImTnCQX-9GBqzCjnChfvgqlJvpEJ0d_UN95P5B49WZapdQuCrw2ncNpS2PG1GRe_Fwx66McE3uzrSydeSY09qEonriL60luuyykWhp1VI&usqp=CAE",
-            "delivery": "Delivery by Mon, Apr 1"
-        },
-        {
-            "position": 29,
-            "title": "Guns Leather Jackets & Coats | Vintage Leather Jacket | Color: Brown | Size: L ...",
-            "link": "https://poshmark.com/listing/Vintage-Leather-Jacket-641ded722fc59f55da2b5d5d?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/13931700105584635538?gl=us",
-            "product_id": "13931700105584635538",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=13931700105584635538",
-            "source": "Poshmark",
-            "price": "$50.00",
-            "extracted_price": 50.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR9NM_EQg63z68joVTdcQPcwweYvLiYEnjwvLRnYk0NETbztdg0XrTWnkC41hkZMswKgPTeg8oCnAdCOoJlCdS3MmbqZXCFTkc8vq9wsrNp&usqp=CAE",
-            "delivery": "Delivery by Thu, Mar 28"
-        },
-        {
-            "position": 30,
-            "title": "Black Leather Jacket W Zipper | Color: Black | Size: S/M | Julietkaneyuki's Closet",
-            "link": "https://poshmark.com/listing/Black-Leather-Jacket-w-Zipper-61a13f33bb5937eb1d081fab?srsltid=AfmBOor6lFYq_g9YBAI_kwh3aaYPnvF1o8dZcZRqUVhC3cSV80kDbuo1wvY&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/3514002736409470177?gl=us",
-            "product_id": "3514002736409470177",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=3514002736409470177",
-            "source": "Poshmark",
-            "price": "$69.00",
-            "extracted_price": 69.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTv_qwVxxhgHgUTQK2i38miTHkYP_p_MFBMGPaLo7rS5bB7MlWEK0bzJIpPYL6WxayVAqzWV-gG269XRysMEw5gd46kNj1OxNbq0EuGBJY&usqp=CAE",
-            "delivery": "Delivery by Fri, Mar 29"
-        },
-        {
-            "position": 31,
-            "title": "Jaclyn Smith Jackets & Coats | Leather Jacket Medium | Color: Black | Size: M ...",
-            "link": "https://poshmark.com/listing/Leather-Jacket-medium-65b1bb63c1c3463e19ac3002?srsltid=AfmBOop6wcPimylAphJyYk5kjLqPiTJcShRquOF6KzaoBRGAdF87wAY2-ic&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/1407962745962848202?gl=us",
-            "product_id": "1407962745962848202",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=1407962745962848202",
-            "source": "Poshmark",
-            "price": "$30.00",
-            "extracted_price": 30.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQykwhzKrBUSivxgpbWyFAkCXxXyFwe2g5XwCQjDRNJGEgtC8HFG7AQx0V68zLoaFNAB2HMFJgHRR__-8LM_BNMyo2B5WtzzEfyh6NU13g&usqp=CAE",
-            "delivery": "Delivery by Mon, Apr 1"
-        },
-        {
-            "position": 32,
-            "title": "Vintage Women's Leather Jacket - Black - L",
-            "link": "https://www.depop.com/products/angelic_findz-leather-floral-embroidered-jacket-outerwear/?srsltid=AfmBOoq_k1gEFyo04N-2Y1v95bVmYnwbjWqh62aCSMWdNV73DDHHEJIT6z4",
-            "product_link": "https://www.google.com/shopping/product/14504116094242352152?gl=us",
-            "product_id": "14504116094242352152",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=14504116094242352152",
-            "source": "Depop",
-            "price": "$53.00",
-            "extracted_price": 53.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRGrB1je_8eaJCbipTI0IUJSp6QBT9FjgV_huiQlJfxEfpK1ANN_w8WCRHPtFt9bDbhUYW5NZ7Y8JoOP5oxYPRiIGoQlKfRXOL-2iy63Eo&usqp=CAE",
-            "delivery": "$13.49 delivery"
-        },
-        {
-            "position": 33,
-            "title": "Vintage Leather Jacket | Color: Purple | Size: 5j | Lpwrona's Closet",
-            "link": "https://poshmark.com/listing/Vintage-Leather-Jacket-5de6b8f9d948a180f51af80a?srsltid=AfmBOoo8KQajfhRl-pb9CM4dlaFygYdLFjkHbN5oEhzsfaUd5DPVaqCRYjU&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/7427527849621754126?gl=us",
-            "product_id": "7427527849621754126",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=7427527849621754126",
-            "source": "Poshmark",
-            "price": "$45.00",
-            "extracted_price": 45.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcROAm8BPghHjK1N3QRwC0vj-XpI9F7ZVdIpGUwAAJ0f8DitD78dLJyusiftGOSdm2wx-bkMPhRW8niJv8a9GxacENvL5-kpEupMNUXYGWMF&usqp=CAE",
-            "delivery": "Delivery by Mon, Apr 1"
-        },
-        {
-            "position": 34,
-            "title": "Vintage Men's Leather Jacket - Black - XL",
-            "link": "https://www.depop.com/products/sunnydaze8-genuine-leather-motorcycle-jacket-no/?srsltid=AfmBOorb5plL1MQBpPtnvYj-LC8Lv_7m3JBEGQJG59rLuUMTNNCwqIzFRwI",
-            "product_link": "https://www.google.com/shopping/product/5576655329972226954?gl=us",
-            "product_id": "5576655329972226954",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=5576655329972226954",
-            "source": "Depop",
-            "price": "$100.00",
-            "extracted_price": 100.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRAWC_ju1z_kwNuahyyUJiK9FgdUp_VmzyFsnH1CU9AA3Ov7lgJIkTGdUBc_-YLnKtXWcaHkKlZ4Xia3Ofuj6YronDJjsBXpKjj9qm5TNmuByybLK9josXW&usqp=CAE",
-            "delivery": "$10.99 delivery"
-        },
-        {
-            "position": 35,
-            "title": "Black Leather Jacket | Color: Black | Size: S | Nymia's Closet",
-            "link": "https://poshmark.com/listing/Black-leather-jacket-61df0b3f691412c402df401d?srsltid=AfmBOorOWqrs9M34ptuVJRSgjBU4Qg-fPztbFXU924dcrV5ofaKVcC-Zg_A&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/14494928893656887808?gl=us",
-            "product_id": "14494928893656887808",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=14494928893656887808",
-            "source": "Poshmark",
-            "price": "$25.00",
-            "extracted_price": 25.0,
-            "old_price": "$85.00",
-            "extracted_old_price": 85.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSgTUt8Jio73E8p6GXPpKlFlZB18s06lfGYVRnTVtKdSgdCqB_6EnPsGR_ix7YO04c1m81aiCgl98Svo4vgz06tOur2p5ujKeNBeHoEm-lC&usqp=CAE",
-            "tag": "SALE",
-            "extensions": [
-                "SALE"
-            ],
-            "delivery": "Free delivery by Tue, Apr 2"
-        },
-        {
-            "position": 36,
-            "title": "Vintage Leather Jacket | Color: Brown | Size: L | Davemcglothlin's Closet",
-            "link": "https://poshmark.com/listing/Vintage-leather-jacket-5c5724e3c9bf5044a0437bd0?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/3756646369305201631?gl=us",
-            "product_id": "3756646369305201631",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=3756646369305201631",
-            "source": "Poshmark",
-            "price": "$35.00",
-            "extracted_price": 35.0,
-            "old_price": "$55.00",
-            "extracted_old_price": 55.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR4_v3hQJEjlDH3KMuqow7vtNsWCAlUIwqQqlb2EWg6nUTPnSqvZq22q3Ax6kasJ_nh0ZuFZXVhKczAVNwX2lO4qGeGEZGN3Jx_zxwCtsA&usqp=CAE",
-            "tag": "SALE",
-            "extensions": [
-                "SALE"
-            ],
-            "delivery": "Delivery by Fri, Mar 29"
-        },
-        {
-            "position": 37,
-            "title": "Vintage Jackets & Coats | Vintage G III Back and Cream Leather Jacket | Color ...",
-            "link": "https://poshmark.com/listing/Vintage-G-III-back-and-cream-leather-jacket-611ec63a4fd23aa4bb24d44d?srsltid=AfmBOopf37RCnUtGFEsFglrbyqWDbikQl4CxXgFIBdYchXc3i5B6DtEig24&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/17965444638733175443?gl=us",
-            "product_id": "17965444638733175443",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=17965444638733175443",
-            "source": "Poshmark",
-            "price": "$72.00",
-            "extracted_price": 72.0,
-            "old_price": "$150.00",
-            "extracted_old_price": 150.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQD_-t4sGaaFSAKbOpflPgBHSxTJ8wzTJK0g1i93HHgJ_nZkHM5su1DXCoXCjfezaT54F9NTrTuTUTMVSABKgDZj1HNo2qV74tkv_BHV0A&usqp=CAE",
-            "tag": "SALE",
-            "extensions": [
-                "SALE"
-            ],
-            "delivery": "Delivery by Fri, Mar 29"
-        },
-        {
-            "position": 38,
-            "title": "Forenza Jackets & Coats | Ladies Black Leather Jacket | Color: Black | Size: M ...",
-            "link": "https://poshmark.com/listing/Ladies-black-leather-jacket-61c7624fe97e480c60046f80?srsltid=AfmBOopn2d3zKym0vDZ1L5N9VBUWGLM8BteOsbsXcnJk8ndwDJwXFfDLHTY&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/9698729348843158014?gl=us",
-            "product_id": "9698729348843158014",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=9698729348843158014",
-            "source": "Poshmark",
-            "price": "$30.00",
-            "extracted_price": 30.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRQQVPy_k6ml0jTjGCGF5RVFwawGDT54DZXhLKf5-7Aj93hQUUViXE_D87vR8SRZ8ESb9hwRADgxuySzNjUXAIO-04qhafMpvh2iMYWvC8W&usqp=CAE",
-            "delivery": "Delivery by Mon, Apr 1"
-        },
-        {
-            "position": 39,
-            "title": "Jones New York Jackets & Coats | Jones New York Black Leather Jacket. Hard ...",
-            "link": "https://poshmark.com/listing/Jones-New-York-black-leather-jacket-Hard-leather-5c2f7862aaa5b8766ad2f20a?srsltid=AfmBOopIVUu4CW1_YeI6iPhDmhIQT9B57q19G0FplmIf1fsKqFO6TPbn5_o&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/7905354326054501419?gl=us",
-            "product_id": "7905354326054501419",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=7905354326054501419",
-            "source": "Poshmark",
-            "price": "$50.00",
-            "extracted_price": 50.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSzXHaG1WtZTUZB-XHCA6aRjsd4WNJ0B2kSYA_h-qmwXSWugChBQHMWORcc6F-EQZF7fGh7LreDkZj3PigZ2Ne5lj_Ng3YCcFBDvPcKFMU&usqp=CAE",
-            "delivery": "Delivery by Fri, Mar 29"
-        },
-        {
-            "position": 40,
-            "title": "Vintage Jackets & Coats | 80s Vintage Leather Jacket | Color: Black | Size: See ...",
-            "link": "https://poshmark.com/listing/80s-Vintage-Leather-Jacket-5ba95e322a9dea73d63f33d1?srsltid=AfmBOoq5dEIe3gmik_qguJ7AG4k8K7B-sgcinNMQHhtXZiItGuNCv9fqhJg&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/7046491893569162019?gl=us",
-            "product_id": "7046491893569162019",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=7046491893569162019",
-            "source": "Poshmark",
-            "price": "$57.00",
-            "extracted_price": 57.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSbqXtgv7pLwQIMxX8YmZd4ypOvUCCPAa0pOsnO8Dji5JtomxwkUActNet6CfZk4y-lQx7TVw6EYgdw3j8ubmhrCU7MI8U-6lVgFZkXITo&usqp=CAE",
-            "delivery": "Delivery by Fri, Mar 29"
-        },
-        {
-            "position": 41,
-            "title": "Vintage Jackets & Coats | Y2K Brown Leather Jacket Size Small | Color: Brown/Gray ...",
-            "link": "https://poshmark.com/listing/Y2K-Brown-Leather-Jacket-Size-Small-657dd1bdd6ab5d7e5d6b6bfc?srsltid=AfmBOorOWRRfSVwaNzd1qjkxnpLXhjXYR7zvUaBPH0sbJpjj7f0qeDG0evQ&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/17376989846289136733?gl=us",
-            "product_id": "17376989846289136733",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=17376989846289136733",
-            "source": "Poshmark",
-            "price": "$125.00",
-            "extracted_price": 125.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT7vP3ShbAq9S8bi7LxeutUSWyjoQ8W8Kdhy4SNL3BC1nGAce0T2a6ztz3mB9_1azeTrJCq18hk64w3krGca_A6LmrLiXuM0fd_PgQq9f8o&usqp=CAE",
-            "delivery": "Delivery by Mon, Apr 1"
-        },
-        {
-            "position": 42,
-            "title": "E Funk Jackets & Coats | Black E Funk Leather Jacket Size Medium | Color: Black ...",
-            "link": "https://poshmark.com/listing/Black-E-Funk-leather-jacket-size-medium-61b54004163df456f904657b?srsltid=AfmBOop80tnh3vdBxxRWiJieAUxvq5nfhu8W4l8GcJf004PBS1gmAB_dhic&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/16213023368689413834?gl=us",
-            "product_id": "16213023368689413834",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=16213023368689413834",
-            "source": "Poshmark",
-            "price": "$40.00",
-            "extracted_price": 40.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSydEyvHS1zwUfk4FaJ4_oSZEe4AaxHdTz-oW5_LlWUx-esSQixwUIyP_Egn6qcEL6JxlHiKbjSyG57T34uHnus7EYftzpF8l4vW1ClDGc&usqp=CAE",
-            "delivery": "Delivery by Mon, Apr 1"
-        },
-        {
-            "position": 43,
-            "title": "Vintage Jackets & Coats | New, Vintage Men's Leather Jacket | Color: Black | Size ...",
-            "link": "https://poshmark.com/listing/New-Vintage-Mens-Leather-Jacket-613cfcd8446e593d1bf1a266?srsltid=AfmBOooYZZrRX--_G16IrmSIo26C1DflCHgCX08ABLzjcQc9VdXK4j7laJI&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/13171203693339216869?gl=us",
-            "product_id": "13171203693339216869",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=13171203693339216869",
-            "source": "Poshmark",
-            "price": "$79.00",
-            "extracted_price": 79.0,
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTYVAyjUPi9Kgegs9-reXQIrUE9IzCUHJk5BdojMdZhXwoS9G0xN_doPVc2X6n58apHZvRK9JqzVINr9gdZ0MufXItK4VXbQXWzn-E7V_2E&usqp=CAE",
-            "delivery": "Delivery by Fri, Mar 29"
-        },
-        {
-            "position": 44,
-            "title": "Hot Leathers Jackets & Coats | Vintage Hot Leather Leather Vets Men\u2019s S | Color ...",
-            "link": "https://poshmark.com/listing/Vintage-Hot-Leather-Leather-Vets-Mens-S-65769394932a8a48d5fe995e?srsltid=AfmBOoo97VGfRzGpXycO9S4-PP9ZSMaBvgACeGQFqi4sdIxg4tKPnksLQ4Y&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/4855946421385051257?gl=us",
-            "product_id": "4855946421385051257",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=4855946421385051257",
-            "source": "Poshmark",
-            "price": "$25.00",
-            "extracted_price": 25.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTGyOwmeTjEr6Esy0vvG3-deTZJcW2akqdUGnRVMvmjrKng7EVKQ1eCO14H2Xi9XwOMv-CSpJtYUQUagDoeficSDwvGHWGSUj4BqFCOkQw&usqp=CAE",
-            "delivery": "Delivery by Fri, Mar 29"
-        },
-        {
-            "position": 45,
-            "title": "80s Vintage Leather Jacket | Color: Black | Size: S | Abigailmarbut91's Closet",
-            "link": "https://poshmark.com/listing/80s-ViNtaGe-LEATHER-JACKET-634c30b7b635f86e40842214?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/11025622365819301209?gl=us",
-            "product_id": "11025622365819301209",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=11025622365819301209",
-            "source": "Poshmark",
-            "price": "$65.00",
-            "extracted_price": 65.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR7zh7B3qY308mKL_Dz2X_XtUJb3y1ir3wh-CXb5bMqLDZrUOEnus-5SR25lxn2Bh-RjhyeC1v2FzUQuJAKGbfaxu_WqUofomlUP5O6jJg&usqp=CAE",
-            "delivery": "Delivery by Fri, Apr 5"
-        },
-        {
-            "position": 46,
-            "title": "Vintage Genuine Leather Jacket | Color: Red | Size: 8 | Foreignunity's Closet",
-            "link": "https://poshmark.com/listing/Vintage-Genuine-Leather-Jacket-5fd7b76892078660fe7ec9ee?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/15924792669660765149?gl=us",
-            "product_id": "15924792669660765149",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=15924792669660765149",
-            "source": "Poshmark",
-            "price": "$60.00",
-            "extracted_price": 60.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSbxTflX6rNu08f14YqqJCizowo_FbsC7Pq5GzLHoBGJTYIjJhEsnkiaCSQeWByQbxeNNwP6dFRTDvmX2LEp-3fpp7KVVFkVthfTE6lCLdj&usqp=CAE",
-            "delivery": "Delivery by Tue, Apr 2"
-        },
-        {
-            "position": 47,
-            "title": "1980 Something Vintage Leather Jacket | Color: Brown | Size: L | Sagewood16's Closet",
-            "link": "https://poshmark.com/listing/1980-Something-Vintage-Leather-Jacket-5aa821ada6e3eae7cbca2c3c?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/10097738735546124878?gl=us",
-            "product_id": "10097738735546124878",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=10097738735546124878",
-            "source": "Poshmark",
-            "price": "$45.00",
-            "extracted_price": 45.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQxArIv6kmuAPJofbbQfOcL3lNSP2WNVzGZ43jv5Pw-jOW3bP0iRuOsTtniNT1pOinSZsIbNFSJlobnqfECpnMLQBmd0NUga9QFPf5Td00&usqp=CAE",
-            "delivery": "Delivery by Mon, Apr 1"
-        },
-        {
-            "position": 48,
-            "title": "Black Leather Jacket | Color: Black | Size: XL | Pm-17478977's Closet",
-            "link": "https://poshmark.com/listing/Black-Leather-Jacket-63dc0775932a8a23ff4b8199?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/13627619334659300122?gl=us",
-            "product_id": "13627619334659300122",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=13627619334659300122",
-            "source": "Poshmark",
-            "price": "$43.00",
-            "extracted_price": 43.0,
-            "old_price": "$48.00",
-            "extracted_old_price": 48.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTas50sHthzpS_2Fw-7_LoIEtgrs_L1izpgKpYjOMQFWu3wz0z6G-dsRKuWb51PjZ3B--LMiJIyZOe3TTPLOmDUVFnOxByrzny4m8sFYlO6&usqp=CAE",
-            "tag": "SALE",
-            "extensions": [
-                "SALE"
-            ],
-            "delivery": "Delivery by Fri, Mar 29"
-        },
-        {
-            "position": 49,
-            "title": "Halogen Jackets & Coats | Leather Jacket | Color: Black | Size: M | Whoadiebee's ...",
-            "link": "https://poshmark.com/listing/Leather-Jacket-60a87fb13cda88ad5bd70406?srsltid=AfmBOorowz04Yg3ymx0BO1b0JpgOjFwDcvS2uiOc88htY41WgYYFLkiG2uY&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/7054280776858745401?gl=us",
-            "product_id": "7054280776858745401",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=7054280776858745401",
-            "source": "Poshmark",
-            "price": "$45.00",
-            "extracted_price": 45.0,
-            "old_price": "$50.00",
-            "extracted_old_price": 50.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSFajl_nHZ1nu-jWUSQwFiOckfNFHXexFWHC8uw9P8y4mFCl1suiWcNeW3zV2I3RCoX_S6KmrPaUaMvsoFGh9Lg6o7Fot-cydFpsTU1YQo&usqp=CAE",
-            "tag": "SALE",
-            "extensions": [
-                "SALE"
-            ],
-            "delivery": "Delivery by Fri, Mar 29"
-        },
-        {
-            "position": 50,
-            "title": "Women\u2019s Vintage Genuine Leather Studded Moto Biker Jacket | Color: Black | Size ...",
-            "link": "https://poshmark.com/listing/Womens-Vintage-Genuine-Leather-Studded-Moto-Biker-Jacket-65f43b4e56b2f82beca33026?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/11785265990919420244?gl=us",
-            "product_id": "11785265990919420244",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=11785265990919420244",
-            "source": "Poshmark",
-            "price": "$100.00",
-            "extracted_price": 100.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQi1_tBZKc1qcX72_1--qBZh_AQy1jqpbNtW9tZgv0IXURo-mxHXy7pT7J44ewUMFOkBJQ9S6MVM0sVIql7Sy34cm4SbDVFOQ0bmgjWtZg&usqp=CAE",
-            "delivery": "Delivery by Tue, Apr 2"
-        },
-        {
-            "position": 51,
-            "title": "Dialogue Jackets & Coats | Dialogue Brown Leather Jacket Sz S Pockets Full ...",
-            "link": "https://poshmark.com/listing/Dialogue-brown-leather-jacket-Sz-S-pockets-full-5f4c234d7367207251628106?srsltid=AfmBOopJ09sSi5PGr3x4wuslLJgY9hqNmiWxFRQxaz7Q03Xd2E8NFH3mEsU&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/10428853404224503332?gl=us",
-            "product_id": "10428853404224503332",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=10428853404224503332",
-            "source": "Poshmark",
-            "price": "$70.00",
-            "extracted_price": 70.0,
-            "old_price": "$75.00",
-            "extracted_old_price": 75.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTSMAMODPC9Rt2g3IppK_wuePyt0kq6jQi6FEQe3YhBCWmJLXaTfQ6Xqv9vhH3ZFsRfsARxmN2XAqMRYt4uTv_-vmzwo5iLBCnpmNlLvbLHghkk_tSmFIJeUw&usqp=CAE",
-            "tag": "SALE",
-            "extensions": [
-                "SALE"
-            ],
-            "delivery": "Delivery by Fri, Mar 29"
-        },
-        {
-            "position": 52,
-            "title": "Vintage Leather Jacket | Color: Green | Size: Mp | Patriciarobl232's Closet",
-            "link": "https://poshmark.com/listing/Vintage-leather-jacket-64fe58c15d686b74ae49a5e3?srsltid=AfmBOop6PmNLJW783-KKCGLkeiFr03Wiysmh1hBBRBUS5dPDkb-VtIejnv0&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/1577521725592232947?gl=us",
-            "product_id": "1577521725592232947",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=1577521725592232947",
-            "source": "Poshmark",
-            "price": "$70.00",
-            "extracted_price": 70.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTaJnqjMnMViLEnMrKiTV-wtHyEBSfJ5OvAClv60Nwtac2A1IwIHy5F51xUlkKOnbETzvM7V-ltyUiPGuMibgtxB-L0jLKYNuBOy48AH1Pi&usqp=CAE",
-            "delivery": "Delivery by Fri, Mar 29"
-        },
-        {
-            "position": 53,
-            "title": "Lulu's Jackets & Coats | Nwt Leather Jacket | Color: Cream | Size: XS | Pm ...",
-            "link": "https://poshmark.com/listing/NWT-Leather-Jacket-651874b7dff94d48af2db0d9?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/15479031116578935884?gl=us",
-            "product_id": "15479031116578935884",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=15479031116578935884",
-            "source": "Poshmark",
-            "price": "$29.00",
-            "extracted_price": 29.0,
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTLX2k-eBfPQL9UrJ0cZhg3BEiFifZW1brxoS7cu_SoRoGS09dVOHDjDlxN-p0vxAg-5YeVLZWETs4qyF0VkXThmgoPvCP0Zwf_TKpXtqy7xJwWoPOrAf-Piw&usqp=CAE",
-            "delivery": "Delivery by Fri, Mar 29"
-        },
-        {
-            "position": 54,
-            "title": "East 5th Jackets & Coats | Black Genuine Leather East 5th Jacket | Color: Black ...",
-            "link": "https://poshmark.com/listing/Black-genuine-leather-east-5th-jacket-30-65cab345acf462e668c2f335?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/132284596220988385?gl=us",
-            "product_id": "132284596220988385",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=132284596220988385",
-            "source": "Poshmark",
-            "price": "$30.00",
-            "extracted_price": 30.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTaD5qiLi9o5tVeD1AS6olq-q7AezNf8FSwy5ffIkAVxaSFtYfGrlrzoj8D4jdMgiJtoHKkKpqwOZEUwbADkRcxgSS9QohFescdlAAg0P43&usqp=CAE",
-            "delivery": "Delivery by Fri, Apr 5"
-        },
-        {
-            "position": 55,
-            "title": "Excelled Jackets & Coats | Woman's Made in Pakistan's Excelled New York New York ...",
-            "link": "https://poshmark.com/listing/Womans-made-in-Pakistans-excelled-New-York-New-York-petiq-18-color-black-64f91e0cc4c8377c640ef5a3?srsltid=AfmBOorwvVh43fIzX-XkLFTTQGd2nDK8fZKFaaI0GTqITnwyA-bzHemdtZA&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/1117882417689463140?gl=us",
-            "product_id": "1117882417689463140",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=1117882417689463140",
-            "source": "Poshmark",
-            "price": "$100.00",
-            "extracted_price": 100.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTU75Jcw0g8cu7NPRU0nqGMnejQm1TjL_ZTHMZwww3YdZy-V5KOAqVBAKgXjz60ooIeaLatjt-MsDMfc_HfbToLOer3sYcHB007M2_D87A&usqp=CAE",
-            "delivery": "Delivery by Fri, Mar 29"
-        },
-        {
-            "position": 56,
-            "title": "Real Leather Jackets & Coats | Red Moto Leather Jacket | Color: Red | Size: 4 ...",
-            "link": "https://poshmark.com/listing/Red-Moto-Leather-Jacket-6212b370ce1e87c0137f6432?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/1347763022679595637?gl=us",
-            "product_id": "1347763022679595637",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=1347763022679595637",
-            "source": "Poshmark",
-            "price": "$90.00",
-            "extracted_price": 90.0,
-            "old_price": "$165.00",
-            "extracted_old_price": 165.0,
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRvf0E8pqWtT8pOowcommAxImQ32A8UYMEwfTB7pjOLWYknqHyl5PZbfGvsgQ2l8_xQtoKRuEo_uTO0BuPVYb4SIVRsix0v6ZPRnxnzK2k&usqp=CAE",
-            "tag": "SALE",
-            "extensions": [
-                "SALE"
-            ],
-            "delivery": "Delivery by Mon, Apr 1"
-        },
-        {
-            "position": 57,
-            "title": "Butter Real Leather Korea Made Jacket | Color: Black | Size: S | Ramosmarsela32's ...",
-            "link": "https://poshmark.com/listing/Butter-real-leather-Korea-made-jacket-637851b92fbf1a0807871b7e?srsltid=AfmBOooeCxAXfFAvPzNceMjU-zl46lVaDpaI90w-t_e4JHC9kgzvUn30W0U&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/3832850583679343729?gl=us",
-            "product_id": "3832850583679343729",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=3832850583679343729",
-            "source": "Poshmark",
-            "price": "$30.00",
-            "extracted_price": 30.0,
-            "old_price": "$55.00",
-            "extracted_old_price": 55.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSesLMwDJsVLWnyjpLgvgo3dmTwE16ncLJhTFNlLl7ifTrkhEtfhL3X5Km_TzWJ5z-t341NaGWltnaBR-qvNQpqjaiDoCOEiM_VWxI5qpH_&usqp=CAE",
-            "tag": "SALE",
-            "extensions": [
-                "SALE"
-            ],
-            "delivery": "Delivery by Mon, Apr 1"
-        },
-        {
-            "position": 58,
-            "title": "Motorcycle Clothing Co. Jackets & Coats | Genuine Leather Motorcycle Jacket ...",
-            "link": "https://poshmark.com/listing/Genuine-leather-motorcycle-jacket-5b47a9e59fe4866c41e3a758?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/14465174027939200601?gl=us",
-            "product_id": "14465174027939200601",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=14465174027939200601",
-            "source": "Poshmark",
-            "price": "$60.00",
-            "extracted_price": 60.0,
-            "old_price": "$75.00",
-            "extracted_old_price": 75.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ3l9WlixSChAHT6NcZVket7yl2KR09fFo67F0sozPZg7d4Xw_SjXzse65pgzpY9FuOhwjddrEuusiN5lV-onskUB4BsZTRsUOyp_YZXtyP&usqp=CAE",
-            "tag": "SALE",
-            "extensions": [
-                "SALE"
-            ],
-            "delivery": "Delivery by Tue, Apr 2"
-        },
-        {
-            "position": 59,
-            "title": "Rubbish Jackets & Coats | Fitted Leather Jacket | Color: Black | Size: XS ...",
-            "link": "https://poshmark.com/listing/Fitted-leather-jacket-63ac6013bd66cd5a1dfb37f8?srsltid=AfmBOoqbG_Gv7HxPM9nQ1JPVx9MJpeE3ObAomHsbrVA6waUYLBMd49ASZ7w&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/3203975039208053949?gl=us",
-            "product_id": "3203975039208053949",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=3203975039208053949",
-            "source": "Poshmark",
-            "price": "$24.00",
-            "extracted_price": 24.0,
-            "old_price": "$49.00",
-            "extracted_old_price": 49.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRt4zoQaNqrELTVSPYfgsJcCdy1GZ5wTrK7uP8DWqT5cjPSuc1FRGtM5pGeSTab7sJSB_V-cLV1J0bnn0Z28KR97sgoOGm4SN6GVhfIZUZE&usqp=CAE",
-            "tag": "SALE",
-            "extensions": [
-                "SALE"
-            ],
-            "delivery": "Delivery by Fri, Mar 29"
-        },
-        {
-            "position": 60,
-            "title": "Leather and Soul Jackets & Coats | Vintage 90's Leather Jacket | Color: Black ...",
-            "link": "https://poshmark.com/listing/Vintage-90s-leather-jacket-63f4a1b1ffb5d01adb31d29a?srsltid=AfmBOorxpeof4coSGrBkNlsHxJZHv88BAV3BxOaiEBo5i26HDb45CfI6MFc&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
-            "product_link": "https://www.google.com/shopping/product/272701307571940312?gl=us",
-            "product_id": "272701307571940312",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=272701307571940312",
-            "source": "Poshmark",
-            "price": "$31.00",
-            "extracted_price": 31.0,
-            "old_price": "$86.00",
-            "extracted_old_price": 86.0,
-            "second_hand_condition": "used",
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQq34aEKuqstv1C2qLFeiwaxMEXQIqwEJIzUoVeyilal1MvHrbv01yjG7F6B7JnC88CFQOn-5jrozd1yryEeyCEou5AfgomyaoSmLWuFecm&usqp=CAE",
-            "tag": "SALE",
-            "extensions": [
-                "SALE"
-            ],
-            "delivery": "Delivery by Fri, Mar 29"
-        }
-    ],
-    "categories": [
-        {
-            "title": "Filter by material",
-            "filters": [
-                {
-                    "title": "Genuine Leather",
-                    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR-qzq8XygvrIWBsZ5zDp165UTgyn5QNYSm1tcIkLi7mz8BLsvR1-YfQvZcvIwn4sMaQkTmIsCPPEdfouOH9Hd_Qu5gjG7TXLza5g5LIP-nQAr2nJrKGqE&usqp=CAE",
-                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&gl=us&hl=en&tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:1642207%7C1642134&sa=X&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQwQkIshIoAA",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A1642207%7C1642134"
-                },
-                {
-                    "title": "Faux Leather",
-                    "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSvuirazP2ca1ijukpAd8kyUACRNX7-NWA0BrspVDyg8umFf6zFmzdibDOnXKlCBe1elQsS7sJjLvyf_ZWSrMQcM2icBF0nzx2zf-pyKjrw&usqp=CAE",
-                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&gl=us&hl=en&tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:1642207%7C1642130&sa=X&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQwQkItRIoAA",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A1642207%7C1642130"
-                },
-                {
-                    "title": "Polyester",
-                    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQi1sZZ-gRv1F2R7qDz-mO_eI2LaRy0mm1fhUyt7vgKCgoOXBieE4cn29fc-lLWr7pzBzOlMOaenVCiTod6EU3Ij3Lm56kduO9kWtkuNCbvW198hozABdiX&usqp=CAE",
-                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&gl=us&hl=en&tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:1642207%7C1642147&sa=X&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQwQkIuBIoAA",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A1642207%7C1642147"
-                },
-                {
-                    "title": "Genuine Suede",
-                    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQIVi7okvyL7WMaX1S_V3TTWfGTrHRZAJ7zRGXY_wuvnZzo1CPHdRaA9oe12KoLBr1_uQgZUSbe3jm8IsrC_jVmryneHUWsN_BnQqakNmxv&usqp=CAE",
-                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&gl=us&hl=en&tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:1642207%7C1642135&sa=X&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQwQkIuxIoAA",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A1642207%7C1642135"
-                }
-            ]
-        },
-        {
-            "title": "You might like",
-            "filters": [
-                {
-                    "title": "Zipper",
-                    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTE6jaIh44esozoiiOQTpEyiVnLYegYaqG-fJmFHWaYp1njleryUj3Yuu9Nsl0AAdcXAUrhNLhWKOT_v6K67zzte7Tyoa-fKoatZ_SJr24&usqp=CAE",
-                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&gl=us&hl=en&tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:2596873%7C2596875&sa=X&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQwQkIwhIoAA",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A2596873%7C2596875"
-                },
-                {
-                    "title": "Motorcycle",
-                    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSRh_tiBTbjH2-VPnrs7fhGgASfCcXSIV1C6tQ2d0pqi2rantxUHfxOvFCSJc4UjDUUloKqIreWX-rIUfDg4i1rxhzI0CmlU2TnPy1zBJA&usqp=CAE",
-                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&gl=us&hl=en&tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:4344494%7C4344499&sa=X&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQwQkIxRIoAA",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A4344494%7C4344499"
-                },
-                {
-                    "title": "Button",
-                    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT-pu0I6lReqp7nN7z1vWCI2zDOtJZsQc6AjXtRRSNp61pqQddGht8pcNTdvL-tURUDzoRPkP3eKddKHmBap3JUvwx96K1C-gs4EfFLTMmfdMXaS5MkApz5&usqp=CAE",
-                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&gl=us&hl=en&tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:2596873%7C2596876&sa=X&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQwQkIyBIoAA",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A2596873%7C2596876"
-                },
-                {
-                    "title": "Fall",
-                    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRFvQtUSwmQhucyS_6Q4Hi3zzLoqw5jNSFuzXRQ2yWZUFtUhQWrlDk7C8B9ctob_UQkpKRTL9EBT48-O0PRo772bS5y7eR9_YmYAitaHSM&usqp=CAE",
-                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&gl=us&hl=en&tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:991215%7C991217&sa=X&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQwQkIyxIoAA",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A991215%7C991217"
-                },
-                {
-                    "title": "Winter",
-                    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQy36JeaIcxbmRMUD3mONWF7zCB8nFX1BWrYGO6d1_p7Hawhauga1ZL0ls0jSggEDTBBRMJVjVf_HoOcTblSNLRSN6vIYii_w6E4zr0C0TOsypzcULA7PJzlg&usqp=CAE",
-                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&gl=us&hl=en&tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:991215%7C991218&sa=X&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQwQkIzhIoAA",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A991215%7C991218"
-                },
-                {
-                    "title": "Oversized",
-                    "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRPaAmBKkQWFvRW5vtKKRQcTEJs6yhJEnk868ma6sH4v5GH0XDD6kX0Q4RkTRgd3A_BAWwDkjb_qK3tL55Rf_aYGZxcN73QwfocR3TbP0qc&usqp=CAE",
-                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&gl=us&hl=en&tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:6803480%7C6803073&sa=X&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQwQkI0RIoAA",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A6803480%7C6803073"
-                },
-                {
-                    "title": "Spring",
-                    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQLHbXQxwK0AN1_BsrnEG-LWYiMBvx00VnbjlEWLWCRD6bnVRqpZod5DlRj_Gfk4qd2mjmzI7DzWVFwc87eMjoAL8JDVphia7zPpKBqkNs&usqp=CAE",
-                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&gl=us&hl=en&tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:991215%7C991216&sa=X&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQwQkI1BIoAA",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A991215%7C991216"
-                },
-                {
-                    "title": "Bomber",
-                    "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQn2fYfirF3Tu2LnrKAVWoTwZZvBHF6ErtOIxF2i2JDEzuffVhyJf7Uq0iTPuTrJmQO2bcmrjqqlT2NptawcDG0BBbNSlIRwfrdjHYf86ah&usqp=CAE",
-                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&gl=us&hl=en&tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:4344494%7C4344507&sa=X&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQwQkI1xIoAA",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A4344494%7C4344507"
-                },
-                {
-                    "title": "Crop",
-                    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTWZESlgWblHsHEytjUsdzSXj4dmqnOWzQz3PtEWRwUPYytF6qgXMTemwQjOJe6SvMDG_T4OPetonnRFgHak7fZKvmrYMyrwuYdooxVabm0&usqp=CAE",
-                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&gl=us&hl=en&tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:6820285%7C6821054&sa=X&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQwQkI2hIoAA",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A6820285%7C6821054"
-                },
-                {
-                    "title": "Relaxed",
-                    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQBV15Xq99zfXNMGxouoPG6zeoQhuIC6-Hu9fKmgVQn4K2OSQ32ixkt2SFGDbPiQTTW3Xlj3QVAJIr__c3JYsIJKU0OSXzWbQ4qF4b8_x0&usqp=CAE",
-                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&gl=us&hl=en&tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:6803480%7C6803736&sa=X&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQwQkI3RIoAA",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A6803480%7C6803736"
-                },
-                {
-                    "title": "Dry Clean",
-                    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTAOgM41qVuhQqhv94uO2ddxGJcU9mSZlYtY0owiQ0cIhrXdrwzpsZOXgGa2wgkiytKUOlOyZfHSP1hyKPS5rz10hnFxKtetXhqaA1gGbEP&usqp=CAE",
-                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&gl=us&hl=en&tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:6819719%7C6814031&sa=X&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQwQkI4BIoAA",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A6819719%7C6814031"
-                },
-                {
-                    "title": "Wilsons Leather",
-                    "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQkofwEDBifZSTZ1HKF0Yih2qaCT3qvehVKq6p06QSNN4tuLi5gbSy5MItiIy6nlzET6QQP1fTA8FqT_C4abNMiPDAksmjTx-zTjkQrDOA&usqp=CAE",
-                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&gl=us&hl=en&tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:881052%7C2850115&sa=X&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQwQkI4xIoAA",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A881052%7C2850115"
-                },
-                {
-                    "title": "Blazer",
-                    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS10uTVSQcru3FIL_CCyG4HZY1UPFEtE6XAMlXC5vtgti7YVXf4GI1jnupJeGmA2HiY8uVicC39u83UZ_FfS4RO5tlb8EyGPCoEcJXBuKmn&usqp=CAE",
-                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&gl=us&hl=en&tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:4344494%7C4344496&sa=X&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQwQkI5hIoAA",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A4344494%7C4344496"
-                },
-                {
-                    "title": "100% Synthetic Fill",
-                    "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQNT5s6U0kckViq0zxH-z1lZxWP9lAiYPYbwZhwAkMV8oXMVpdR_nI4srep1wiUQj9lQWE9mxmr2R9Adu_gD3G-hXe2Yhc79GP-tPa9Omqy&usqp=CAE",
-                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&gl=us&hl=en&tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:6857510%7C6857610&sa=X&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQwQkI6RIoAA",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A6857510%7C6857610"
-                },
-                {
-                    "title": "Slim Fitted",
-                    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwD5iuumVQdKnTHpf1FpJSMzmtDnSDnu3g6v7ZnU9e_ExqPWEjKPPtyxwAiDHHW9lBVq2bx8LTpuiHFMWoyWjHHB72ckAycBUhdfS5PwnEKuAFBSHAe9qtwQ&usqp=CAE",
-                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&gl=us&hl=en&tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:6803480%7C6803737&sa=X&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQwQkI7BIoAA",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A6803480%7C6803737"
-                },
-                {
-                    "title": "Machine Wash",
-                    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRrAJi4rxcAbMXO2K6dgXREtSbxlVAH7rtuUBS6_SSp5BsCADXokoRP3-vgsUIEZQjyIQcwh8PTmASlYtMhd9MiR1tcwMzmiQ_RPWKYLX4SA-0_oE5ld06V&usqp=CAE",
-                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&gl=us&hl=en&tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:6819719%7C6821052&sa=X&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQwQkI7xIoAA",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A6819719%7C6821052"
-                },
-                {
-                    "title": "Hip",
-                    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQnJ6jY_cWcZM3-l5g-9oCp0_yBoumy0GguzQPlWoQ4TFFmu2qjXh3aI3fNhPOZwCDESC17LChSA03cR86N4BmDuCjj7Q2NvJK3e1ICj8Q&usqp=CAE",
-                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&gl=us&hl=en&tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:6820285%7C6814755&sa=X&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQwQkI8hIoAA",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A6820285%7C6814755"
-                },
-                {
-                    "title": "Floral",
-                    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSaZJlEmsgsaXG8HOdKv66xrBJnhoPi9teVboGzmXRL86Cmg4AxBSDTn7AEtPXCsfgqb_6kCxKpmAxvQ0XQo3mk3Vz8vhsE6_hVG-QZeH8&usqp=CAE",
-                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&gl=us&hl=en&tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:1016622%7C1016624&sa=X&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQwQkI9RIoAA",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A1016622%7C1016624"
-                },
-                {
-                    "title": "First Manufacturing Company Inc.",
-                    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ0ilJH2Ll9dJqijNtTD8-1ZDKGDpNcVSi4B8G6txK-548bmg3eBuAv4kFDyBAKQbSK-UxnW9c7MBlTp-_CFE7vWPmIksN5DtRy8UIKgpXH&usqp=CAE",
-                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&gl=us&hl=en&tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:881052%7C2636167&sa=X&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQwQkI-BIoAA",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A881052%7C2636167"
-                },
-                {
-                    "title": "Waist",
-                    "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSW6xtngz1mdxsV4gPvcD80yYzvTEHNdVNn-zykLhPFkmR7BySJ6XN-PTWtGveOFuGzJDjv1iOTFzbUy21gZ_02pYwh08Fj-21LRVBhDXsU&usqp=CAE",
-                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&gl=us&hl=en&tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:6820285%7C6821053&sa=X&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQwQkI-xIoAA",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A6820285%7C6821053"
-                },
-                {
-                    "title": "100% Down Fill",
-                    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSnSRdYVcMdlWODWVYXh7UwTFcUxdRMa7A5mWBykWZiB5-JfxiJmRYyeF7eS4blhc1hI8Gr1q8yfM6fcm7gIThG44oZ01ocK1XPDn_ibsKM&usqp=CAE",
-                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&gl=us&hl=en&tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:6857510%7C6857870&sa=X&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQwQkI_hIoAA",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A6857510%7C6857870"
-                },
-                {
-                    "title": "Leopard",
-                    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRXjdPmKf6OYmjV1xIocZXH-UJLDHQnl8H4vcVSJL4tjAwuozCDmF-Wwv4KlUZZsZnrvcFsLS4t5k5xSHQIrQjlZNEUoVrS51mCftEUXGY&usqp=CAE",
-                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&gl=us&hl=en&tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:1016622%7C1016625&sa=X&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQwQkIgRMoAA",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A1016622%7C1016625"
-                },
-                {
-                    "title": "Puff",
-                    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTDCbVdvtOP3YKk-JoYMiRNo0m8fo9lhC2MCL1HyeRQoYcK90GIXjl_TzD8a1UzTQDGdeV3J7_CKbd6SU8JL4g046e5rYvthdZBT5z_jVdB&usqp=CAE",
-                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&gl=us&hl=en&tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:6802283%7C6803074&sa=X&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQwQkIhBMoAA",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A6802283%7C6803074"
-                },
-                {
-                    "title": "Paisley",
-                    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS22pCBGn80Juc3dHYgJzg-cnYjH2TlTop-KQ9VDLEy-i__AOeHWZ2kzFhnhtUX717ip12xq8qp2F8vDBTJyKAz9UZYwiZ_Ai9M0v9LfGzn&usqp=CAE",
-                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&gl=us&hl=en&tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:1016622%7C1016631&sa=X&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQwQkIhxMoAA",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A1016622%7C1016631"
-                },
-                {
-                    "title": "Raglan",
-                    "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSpgg5Z6AXqe8tkNQNwb2T5UkswcOekDj7YBdJfzavDRQhQ6mlh_3XhkBBjb9iM009XZxVwusv3H2tk32HgD1ZzoY56wqnSFT3soi2Ff-I&usqp=CAE",
-                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&gl=us&hl=en&tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:6802283%7C6803176&sa=X&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQwQkIihMoAA",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A6802283%7C6803176"
-                },
-                {
-                    "title": "Bell",
-                    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQAVer-7g1U0dN7jmbtjEz2efwaRe8akQoeWk4pMXN2KCxzpBDI7BEbuh6wEiOO5VF7xKemfOa2v5Rm2SgwX8HdBWIEb64ij6n_XiaeyGyxF58qPyL5vR0K8A&usqp=CAE",
-                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&gl=us&hl=en&tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:6802283%7C6803685&sa=X&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQwQkIjRMoAA",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A6802283%7C6803685"
-                },
-                {
-                    "title": "Snap-on",
-                    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQqIU23YbEu6c6NeHbawfQTLAly4yqmMZG92XBYDaSKwAFMiI9LQlizs8gzZbmsuvf7cafOqiDrx-HJx2Eddbjc3PXsxdhnZLQDmbvWj_Y&usqp=CAE",
-                    "link": "https://www.google.com/search?sca_esv=90804e148f55bbfd&gl=us&hl=en&tbm=shop&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr:1,pdtr0:881052%7C1079149&sa=X&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQwQkIkBMoAA",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&tbs=mr%3A1%2Cpdtr0%3A881052%7C1079149"
-                }
-            ]
-        }
-    ],
-    "pagination": {
-        "current": 1,
-        "next": "https://www.google.com/search?q=leather+jacket+ebay+depop+mercari+poshmark&sca_esv=90804e148f55bbfd&gl=us&hl=en&tbs=vw:g&tbm=shop&ei=4hP_Zc7-ApyX5OMP4JCKiAY&start=60&sa=N&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQ8NMDCKgT",
-        "other_pages": {
-            "2": "https://www.google.com/search?q=leather+jacket+ebay+depop+mercari+poshmark&sca_esv=90804e148f55bbfd&gl=us&hl=en&tbs=vw:g&tbm=shop&ei=4hP_Zc7-ApyX5OMP4JCKiAY&start=60&sa=N&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQ8tMDCJgT",
-            "3": "https://www.google.com/search?q=leather+jacket+ebay+depop+mercari+poshmark&sca_esv=90804e148f55bbfd&gl=us&hl=en&tbs=vw:g&tbm=shop&ei=4hP_Zc7-ApyX5OMP4JCKiAY&start=120&sa=N&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQ8tMDCJoT",
-            "4": "https://www.google.com/search?q=leather+jacket+ebay+depop+mercari+poshmark&sca_esv=90804e148f55bbfd&gl=us&hl=en&tbs=vw:g&tbm=shop&ei=4hP_Zc7-ApyX5OMP4JCKiAY&start=180&sa=N&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQ8tMDCJwT",
-            "5": "https://www.google.com/search?q=leather+jacket+ebay+depop+mercari+poshmark&sca_esv=90804e148f55bbfd&gl=us&hl=en&tbs=vw:g&tbm=shop&ei=4hP_Zc7-ApyX5OMP4JCKiAY&start=240&sa=N&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQ8tMDCJ4T",
-            "6": "https://www.google.com/search?q=leather+jacket+ebay+depop+mercari+poshmark&sca_esv=90804e148f55bbfd&gl=us&hl=en&tbs=vw:g&tbm=shop&ei=4hP_Zc7-ApyX5OMP4JCKiAY&start=300&sa=N&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQ8tMDCKAT",
-            "7": "https://www.google.com/search?q=leather+jacket+ebay+depop+mercari+poshmark&sca_esv=90804e148f55bbfd&gl=us&hl=en&tbs=vw:g&tbm=shop&ei=4hP_Zc7-ApyX5OMP4JCKiAY&start=360&sa=N&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQ8tMDCKIT",
-            "8": "https://www.google.com/search?q=leather+jacket+ebay+depop+mercari+poshmark&sca_esv=90804e148f55bbfd&gl=us&hl=en&tbs=vw:g&tbm=shop&ei=4hP_Zc7-ApyX5OMP4JCKiAY&start=420&sa=N&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQ8tMDCKQT",
-            "9": "https://www.google.com/search?q=leather+jacket+ebay+depop+mercari+poshmark&sca_esv=90804e148f55bbfd&gl=us&hl=en&tbs=vw:g&tbm=shop&ei=4hP_Zc7-ApyX5OMP4JCKiAY&start=480&sa=N&ved=0ahUKEwjO94_p9oqFAxWcC3kGHWCIAmEQ8tMDCKYT"
-        }
+    {
+        "position": 4,
+        "title": "Old Navy Long Sleeve Button Down Shirt: Black Tops - Women's Size X-Large, thredUP",
+        "link": "https://www.thredup.com/featured/161974274?department_tags=plus&referral_code=adwords_pla&srsltid=AfmBOoplW4P6AJQoMemqAmfysaK8OASCEOkPAM71ICUsujQS-kpMrVvU0Ew",
+        "product_link": "https://www.google.com/shopping/product/6137269957104312280?gl=us",
+        "product_id": "6137269957104312280",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=6137269957104312280",
+        "source": "ThredUp",
+        "price": "$9.59",
+        "extracted_price": 9.59,
+        "old_price": "$15.99",
+        "extracted_old_price": 15.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_0j8esRmv2-XDTtLUFb_lKL0T25CF54L4zTItOUbzNkSXKWd_ep8chm73dAR_r6rr_0Fn902Hu3V139fp4_QUoAHWBH20I9f2Mu3XGwBruTC6wJpRnUnd9Q&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
     },
-    "serpapi_pagination": {
-        "current": 1,
-        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&start=60&tbs=vw%3Ag",
-        "next": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&start=60&tbs=vw%3Ag",
-        "other_pages": {
-            "2": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&start=60&tbs=vw%3Ag",
-            "3": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&start=120&tbs=vw%3Ag",
-            "4": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&start=180&tbs=vw%3Ag",
-            "5": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&start=240&tbs=vw%3Ag",
-            "6": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&start=300&tbs=vw%3Ag",
-            "7": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&start=360&tbs=vw%3Ag",
-            "8": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&start=420&tbs=vw%3Ag",
-            "9": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&location=United+States&q=leather+jacket+ebay+depop+mercari+poshmark&start=480&tbs=vw%3Ag"
-        }
+    {
+        "position": 5,
+        "title": "Shein Short Sleeve Button Down Shirt: Black Tops - Women's Size Large, thredUP",
+        "link": "https://www.thredup.com/featured/161235201?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOoqNa2eFfSlDR_O0BGDMOEzynj5GwHNMFcawcgvSImyjKP05D7o3Nh8",
+        "product_link": "https://www.google.com/shopping/product/11704889553334996529?gl=us",
+        "product_id": "11704889553334996529",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=11704889553334996529",
+        "source": "ThredUp",
+        "price": "$9.74",
+        "extracted_price": 9.74,
+        "old_price": "$12.99",
+        "extracted_old_price": 12.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTS0WytScMcETOOXC_d9Y1ssnGFtQEzkYSxPgQIwhYYuMCeh7fTdz89Ej7q3zswagXRVW0IXj9OOWP8pLdTDqBwrpdEvQ9N09dK6TC-mSZjnUFfL-q9Gh8R&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 6,
+        "title": "Vintage Men's Shirt - Black - M",
+        "link": "https://www.depop.com/products/frogevtg-vintage-y2k-faded-black-button/?srsltid=AfmBOor2rzIhUaDtj0tulv6J9wSe1493nLybHtZilu_T69LoLIahV1VjhCw",
+        "product_link": "https://www.google.com/shopping/product/3266672337177575596?gl=us",
+        "product_id": "3266672337177575596",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=3266672337177575596",
+        "source": "Depop",
+        "price": "$22.00",
+        "extracted_price": 22.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRnnfHChMwPvy-OHDSRY-LzQkdZ6Pq-HJJatpheMePdyI8-reeaEHfPl4ybEWnYRf8ai1J4z7a1YtmQMJPg8rTq0q6eZoOavJ1RnjfSk7Rj&usqp=CAE",
+        "delivery": "$6.29 delivery"
+    },
+    {
+        "position": 7,
+        "title": "Preloved Women's Shirt - Black - S",
+        "link": "https://www.depop.com/products/morganluvsclothes-y2k-black-bedazzled-emo/?srsltid=AfmBOoph_VnX218Gj--EKk8F2Lf62lLEzgBJvP5c4v3jK61BMkJh_WQwfoE",
+        "product_link": "https://www.google.com/shopping/product/16492255736835780843?gl=us",
+        "product_id": "16492255736835780843",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=16492255736835780843",
+        "source": "Depop",
+        "price": "$25.00",
+        "extracted_price": 25.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSc2zm1-HDBuCpZP2cHJXqv5_ixqNi6LOiGxUEzK0oMokpRj_4KGjj-a0wUMpxH583d4wD2R2Y3_JT7Mrw3MJC6gyr6YS6txdNaFs0XZqM&usqp=CAE",
+        "delivery": "$5.49 delivery"
+    },
+    {
+        "position": 8,
+        "title": "Shein Short Sleeve T-Shirt: Black Tops - Women's Size 0, thredUP",
+        "link": "https://www.thredup.com/featured/139989085?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOopbqIPBEaHg-g_RE41IPGvTACGhkLk1RHHtiMVfVVzXZWwMmpICS2U",
+        "product_link": "https://www.google.com/shopping/product/12797993216382710767?gl=us",
+        "product_id": "12797993216382710767",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=12797993216382710767",
+        "source": "ThredUp",
+        "price": "$7.49",
+        "extracted_price": 7.49,
+        "old_price": "$9.99",
+        "extracted_old_price": 9.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTfKpbqUWcB7wzoYfP4i3UUhAMh2JRISjmcrQg0-FdrStOTmt-eUbZloTC9ghijKCPCmwJdZJ-h29FzZkFBjaGIDNBOZeA5FiqKUwTM1Ahr608RsWReBGAn&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 9,
+        "title": "Shein Short Sleeve T-Shirt: Black Solid Tops - Women's Size Small, thredUP",
+        "link": "https://www.thredup.com/featured/163803000?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOorRBBy-1ZxnB4zEjjMbHL0i63p4lacabeLYG4CF1C4vygiB_Tbo1VY",
+        "product_link": "https://www.google.com/shopping/product/8308931028050239578?gl=us",
+        "product_id": "8308931028050239578",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=8308931028050239578",
+        "source": "ThredUp",
+        "price": "$8.99",
+        "extracted_price": 8.99,
+        "old_price": "$11.99",
+        "extracted_old_price": 11.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRxSuUXRAo2s94N_ssXIXtCKL9K1MMzaG3VKsqN7_h_nFiX3TKK5AlbVMyuauhXpaF3Gj_QJ2Jx9JIFIhdCPS0C-ed7zRHaMLfBos8ZkmMKzzQgWrAWvXV0zA&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 10,
+        "title": "Shein Short Sleeve Top Black Crew Neck Tops - Women's Size 1X, thredUP",
+        "link": "https://www.thredup.com/featured/164574784?department_tags=plus&referral_code=adwords_pla&srsltid=AfmBOorSsFiOAe01kyzRztJsf9gJT_erPycPSMObHutNHy02sbnY44GUQoM",
+        "product_link": "https://www.google.com/shopping/product/209612187735895334?gl=us",
+        "product_id": "209612187735895334",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=209612187735895334",
+        "source": "ThredUp",
+        "price": "$11.99",
+        "extracted_price": 11.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTk3aeyHSU-tMcfVJOJs3IbCL-qqqxJnNHoTew4oGwCqspQifBELRIdSr55czaolBfe8ADras3h5r-4nIS8WsUBKbUaaNLv7Vk6pUCnC76IK35rleH4YVy4&usqp=CAE",
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 11,
+        "title": "Shein Short Sleeve T-Shirt: Black Tops - Women's Size Large, thredUP",
+        "link": "https://www.thredup.com/featured/163120978?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOoqNnRYoxYEfSRYj7AbLO_2_WlX9JkQh26StQpsVoOXWLW8tDg-Zc78",
+        "product_link": "https://www.google.com/shopping/product/8245858861643787887?gl=us",
+        "product_id": "8245858861643787887",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=8245858861643787887",
+        "source": "ThredUp",
+        "price": "$6.74",
+        "extracted_price": 6.74,
+        "old_price": "$8.99",
+        "extracted_old_price": 8.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRAsIm3skblc4k0RnbHmLHu3V4SgP0HZYJH3ll88DoPfWBPtxYuC21QfqDUgq0fvQe8xSZ65Nbr4WSNwv8KKMxgRtZZf54xowSlPoySYco8a491ccn_4rH_&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 12,
+        "title": "Shein Long Sleeve Top Black Tops - Women's Size 12, thredUP",
+        "link": "https://www.thredup.com/featured/154911678?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOooJdZAB5Hj1ri94M8N9Kb04SDDphyyziEmR2bP9S1CBaTDZa8Kfxw8",
+        "product_link": "https://www.google.com/shopping/product/5063486784347344942?gl=us",
+        "product_id": "5063486784347344942",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=5063486784347344942",
+        "source": "ThredUp",
+        "price": "$6.00",
+        "extracted_price": 6.0,
+        "old_price": "$11.99",
+        "extracted_old_price": 11.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQQkVr441QlHGTdMJr5vsalV-e1EVXRVwboOzrBsC4LLQ49HhOaW4uIxm6Xg4CSrKA99uMs5Z3D0o2hbrD1g-aFVj4oA6feP7HRJxmQYRRH5cA0BF2m2awI&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 13,
+        "title": "Shein Long Sleeve Blouse: Black Tops - Women's Size Large, thredUP",
+        "link": "https://www.thredup.com/featured/164394086?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOorEjjOKyJ_NN6QnImjQyIpiVpYzWoomB3L2-wGxkbG18w_7_ThPeoE",
+        "product_link": "https://www.google.com/shopping/product/13548099265443096709?gl=us",
+        "product_id": "13548099265443096709",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=13548099265443096709",
+        "source": "ThredUp",
+        "price": "$16.99",
+        "extracted_price": 16.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ960a2_f7zpqz8wjGf1csqRzKQT4jTTTqk1tTkmnWiTFyctmuGhEtyBzltF6KANxPWhEsr2ZMcxnmaSNMa3KAxEjh8XNDTSqnxlUgikVi0slaHTJqTcuA&usqp=CAE",
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 14,
+        "title": "Shein Short Sleeve Top Black Crew Neck Tops - New - Women's Size Large, thredUP",
+        "link": "https://www.thredup.com/featured/161003332?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOopwWJFfCmsLV9b_LsBYU9ooXO0WISmuzqoFtCcApZlvqDO_5Kz24js",
+        "product_link": "https://www.google.com/shopping/product/13452645188878991087?gl=us",
+        "product_id": "13452645188878991087",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=13452645188878991087",
+        "source": "ThredUp",
+        "price": "$8.24",
+        "extracted_price": 8.24,
+        "extensions": [
+            "$2.75 below typical",
+            "LOW PRICE"
+        ],
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS41-p6muBJnVhygAl05V24yT6DiI2z-Vgb8H41Zlia4d8ZxKr8VYZcAOwlngUzdJzDX-aHpHqqSA2F2uFlqq5j4avA8kWOOdsBZLLiOnX1hWGSOkOD9ZPT&usqp=CAE",
+        "tag": "LOW PRICE",
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 15,
+        "title": "Shein Short Sleeve Blouse: Black Tops - Women's Size 6, thredUP",
+        "link": "https://www.thredup.com/featured/162250383?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOoo_jvxDHUT9AwEGEEGTISctPxQj_Vft6t4nqquYH_Gup5XOnhP6Mlo",
+        "product_link": "https://www.google.com/shopping/product/18248616365321012812?gl=us",
+        "product_id": "18248616365321012812",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=18248616365321012812",
+        "source": "ThredUp",
+        "price": "$6.39",
+        "extracted_price": 6.39,
+        "old_price": "$7.99",
+        "extracted_old_price": 7.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSkHAhVWn3DqxhiMLfj71Yvr0Hu9vvQgY0bwpqAauJKMQ0ndr_lY7RyRugk5HBkODq5qdnmSD0BMmokHVvWkuWOaw4YbGuEDjvAAciGECthLbDh_5tXVjNTUg&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 16,
+        "title": "Shein Short Sleeve Top Black Crew Neck Tops - Women's Size Medium, thredUP",
+        "link": "https://www.thredup.com/featured/159516682?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOooQdVHA1PSbcFKtpitmGctkr-eL0mM3jf_2cYo1tP21Jl4Yef2JemE",
+        "product_link": "https://www.google.com/shopping/product/6743898994930010670?gl=us",
+        "product_id": "6743898994930010670",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=6743898994930010670",
+        "source": "ThredUp",
+        "price": "$7.49",
+        "extracted_price": 7.49,
+        "old_price": "$9.99",
+        "extracted_old_price": 9.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTXNYs3RxrbI42uYd4Z0azLLuSAY-Lw0b1WJuBkXZVtggqdFasbT_4KBaAhfTzLU9aWxAAOGNgq0pRPo69Kj47h-coDbvhr9Wfp1oCjAwsXh3Uvh5BNaxTreA&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 17,
+        "title": "Old Navy Short Sleeve Top Black Tie Neck Tops - Women's Size Large, thredUP",
+        "link": "https://www.thredup.com/featured/146095289?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOopoGDDf_BGdHPXbHqLbWs3tUgVb1yR9fufgvwO_1jyQe0VUhkfdhZs",
+        "product_link": "https://www.google.com/shopping/product/10726355791267836765?gl=us",
+        "product_id": "10726355791267836765",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=10726355791267836765",
+        "source": "ThredUp",
+        "price": "$7.49",
+        "extracted_price": 7.49,
+        "old_price": "$9.99",
+        "extracted_old_price": 9.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRBezFRZsfFneHl_FdHqUDqMJQvXleaoYf_Xfv9Q9vs290LgBfrm9vcsu5jTnRYkT9ZAUfvU4g23a4xeRnr3G9jF6GgOI_30I0V09PQVWk0iPJ9GERcYZ8g&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 18,
+        "title": "Time and Tru Tops | Black, Short Sleeve Shirt | Color: Black | Size: M ...",
+        "link": "https://poshmark.com/listing/Black-short-sleeve-shirt-65e9e6c5ff0484716b4edf25?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/18322633072800200649?gl=us",
+        "product_id": "18322633072800200649",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=18322633072800200649",
+        "source": "Poshmark",
+        "price": "$5.00",
+        "extracted_price": 5.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQf8zq376psGQOIjipjhNwV0thqVLxO9ukGkXwrvsyDi3y3qg2Lgm9rX3Apq2SqCzO-QpUB-_i6yQYq9hinfxSDVY6QFX5ldUo6ElaICEA&usqp=CAE",
+        "delivery": "Delivery by Fri, Mar 29"
+    },
+    {
+        "position": 19,
+        "title": "Shein Short Sleeve Top Black V-Neck Tops - Women's Size Small, thredUP",
+        "link": "https://www.thredup.com/featured/163309648?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOooPrvuDsevgxUMqMT9WBpyTRHOWP5-6TmdgJmqwjl77_GOI3BH6kcE",
+        "product_link": "https://www.google.com/shopping/product/15681381249000016659?gl=us",
+        "product_id": "15681381249000016659",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=15681381249000016659",
+        "source": "ThredUp",
+        "price": "$5.99",
+        "extracted_price": 5.99,
+        "old_price": "$7.99",
+        "extracted_old_price": 7.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRthhAp_f_L8dgjbrRnir0lZxUabbogrUN_wkYVTJSsiTjQt8O3AtP27X9WcfgVctFInA7sEU72EHbwFwff2wTiDbtSzAYe8pwoaUO3cwpAtO77yeFVE0VIag&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 20,
+        "title": "Old Navy Long Sleeve Button Down Shirt: Black Tops - Women's Size Medium, thredUP",
+        "link": "https://www.thredup.com/featured/157911761?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOoqJTka8XPLQ0FMeH0JmcDNuWjW7GiuxYGD0iEEBN79AwGK4v2c2qMg",
+        "product_link": "https://www.google.com/shopping/product/10784567281386696684?gl=us",
+        "product_id": "10784567281386696684",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=10784567281386696684",
+        "source": "ThredUp",
+        "price": "$13.79",
+        "extracted_price": 13.79,
+        "old_price": "$22.99",
+        "extracted_old_price": 22.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTMkIUTY9z7jEnUrL0qo3gZl735E_PsycwquRfteZCXQnuAMA87etoCKJh18np0DCgUQ9KFXSYH95ri2XbsY_Ot_nvYcdaJbGS6pEHJuQcvtHy044hzlgra2Q&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 21,
+        "title": "Social Collision Short Sleeve T-Shirt: Black Solid Tops - Women's Size 2, thredUP",
+        "link": "https://www.thredup.com/featured/163025869?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOopZcq8tbQJemjTUNhtrDS55P4qMKmwrOvJ7q1psJnhAQwiLf_JAU64",
+        "product_link": "https://www.google.com/shopping/product/1092542679949778686?gl=us",
+        "product_id": "1092542679949778686",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=1092542679949778686",
+        "source": "ThredUp",
+        "price": "$8.99",
+        "extracted_price": 8.99,
+        "extensions": [
+            "$3.00 below typical",
+            "LOW PRICE"
+        ],
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQYJgK_ijB1iDGC0Syehajwgc_f3U1CCxc2-ihVEKcbL8k9a7cL12IMF_suBHvX2O5SOG0Qe7tR6yIjTqoLX--eYoSWVN6fMyB0CuKNbj3iMoWtipr3RSjc&usqp=CAE",
+        "tag": "LOW PRICE",
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 22,
+        "title": "Preloved Men's Shirt - Black - XL",
+        "link": "https://www.depop.com/products/704vintage-throttle-threads-triple-eight-racing/?srsltid=AfmBOopMXGF1Ogy6upZsJOZ1veYOC-PHXNqX0gPoP2EswHMIwIhBrtZLl-Y",
+        "product_link": "https://www.google.com/shopping/product/16557710822703159982?gl=us",
+        "product_id": "16557710822703159982",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=16557710822703159982",
+        "source": "Depop",
+        "price": "$40.00",
+        "extracted_price": 40.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQxUyRgODWSCJzFoIzl9HJilCTuFgaflo-clQ_JawluWTTHumhoRSUUskLGgSTYM3IB9Y8qvqv6BRpe3gGGmY-qF9KiC9FwJWbxa3Xo21I&usqp=CAE",
+        "delivery": "$6.29 delivery"
+    },
+    {
+        "position": 23,
+        "title": "Shein Short Sleeve T-Shirt: Black Tops - Women's Size Medium, thredUP",
+        "link": "https://www.thredup.com/featured/162522408?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOooG6ibALkxk9BIrcfbo-AkGEdXnqL8yYJE8BOOPA4JDdt_pBQKLXTo",
+        "product_link": "https://www.google.com/shopping/product/15577788074168364986?gl=us",
+        "product_id": "15577788074168364986",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=15577788074168364986",
+        "source": "ThredUp",
+        "price": "$11.24",
+        "extracted_price": 11.24,
+        "old_price": "$14.99",
+        "extracted_old_price": 14.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR-fYLeriDOjjERGKFcxHLH1LMrIj3Q2Nff1HswtKtUyo6vnovhK7y2F3chIQ0OyjzqUHc96PrBl6XfHeQsGKGXE0kdkjBd4uCfP52GcIAZ0_yb2P5wMScJ&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 24,
+        "title": "Shein Short Sleeve Polo Shirt: Black Tops - Women's Size 0X, thredUP",
+        "link": "https://www.thredup.com/featured/163911848?department_tags=plus&referral_code=adwords_pla&srsltid=AfmBOoqdDbwUs3ABmlVS8NHRIhLU1GI3Wfq-TjLRkohRhg4YAI4dxGqglNs",
+        "product_link": "https://www.google.com/shopping/product/9845919860792459807?gl=us",
+        "product_id": "9845919860792459807",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=9845919860792459807",
+        "source": "ThredUp",
+        "price": "$9.09",
+        "extracted_price": 9.09,
+        "old_price": "$12.99",
+        "extracted_old_price": 12.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS8ygPw7SeRM9zpLRYg0jcfD8FBJF1QCtTgd5w7Ti4asZ03RjsAZ72sRylnEAlQU03H_dZu0EtW9o4bNVnlH0Je_DTN76Q4s4L7lZKz9ziupvMT1MHlbxUaOg&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 25,
+        "title": "Primark Short Sleeve Top Black V Neck Tops - Women's Size 14, thredUP",
+        "link": "https://www.thredup.com/featured/159470477?department_tags=plus&referral_code=adwords_pla&srsltid=AfmBOoqq7oF2VPbslWvblZab0RfLmzNFuyX7WZd7GyqKzTcfTNA7ULXCxsU",
+        "product_link": "https://www.google.com/shopping/product/15186307743697642122?gl=us",
+        "product_id": "15186307743697642122",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=15186307743697642122",
+        "source": "ThredUp",
+        "price": "$8.99",
+        "extracted_price": 8.99,
+        "old_price": "$11.99",
+        "extracted_old_price": 11.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRhlwwUj5GS1zLlCdYW6gpAE0mybpRy7ETK2k8AnqGU5VYpHckiPOMWsywf72vqcifhKhVfXY0Vt6SflE4oUNwVoa4RoxhuM9eMgeVe4gjS2AZfIBCIKNl4&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 26,
+        "title": "Old Navy 3/4 Sleeve Top Black Tie Neck Tops - Women's Size X-Large, thredUP",
+        "link": "https://www.thredup.com/featured/162736611?department_tags=plus&referral_code=adwords_pla&srsltid=AfmBOorKMH6fvl3-05eW0Ar_nIp-Up0WR-8B4Mtq3Ci9fP58HhYNllNpkYQ",
+        "product_link": "https://www.google.com/shopping/product/10183144309768540222?gl=us",
+        "product_id": "10183144309768540222",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=10183144309768540222",
+        "source": "ThredUp",
+        "price": "$7.79",
+        "extracted_price": 7.79,
+        "old_price": "$11.99",
+        "extracted_old_price": 11.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcStn9P5zMRSFUO8iOIqMHzH6XBesK3zVTHilrtsWDipnueBYKx1YsKTme8UHWSlqgs_ZlxzmDlCYgliCMjnBQQnQfPp7E8mortcbanqITwBoQJQ9OSPxclg2w&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 27,
+        "title": "Preloved Men's Shirt - Black - M",
+        "link": "https://www.depop.com/products/thriftapp-size-m-length-bb83/?srsltid=AfmBOopQumCloUZ6F5BX5faQYCcmfVdTWWgFuxGK2SmBsZDECXY_Prz0xgE",
+        "product_link": "https://www.google.com/shopping/product/1634611766779175565?gl=us",
+        "product_id": "1634611766779175565",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=1634611766779175565",
+        "source": "Depop",
+        "price": "$25.00",
+        "extracted_price": 25.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSZZ25UGZisXq_a4YA4Y4hQ8cuOJbHXMf3YeSmqWVKubriHVbm2AXLdCAMoLuXOZu9GgnAukbq9pE7eL3mYtqMqLOD4JcIRQWQDGSPCnMzLvh7ur35wRZvy&usqp=CAE",
+        "delivery": "$5.00 delivery"
+    },
+    {
+        "position": 28,
+        "title": "Old Navy Short Sleeve Button Down Shirt: Black Tops - Women's Size Medium, thredUP",
+        "link": "https://www.thredup.com/featured/155576246?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOopHSi2gI-1HM8YuEQPVwwbpmxUIidJVYK_gxItzb6z6PbnTf9tDTIo",
+        "product_link": "https://www.google.com/shopping/product/6744466808651439739?gl=us",
+        "product_id": "6744466808651439739",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=6744466808651439739",
+        "source": "ThredUp",
+        "price": "$12.74",
+        "extracted_price": 12.74,
+        "old_price": "$16.99",
+        "extracted_old_price": 16.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRxU0UtbIdqHWdTCymVQuOIh7mHpZnHhL3fAUP0KZw8f5215YknY7ILg9VcefuPEF6kMamXY0j-e9VKi9jA_Lk9JmzzWqITSdKHnwyAB76-6eAHg35tqio1VQ&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 29,
+        "title": "Shein Long Sleeve Blouse: Black Tops - Women's Size 6, thredUP",
+        "link": "https://www.thredup.com/featured/149945430?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOop0ZWly2skGb7kaGEw7bhkzulUEYAz9wCj-cPFExQitO7-IAvLfw-o",
+        "product_link": "https://www.google.com/shopping/product/2084588152260870084?gl=us",
+        "product_id": "2084588152260870084",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=2084588152260870084",
+        "source": "ThredUp",
+        "price": "$7.19",
+        "extracted_price": 7.19,
+        "old_price": "$11.99",
+        "extracted_old_price": 11.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQr5uX1P1TCfImzl0DZRktodMnUilQuJ3eHZpi-TYE2N6lXWdv1umv37g1Bf0TpiYuLiuZTZ4WvpzBJ5QJb6f9bXfEvgmF0rkBH1Kla2Ei2jK-cHAK77DlUrg&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 30,
+        "title": "Old Navy Long Sleeve Button Down Shirt: Black Solid Tops - Women's Size X-Large ...",
+        "link": "https://www.thredup.com/featured/161375261?department_tags=plus&referral_code=adwords_pla&srsltid=AfmBOooJvQ_T9wLrbjGWzj4qC0dj9DckFJHALOKt0DWobdUQlcm78n-k2kU",
+        "product_link": "https://www.google.com/shopping/product/8344279644461955893?gl=us",
+        "product_id": "8344279644461955893",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=8344279644461955893",
+        "source": "ThredUp",
+        "price": "$9.89",
+        "extracted_price": 9.89,
+        "old_price": "$17.99",
+        "extracted_old_price": 17.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSyFWDDraePrx8gsWPcVs2SqFfDd5a2OiU1n2vJq9ZBj6HViXSZnjUAue2nB_EErPSFXrXl-mZlp3enMiK2Vib5UhUQBtzBuYj6XUQQ3YwjcVEcib3na_Zl3g&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 31,
+        "title": "Old Navy 3/4 Sleeve Button Down Shirt: Black Tops - Women's Size Medium, thredUP",
+        "link": "https://www.thredup.com/featured/150216698?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOoqxrdhK6jFFsxQQsKUZshSrvZeS2D7NewnlwyRPHcpop1oRcZnSIUU",
+        "product_link": "https://www.google.com/shopping/product/16448562770191043641?gl=us",
+        "product_id": "16448562770191043641",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=16448562770191043641",
+        "source": "ThredUp",
+        "price": "$8.39",
+        "extracted_price": 8.39,
+        "old_price": "$11.99",
+        "extracted_old_price": 11.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTIEAk9aLD-ilx4sFoLbMAKUSE4Vd0ej1J80_ZiNdtSxTH8NAQDFL3keGpNZ645Lk9TBWLpC4TBvfngoSVwLdtxtiWBhAV_7dQAbnQX3NT_MS4BGd8YQsfg&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 32,
+        "title": "Preloved Women's Shirt - Black - M",
+        "link": "https://www.depop.com/products/jincthrifted-y2k-2000s-latina-grunge-emo/?srsltid=AfmBOor3xvb-LyX2Rev6S03A6c1PtTPmzFexKj_h8MV3jLxC30FZ48qA878",
+        "product_link": "https://www.google.com/shopping/product/13054473037589980250?gl=us",
+        "product_id": "13054473037589980250",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=13054473037589980250",
+        "source": "Depop",
+        "price": "$15.00",
+        "extracted_price": 15.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQOfiFXklH9TG6KULFvr5XQ5o1bZO4lExLUqUYtpe6T0C7uuAJmrBkKyIrJJazx2hFfzZKWEwsLCnA9e-u1H2SQ5cepafyjOmx-N6w_Gf0L&usqp=CAE",
+        "delivery": "$5.49 delivery"
+    },
+    {
+        "position": 33,
+        "title": "Old Navy Long Sleeve Button Down Shirt: Black Solid Tops - Women's Size Large ...",
+        "link": "https://www.thredup.com/featured/162243964?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOoopdsVxb42cy4RJcHTBHLeMepurwQwPgX-P_eSTA2MoFJbIo4D_u74",
+        "product_link": "https://www.google.com/shopping/product/15184338570823615671?gl=us",
+        "product_id": "15184338570823615671",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=15184338570823615671",
+        "source": "ThredUp",
+        "price": "$11.39",
+        "extracted_price": 11.39,
+        "old_price": "$18.99",
+        "extracted_old_price": 18.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ7PuRLyJNpDC5YhzV1VmYPsttcPllHMJxXACmIhM-SqGHOcDiz2yNK_iYpZSUuwbgmbXfNGlEsXD9y7rFhOBIIhG9DArm5wdqlxrHvSe3nt3yYfHZtXaJL&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 34,
+        "title": "Shein Long Sleeve Blouse: Black Tops - Women's Size Medium, thredUP",
+        "link": "https://www.thredup.com/featured/162942533?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOoqyO9Dg_XFemIRUwwhMxPudBa98IIi8a8c3_R9HjIIsSt2jXpV8POU",
+        "product_link": "https://www.google.com/shopping/product/11430485586872500140?gl=us",
+        "product_id": "11430485586872500140",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=11430485586872500140",
+        "source": "ThredUp",
+        "price": "$10.19",
+        "extracted_price": 10.19,
+        "old_price": "$16.99",
+        "extracted_old_price": 16.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSVw10dhU8lHpg35g9_KFqEwDSd1vsGFNXThXgBnGp_2CDILQ6ecDzwBCjHEUYHOKMX-EPdE0XF-yHI8rGCbcQM7Z4NTgwjD7BzbZhFj-FK99SMd9gPThPt&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 35,
+        "title": "Dressbarn Short Sleeve Top: Black Tops - Women's Size Small, thredUP",
+        "link": "https://www.thredup.com/featured/162976977?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOoquTLp7YLBbUDKOuVDFAwkqId8DlWAbxA_ZIACC468-VGDMXL_9KPc",
+        "product_link": "https://www.google.com/shopping/product/1561152905846575825?gl=us",
+        "product_id": "1561152905846575825",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=1561152905846575825",
+        "source": "ThredUp",
+        "price": "$9.74",
+        "extracted_price": 9.74,
+        "old_price": "$12.99",
+        "extracted_old_price": 12.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQEAF7JS8InE-Z3SrNbvSDavA7IN7TY7albV8wvlII6gSZfkkowIVE3A1Ljis1T1G_kWBzLh4Lukosv1ezjk0GuIi6Q4fKUl5XJuRIjC6to-ske6rTDhtGYvw&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 36,
+        "title": "Old Navy Short Sleeve Button Down Shirt: Black Tops - Women's Size X-Small, thredUP",
+        "link": "https://www.thredup.com/featured/162792194?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOorcBFJiYyKGkF-LNorkap-eXajzrGiD4y4wcWT4Z31rBPgqK2RuD_E",
+        "product_link": "https://www.google.com/shopping/product/56944521166625965?gl=us",
+        "product_id": "56944521166625965",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=56944521166625965",
+        "source": "ThredUp",
+        "price": "$10.49",
+        "extracted_price": 10.49,
+        "old_price": "$13.99",
+        "extracted_old_price": 13.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQmEPBSXF3xRcvX_ITqGVvQ8ox4ppi4i-r6UETfSO6mUyWISZBXjqfJroadDjVVbzaojkSI86G8wPrkwnM0NX8H6wm2uox-nE-pLyUnPnU4PWstytf42Vef&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 37,
+        "title": "Retrology Short Sleeve Top Black Tops - Women's Size Large, thredUP",
+        "link": "https://www.thredup.com/featured/152113995?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOooytRQuz8f594ze_tt7wRgQ7IrjWByDjn9V3nLy2dsGrIOJW_oJrOU",
+        "product_link": "https://www.google.com/shopping/product/14853305019291359927?gl=us",
+        "product_id": "14853305019291359927",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=14853305019291359927",
+        "source": "ThredUp",
+        "price": "$8.99",
+        "extracted_price": 8.99,
+        "old_price": "$11.99",
+        "extracted_old_price": 11.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTUZFAM05TS_eseG7zjzX6v3ljK9ydIDumzWZ7dDgYXZIini_gJuSXT9gTmy0RpatX5hsaI4_E5ZOwuRsSuceJAy0dN2COUiIi7WD8DA3hrTlBHltYS_R-vDw&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 38,
+        "title": "Carry Back Long Sleeve Button Down Shirt: Black Tops - Women's Size 6, thredUP",
+        "link": "https://www.thredup.com/featured/154912268?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOorcWSMo77Yy-VS8erpcJgBEwih53Ole-wG58oq0QTH9F_z4LQL2xlA",
+        "product_link": "https://www.google.com/shopping/product/9356136733018649207?gl=us",
+        "product_id": "9356136733018649207",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=9356136733018649207",
+        "source": "ThredUp",
+        "price": "$7.19",
+        "extracted_price": 7.19,
+        "old_price": "$11.99",
+        "extracted_old_price": 11.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTu5b_D7E5nSUXKPyJ9_If4X8FEY5-ETY_uh_HfQSV15SpJs32IE3wnzvRjDkg93XzHYCRwaVSFkPQDEUzcpg3lU2FqtTd0aPdED0w799AhXDlY430VaVTM&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 39,
+        "title": "Cyrus Short Sleeve Top Black Tops - Women's Size Small, thredUP",
+        "link": "https://www.thredup.com/featured/161440121?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOopG-7MLSDDB75xgt1wVWu5XL26Ci_AQgpJQbt6jh-qO0lvtCgNYUEg",
+        "product_link": "https://www.google.com/shopping/product/12255171255179931828?gl=us",
+        "product_id": "12255171255179931828",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=12255171255179931828",
+        "source": "ThredUp",
+        "price": "$8.24",
+        "extracted_price": 8.24,
+        "old_price": "$10.99",
+        "extracted_old_price": 10.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTvnuopfs3Dox0rzG6x36qKxxRUC-DPLGo_dFXnGrwpH7XULHzXEDNYaMGfPzXAPC5zoB1OSYI65S1koZDEzSoqNyOLcR2Pv-LbdhPHy7lI-J9ym0_K3crs&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 40,
+        "title": "Danger Field Short Sleeve Button Down Shirt: Black Tops - Women's Size 8, thredUP",
+        "link": "https://www.thredup.com/featured/162871037?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOoorgTidIvYQv0qFg4kwkbWVw6OEUHk0wcdyGLPONHWZ270Rp-DZ7v0",
+        "product_link": "https://www.google.com/shopping/product/4179171653252639797?gl=us",
+        "product_id": "4179171653252639797",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=4179171653252639797",
+        "source": "ThredUp",
+        "price": "$11.24",
+        "extracted_price": 11.24,
+        "extensions": [
+            "$3.75 below typical",
+            "LOW PRICE"
+        ],
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS3g-nEH9TJRPRk3UNmwFcf2zp1v-3W4sbdUj5wmX_-Xw6S6_HbeoaTJspDv-150HcieW6Jgt09P0HLzWIBDV2X03UdywS-p2i-khz5jbQSoKF6-sOkT3_X9w&usqp=CAE",
+        "tag": "LOW PRICE",
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 41,
+        "title": "E.L.I Long Sleeve T-Shirt: Black Tops - Women's Size Small, thredUP",
+        "link": "https://www.thredup.com/featured/146821468?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOoraaHS7_C8X7Hwiv8MY7_Q2j70fMQORkd-geQNko6kRQBLPWbXizRs",
+        "product_link": "https://www.google.com/shopping/product/9779144597430471053?gl=us",
+        "product_id": "9779144597430471053",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=9779144597430471053",
+        "source": "ThredUp",
+        "price": "$6.50",
+        "extracted_price": 6.5,
+        "old_price": "$12.99",
+        "extracted_old_price": 12.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQQCKa2eai_29EG_H9RdPEcAWRXypSohqziBAsVyLW8drn2dWGdSAr-YXgIMHAAHgSPXVOdw8wUkMrVgnzOPh2tqJrLHGA9zaqvGx5H4saZgmNh7HAR0yhj&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 42,
+        "title": "Shein Long Sleeve Blouse: Black Tops - Women's Size 16, thredUP",
+        "link": "https://www.thredup.com/featured/154600143?department_tags=plus&referral_code=adwords_pla&srsltid=AfmBOopNMNkpEjXU5Fr-_dlJPGTe7DbRkR0FzZTODptMWwPp0RPQfk5Kn1U",
+        "product_link": "https://www.google.com/shopping/product/1026816358685886550?gl=us",
+        "product_id": "1026816358685886550",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=1026816358685886550",
+        "source": "ThredUp",
+        "price": "$8.99",
+        "extracted_price": 8.99,
+        "old_price": "$14.99",
+        "extracted_old_price": 14.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSxlwikctFxiIbEDOWFqQ_TNb0b2F8CsgP6z3rSMYl4UTQgPVL39tmEu7EjBn4GOq60aLFpRObRFSrH1D9ZD59K_v36WLuvLC6cABrzkHvm8z-MQXfeW_T-OQ&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 43,
+        "title": "Denim Forum Short Sleeve Button Down Shirt: Black Tops - Women's Size X-Small ...",
+        "link": "https://www.thredup.com/featured/156200605?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOopc_pRmm7p3kJgq4UpRx7FIPPav0hUrt7rt6suzQmbfFGQy-qrDOEE",
+        "product_link": "https://www.google.com/shopping/product/15448348125378160490?gl=us",
+        "product_id": "15448348125378160490",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=15448348125378160490",
+        "source": "ThredUp",
+        "price": "$19.49",
+        "extracted_price": 19.49,
+        "old_price": "$25.99",
+        "extracted_old_price": 25.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTJSxSAogmbCe4gBYuJZUNKlpDbiLERYznYrcIZ8Fngm-m44ONGKT-l0we-YzppvnEMEkXVDHIKkP_FRg6Y2oqf_nkGbEfR_6IZveoH22W4T1lVeFRr7clj-A&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 44,
+        "title": "Shein Long Sleeve Blouse: Black Tops - Women's Size 10, thredUP",
+        "link": "https://www.thredup.com/featured/149601019?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOoqGToUgvGpgUBUV-IhLTg4f3vjz5c6JY6Wdox-ZSL5vRF8zSAulsDc",
+        "product_link": "https://www.google.com/shopping/product/17920403863862931571?gl=us",
+        "product_id": "17920403863862931571",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=17920403863862931571",
+        "source": "ThredUp",
+        "price": "$7.19",
+        "extracted_price": 7.19,
+        "old_price": "$11.99",
+        "extracted_old_price": 11.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT8eN7OW_uVqBRsPIAaRKa9XelYjYsxz80OFMY-dALCFvilL6056SbCVyyp7DoXOoAay2ZItc7OtZTRfzjpqMeO0zgpN3Xk15YVWO50bL-EMxenCbXnV7ZLMQ&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 45,
+        "title": "Preloved Women's Shirt - Black - L",
+        "link": "https://www.depop.com/products/bronzevampire-black-long-sleeved-graphic-y2k/?srsltid=AfmBOooB7d1AhgSEiTCKt72KZkusZIsL9QSvUP_yz-qJDWGF4E6K8fojp64",
+        "product_link": "https://www.google.com/shopping/product/8646561325864076047?gl=us",
+        "product_id": "8646561325864076047",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=8646561325864076047",
+        "source": "Depop",
+        "price": "$20.00",
+        "extracted_price": 20.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRXuBohqVqrr2ttp1_ESxouCAmTW7NPx-Oyh0uMiHmj86cy6Fg4lngmSre2irO6zyiWAy5IjZ8kgqOskHhlBgQieP_Y2DLWnYo49QkQ5Pdr&usqp=CAE",
+        "delivery": "$5.49 delivery"
+    },
+    {
+        "position": 46,
+        "title": "Torrid Black Long Sleeve Shirt - Women | Color: Black | Size: 2",
+        "link": "https://www.mercari.com/us/item/m57993991243/?srsltid=AfmBOoqdQEkrJdmtjOyDefmt5TrYVPC-RZ_9LTiDaY0Lo51Pf77_z6y1v_I&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+        "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:9573028878029543338",
+        "product_id": "9573028878029543338",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=9573028878029543338",
+        "source": "Mercari",
+        "price": "$25.00",
+        "extracted_price": 25.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTT8FDLZvSRsXd4JiQLQOSKdAMnerO9s4FRwlXHYSuwuRyl7AuszaJIsOX5-t2K5TNeeJWACCGn-W9ywoF8V7Lcf35rW7mBNKdHQgOYZYY&usqp=CAE",
+        "delivery": "$6.99 delivery"
+    },
+    {
+        "position": 47,
+        "title": "Ralph Lauren Tops | Ralph Lauren Women\u2019s Shirt Xxs, Black | Color: Black | Size ...",
+        "link": "https://poshmark.com/listing/Ralph-Lauren-womens-shirt-XXS-black-65026feeff048484ce9bdc0a?srsltid=AfmBOoqodsjwdUNlsaD7LCvkKQeEzFV661cUM1Y69Bilz_DgjUAO_6PQjcU&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:5095263381369755025",
+        "product_id": "5095263381369755025",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=5095263381369755025",
+        "source": "Poshmark",
+        "price": "$18.00",
+        "extracted_price": 18.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT742OgyA5nVaARn41elSwxBSSJgjMbLLd5EoHjaUXFN2ahOOitAx_dFpG8DR12iucmBvLIKVq9z4uXyBYSn8uTQJNamSs6LZm-ztl7nS0&usqp=CAE",
+        "delivery": "Delivery by Fri, Mar 29"
+    },
+    {
+        "position": 48,
+        "title": "Reborn J Short Sleeve Button Down Shirt: Black Tops - Women's Size Large, thredUP",
+        "link": "https://www.thredup.com/featured/159289746?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOopfBunfPBXhbBa5ibMKq9EA2Uq52qWKdtzQUI_IanS_OPYyOTYF-6I",
+        "product_link": "https://www.google.com/shopping/product/12653847326382650798?gl=us",
+        "product_id": "12653847326382650798",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=12653847326382650798",
+        "source": "ThredUp",
+        "price": "$15.74",
+        "extracted_price": 15.74,
+        "old_price": "$20.99",
+        "extracted_old_price": 20.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS54jhfExZYm2jdTJC9JkCbk88AnpcBIg0Y1W6sfevQkhr9mIRWitwKn0p2sWoL8PNbtoLA_XdJjE5V8yRUIH-qMeg63oOBYBfQvWxT1o8YUcUNXDDnH8Fy&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 49,
+        "title": "The Limited Short Sleeve Top Black Tops - Women's Size Large, thredUP",
+        "link": "https://www.thredup.com/featured/162921888?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOoqHZ0oZCDn0qqPC7l1KQmN6ROxoOCViDqmsKa3cVi2xTZTcmhdh4qw",
+        "product_link": "https://www.google.com/shopping/product/4134338431763171823?gl=us",
+        "product_id": "4134338431763171823",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=4134338431763171823",
+        "source": "ThredUp",
+        "price": "$9.74",
+        "extracted_price": 9.74,
+        "old_price": "$12.99",
+        "extracted_old_price": 12.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR_1flPGBsIToqL6M8dvkLTLaFrIoIkVvEXUQsqY1-3oMgcjW2KC_yPrM5-Vr0dZEnhlTraJK2LBYVkmU1eN_owhuX3_A1V_Aronnqu87kGBqE2y2ah8F3p&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 50,
+        "title": "Shein Long Sleeve Blouse: Black Tops - Women's Size 2, thredUP",
+        "link": "https://www.thredup.com/featured/162340668?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOoqr2CV6s94yTCOuWDaZvpbeduK1lVVN9fpw_XC5dfugNqPezGsgrUc",
+        "product_link": "https://www.google.com/shopping/product/9554230686403317407?gl=us",
+        "product_id": "9554230686403317407",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=9554230686403317407",
+        "source": "ThredUp",
+        "price": "$10.19",
+        "extracted_price": 10.19,
+        "old_price": "$16.99",
+        "extracted_old_price": 16.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQJ9Cae0lerTVTeDnPiep0pAWRrqNe8ag8HpCb0URsyVL1Nb30Aqj69z_82oJI6X9Ffgs45CGBaw_7bZ8G_Zaoz_Q9C9vEJTzHt2BHkMaapdo-qClgDGEFirA&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 51,
+        "title": "The Limited Long Sleeve Top Black Tops - Women's Size Medium, thredUP",
+        "link": "https://www.thredup.com/featured/162405175?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOorqrK6AeafcBtlm2jLZKq3pJP4sL8C-X889nN4LQCOtmSHxArMGPHE",
+        "product_link": "https://www.google.com/shopping/product/11982147584973089746?gl=us",
+        "product_id": "11982147584973089746",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=11982147584973089746",
+        "source": "ThredUp",
+        "price": "$9.50",
+        "extracted_price": 9.5,
+        "old_price": "$18.99",
+        "extracted_old_price": 18.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRl-1_lE7fog0jzq55oQweHgJet_Jn3IQHeDbev6l7xqAnXiyZ67rRdFvyKKlaMAucW34mzbAGFGQ5MwjjmAEbqZqve_ZmJr27qwFI-gq8XA-9xUjiKa6Kfqg&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 52,
+        "title": "Tahari Short Sleeve T-Shirt: Black Tops - Women's Size Small, thredUP",
+        "link": "https://www.thredup.com/featured/163251772?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOoow2OPTChOOUFbDEILKAl4oL39fPILFn5RveMfQ4cdbvnJsUPRHm2g",
+        "product_link": "https://www.google.com/shopping/product/7286847940937599625?gl=us",
+        "product_id": "7286847940937599625",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=7286847940937599625",
+        "source": "ThredUp",
+        "price": "$9.74",
+        "extracted_price": 9.74,
+        "old_price": "$12.99",
+        "extracted_old_price": 12.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTa334l1iKV8GmB1EjbRzi7e1ndukSTO19fFVI5T1bGEYl5GJ7pY2NeWtSTaEFNnfJV5vudyoFHYDmxQX2NUOuftA0moaOmsYPgWKr-sbJMkEY6rED5l6vK&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 53,
+        "title": "Story on Short Sleeve Top Black Tops - Women's Size Medium, thredUP",
+        "link": "https://www.thredup.com/featured/149605928?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOoon0QoxGn8lMITBRCXL0LON7WiaClayKy4dxJFxb0ABBmfOGe1RTPY",
+        "product_link": "https://www.google.com/shopping/product/4430975919197191720?gl=us",
+        "product_id": "4430975919197191720",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=4430975919197191720",
+        "source": "ThredUp",
+        "price": "$8.99",
+        "extracted_price": 8.99,
+        "old_price": "$11.99",
+        "extracted_old_price": 11.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQVQOW042KCIxX2qusoZ9pcdZlbG67RK_F9K4wS-T69wHLE47xUymInfEDEHh9hKtQjXfJn34uMWhOPaZBYWWAgwdz2SshbVpGgUoWAFKH4Wthw3CkOHmFt&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 54,
+        "title": "Old Navy Short Sleeve T-Shirt: Black Tops - Women's Size X-Large, thredUP",
+        "link": "https://www.thredup.com/featured/161667838?department_tags=plus&referral_code=adwords_pla&srsltid=AfmBOopaz-qUcOBnEJ48hbLsqF-7SvpiqziHD9A-vvQC97Yd2OEIN-5NHaY",
+        "product_link": "https://www.google.com/shopping/product/17394024715525421247?gl=us",
+        "product_id": "17394024715525421247",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=17394024715525421247",
+        "source": "ThredUp",
+        "price": "$7.49",
+        "extracted_price": 7.49,
+        "old_price": "$9.99",
+        "extracted_old_price": 9.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQkXGl-dsr9LxKQCCwd_b1qQN5rlOUVziJSRazbzlwJSTj8VGnDPsQ0Q6cBrEgrLZbIQPI3F8_cYqOogKSupcTkj6S87-u0__Bbf390a1XWhGSnGI94JJRx4A&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 55,
+        "title": "Shein 3/4 Sleeve Blouse: Black Solid Tops - Women's Size 3X, thredUP",
+        "link": "https://www.thredup.com/featured/162515153?department_tags=plus&referral_code=adwords_pla&srsltid=AfmBOoq4XP1xDiiJihQWOCIJ5eDJ1SWRMVJtBbx3uLBkc-MTx44NYh1Lur8",
+        "product_link": "https://www.google.com/shopping/product/14595160838253182119?gl=us",
+        "product_id": "14595160838253182119",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=14595160838253182119",
+        "source": "ThredUp",
+        "price": "$13.99",
+        "extracted_price": 13.99,
+        "old_price": "$19.99",
+        "extracted_old_price": 19.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBYFEaSzXzxAZw7oipNf1NTTsOia_tRP367P0HdpdwdOTzBy5EE-VzaBrwAg4XNRmVh6VAxxFp1qVX1RRWKRy_ZMemidFTHMgxdBY_uDA2g5JbhNsYI8JtTw&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 56,
+        "title": "de Collection Short Sleeve T-Shirt: Black Tops - Women's Size Medium, thredUP",
+        "link": "https://www.thredup.com/featured/159987899?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOopQS05C_zOwuD6Py2A2T2O3bGCbvpbfCRrEkC124WuE3cLuKLMS0g8",
+        "product_link": "https://www.google.com/shopping/product/12986011831901429946?gl=us",
+        "product_id": "12986011831901429946",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=12986011831901429946",
+        "source": "ThredUp",
+        "price": "$8.99",
+        "extracted_price": 8.99,
+        "old_price": "$11.99",
+        "extracted_old_price": 11.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTf5-9yaqGvCLWT7aE3F_nbhqvt9LtzD7LCANUb3kTEO-wYBKq37LMly8cuMJYQATdwG6ZB7IRcVWRouH70JfUoEKSJiNuxIdtMFqS5cWt00vKOQD3m5-cGzg&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 57,
+        "title": "Shein Long Sleeve Blouse: Black Tops - Women's Size 0X, thredUP",
+        "link": "https://www.thredup.com/featured/160429161?department_tags=plus&referral_code=adwords_pla&srsltid=AfmBOooIkWJLk7tKKfmQNwUOgeXRfRcE57LIkY4WtpiapjS7_yDV_VrII-s",
+        "product_link": "https://www.google.com/shopping/product/625007027459950771?gl=us",
+        "product_id": "625007027459950771",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=625007027459950771",
+        "source": "ThredUp",
+        "price": "$8.99",
+        "extracted_price": 8.99,
+        "old_price": "$14.99",
+        "extracted_old_price": 14.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS9P_4AzDoV9ub6O8jdICdCt3Cqh-hDuZatPR5V35TtXHwXV7uJPHVDLtJv-ZS0_sYqbokkjHXtERnG5ZXXJ062V16okvtmYx7AToQq1EprdcLB09Sn6N90&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 58,
+        "title": "Offline by Aerie Short Sleeve T-Shirt: Black Tops - Women's Size X-Small, thredUP",
+        "link": "https://www.thredup.com/featured/150861521?department_tags=juniors&referral_code=adwords_pla&srsltid=AfmBOornv9JLvv-RjAgyi3P-M6LdGtCxPPc0FjQcgy0fptPEJqZ8DTBW218",
+        "product_link": "https://www.google.com/shopping/product/4902526391138776320?gl=us",
+        "product_id": "4902526391138776320",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=4902526391138776320",
+        "source": "ThredUp",
+        "price": "$8.99",
+        "extracted_price": 8.99,
+        "old_price": "$11.99",
+        "extracted_old_price": 11.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRAswS-qS3q0_nEr6O7sJ8hUzH4kilbuxZMZVIqovp1ILcYiTwORbWLgUUBypGsvNWAfXyrd34Z-YCCMTWJqPPsYtSmJUozTpGjc_pFvnQuDbOIhlq5B2SZrQ&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 59,
+        "title": "Tee Shop Short Sleeve T-Shirt: Black Tops - Women's Size Small, thredUP",
+        "link": "https://www.thredup.com/featured/149957318?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOopsYQ9zdHtpxbLhOvOy9XFsBW4mutZjd6st5y7vxMHKNWcBdppcBNA",
+        "product_link": "https://www.google.com/shopping/product/3740905078521952369?gl=us",
+        "product_id": "3740905078521952369",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=3740905078521952369",
+        "source": "ThredUp",
+        "price": "$7.49",
+        "extracted_price": 7.49,
+        "old_price": "$9.99",
+        "extracted_old_price": 9.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT8V0AU-kPTyLtijpIpUkFmDDwa6EZe0Fsob2FqNjHUPmyq65yRQGPkJ_WyAFVPRS_CsJT1f0uI0drPwkBZZUWE8_P1KFqwXusoW5CdCy_1mU-Ma7nlwBO3&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
+    },
+    {
+        "position": 60,
+        "title": "Denim & Supply Ralph Lauren 3/4 Sleeve Blouse: Black Tops - Women's Size Small ...",
+        "link": "https://www.thredup.com/featured/162327948?department_tags=women&referral_code=adwords_pla&srsltid=AfmBOooWKkouSnmyVfAVi30WnWQUpDNY5qjb3zhxqPoCgARwrd-9d-Mi4o4",
+        "product_link": "https://www.google.com/shopping/product/12212244058919479573?gl=us",
+        "product_id": "12212244058919479573",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=12212244058919479573",
+        "source": "ThredUp",
+        "price": "$18.89",
+        "extracted_price": 18.89,
+        "old_price": "$26.99",
+        "extracted_old_price": 26.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQMnlb2dxHED2dyjTgN54olnUmZARfHK9EAviKC6n85KIhWik1kId3yH4Kg17_ThcrNVok7eKMkURjcDGMuNn7d7AvJrZs_fat2DkhnKQZhEhrd2nrostdD&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Fri, Apr 5",
+        "store_rating": 3.8,
+        "store_reviews": 12
     }
-}
+]
