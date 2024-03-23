@@ -1,0 +1,33 @@
+/* About.css */
+.about-container {
+    display: flex;
+    align-items: center; /* This will vertically align items if they don't have the same height */
+    justify-content: center; /* This will horizontally align items to the center */
+    padding: 50px; /* Add padding as needed */
+    gap: 20px; /* Spaces out the flex children */
+  }
+  
+  .about-text {
+    flex: 1; /* Takes up half the width of the container */
+    max-width: 600px; /* Adjust maximum width as needed */
+  }
+  
+  .about-image {
+    flex: 1; /* Takes up the remaining width of the container */
+    display: flex;
+    justify-content: center; /* Center the image within the div */
+  }
+  
+  .about-image img {
+    width: 100%; /* Make the image responsive */
+    max-width: 500px; /* Adjust maximum width as needed */
+    height: auto; /* Maintain aspect ratio */
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .about-container {
+      flex-direction: column;
+    }
+  }
+  
