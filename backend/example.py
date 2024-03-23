@@ -15,7 +15,20 @@ def reverse_image_search(image_url):
     else:
         return "Error: " + response.text
 
+def filter_results(results):
+    filtered_links = []
+    domains = ["mercari.com", "poshmark.com", "ebay.com", "grailed.com", "depop.com"]
+    for image in results.get("images_results", []):
+        link = image.get("link", "")
+        if any(domain in link for domain in domains):
+            filtered_links.append(link)
+    return filtered_links
+
 if __name__ == "__main__":
     image_url = "URL_OF_THE_IMAGE_YOU_WANT_TO_SEARCH"
     results = reverse_image_search(image_url)
-    print(results)
+    if isinstance(results, dict):
+        filtered_links = filter_results(results)
+        print(filtered_links)
+    else:
+        print(results)
