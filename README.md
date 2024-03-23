@@ -50,3 +50,4 @@ The app focuses on providing eco-friendly shopping suggestions by analyzing link
 - **Peter**: Leads the design efforts, specializing in the use of Tailwind CSS.
 
 
+https://www2.hm.com/en_us/productpage.1206841001.html
