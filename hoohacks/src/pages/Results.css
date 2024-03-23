@@ -1,0 +1,63 @@
+/* ProductsList.css */
+.card-title a,
+.card-text a {
+  text-decoration: none;
+}
+
+.card-custom {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+  width: 100%; 
+  height: auto; 
+  margin-bottom: 2rem; 
+  overflow: hidden;
+}
+
+.card-custom:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
+}
+.card-img-top {
+  width: 100%;
+  min-height: 350px; 
+  height: auto;
+  object-fit: cover;
+}
+
+.card-body {
+
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; 
+}
+
+.card-custom:hover .card-img-top {
+  transform: scale(1.05);
+}
+
+.card-title,
+.card-text {
+  transition: color 0.3s ease;
+}
+
+.card-custom:hover .card-title {
+  color: #198754; 
+}
+
+.card-custom:hover .card-text {
+  color: #495057;
+}
+.card-img-top {
+  height: 200px;
+  object-fit: cover; 
+}
+
+.card-body {
+  flex: 1;
+}
+
+.card-title a,
+.card-text a {
+  text-decoration: none;
+}
