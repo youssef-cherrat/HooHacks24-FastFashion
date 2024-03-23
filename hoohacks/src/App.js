@@ -6,23 +6,24 @@ import { SearchBar } from './components/SearchBar';
 import About from "./pages/About"; // Comment out
 import { Container } from 'react-bootstrap';
 import './App.css';
+import FAQ from "./components/FAQ";
 
 function App() {
   return (
     <Router>
       <div className="App">
         <NavBar />
-        <div className="app-content"> {/* Flex container */}
+        <Routes>
+          <Route path="/" element={<>        <div className="app-content"> {/* Flex container */}
           <Container className="banner-search-container">
             <BannerSearch />
           </Container>
           <Container className="search-bar-container">
             <SearchBar />
           </Container>
-        </div>
-        <Routes>
-          <Route path="/" element={<></>} />
+        </div></>} />
           <Route path="/about" element={<About />} />
+          <Route path="/faq" element={<FAQ />} />
         </Routes>
       </div>
     </Router>
