@@ -1,4 +1,3 @@
-
 from serpapi import GoogleSearch
 import json
 import colorscraper as scrape

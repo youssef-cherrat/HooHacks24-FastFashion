@@ -44,7 +44,7 @@ known_colors = [
     "bright blue", "bright purple", "bright pink", "dark red",
     "dark blue", "dark green", "dark yellow", "dark purple",
     "light blue", "light green", "light yellow", "light purple",
-    "light pink", "dark pink", "dark orange"
+    "light pink", "dark pink", "dark orange", "toffee"
 ]
 
 # for the header (No change needed here, it's correctly defined)
