@@ -8,7 +8,7 @@ import { Container } from "react-bootstrap";
 import "./App.css";
 import FAQ from "./components/FAQ";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
-import ProductList from "./components/ProductList";
+import Results from "./pages/Results";
 const queryClient = new QueryClient();
 
 function App() {
@@ -33,7 +33,7 @@ function App() {
                       <SearchBar />
                     </Container>
                   </div>
-                  <ProductList />
+                  <Results />
                 </>
               }
             />
