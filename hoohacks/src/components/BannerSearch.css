@@ -1,74 +1,75 @@
 .banner {
-    margin-top: 0;
-    padding: 30px 0;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    text-align: center; /* Ensure text alignment is centered */
-    
-  }
-  
-  .banner .tagline {
-    font-weight: 700;
-    letter-spacing: 0.8px;
-    padding: 8px 10px;
-    background: linear-gradient(90.21deg, rgba(170, 54, 124, 0.5) -5.91%, rgba(74, 47, 189, 0.5) 111.58%);
-    border: 1px solid rgba(255, 255, 255, 0.5);
-    font-size: 20px;
-    margin-bottom: 16px;
-    display: inline-block;
-  }
-  .banner h1 {
-    font-size: 150px; /* Increased font size */
-    font-weight: 700;
-    letter-spacing: 0.8px;
-    line-height: 1;
-    margin: 0; /* Remove specific margins to allow centering */
-    display: block;
-    text-align: center; /* Ensure text is centered */
-  }
-  
-  .banner h2 {
-    height: 100px; /* Example height; adjust based on your needs */
-    overflow: hidden; /* Prevents overflow if the text is unexpectedly large */
-    margin: 0 auto;
-    padding: 0;
-    text-align: center;
+  margin-top: 0;
+  padding: 30px 0;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center; /* Ensure text alignment is centered */
 }
 
-  
-  .banner p {
-    color: #B8B8B8;
-    font-size: 18px;
-    letter-spacing: 0.8px;
-    line-height: 1.5em;
-    width: 96%;
-  }
-  .banner button {
-    color: #fff;
-    font-weight: 700;
-    font-size: 20px;
-    margin-top: 60px;
-    letter-spacing: 0.8px;
-    display: flex;
-    align-items: center;
-  }
-  .banner button svg {
-    font-size: 25px;
-    margin-left: 10px;
-    transition: 0.3s ease-in-out;
-    line-height: 1;
-  }
-  .txt-rotate > .wrap {
-    border-right: 0.08em solid #666;
-  }
+.banner .tagline {
+  font-weight: 700;
+  letter-spacing: 0.8px;
+  padding: 8px 10px;
+  background: linear-gradient(
+    90.21deg,
+    rgba(170, 54, 124, 0.5) -5.91%,
+    rgba(74, 47, 189, 0.5) 111.58%
+  );
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  font-size: 20px;
+  margin-bottom: 16px;
+  display: inline-block;
+}
+.banner h1 {
+  font-size: 150px; /* Increased font size */
+  font-weight: 700;
+  letter-spacing: 0.8px;
+  line-height: 1;
+  margin: 0; /* Remove specific margins to allow centering */
+  display: block;
+  text-align: center; /* Ensure text is centered */
+}
+
+.banner h2 {
+  height: 100px; /* Example height; adjust based on your needs */
+  overflow: hidden; /* Prevents overflow if the text is unexpectedly large */
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+}
+
+.banner p {
+  color: #b8b8b8;
+  font-size: 18px;
+  letter-spacing: 0.8px;
+  line-height: 1.5em;
+  width: 96%;
+}
+.banner button {
+  color: #fff;
+  font-weight: 700;
+  font-size: 20px;
+  margin-top: 60px;
+  letter-spacing: 0.8px;
+  display: flex;
+  align-items: center;
+}
+.banner button svg {
+  font-size: 25px;
+  margin-left: 10px;
+  transition: 0.3s ease-in-out;
+  line-height: 1;
+}
+.txt-rotate > .wrap {
+  border-right: 0.08em solid #666;
+}
 /*   
   @media (max-width: 768px) {
     .banner h1 {
       font-size: 60px; /* Smaller font size for mobile */
-    /* }
+/* }
     .banner h2 {
       font-size: 30px; /* Adjust accordingly for mobile */
-    /* }
+/* }
   } */
-   

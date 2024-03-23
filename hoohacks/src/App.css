@@ -1,19 +1,18 @@
 .App {
-  margin-top: 100px;
-  background-image: url('./assets/img/aaq3.jpg');
-  color: white; 
-  /* Add other background-related styles here */
-  background-size: cover; /* Example: Cover the entire area */
-  background-repeat: no-repeat; /* Don't repeat the image */
-  background-position: center; /* Center the image in the element */
+  margin-top: 50px; /*this is what causing the gap at top */
+  background-image: url("./assets/img/aaq3.jpg");
+  color: white;
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   /* text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); */
-  font-family: 'GT Flexa', sans-serif;
-  
+  font-family: "GT Flexa", sans-serif;
 }
 
 /* App.css */
 .banner-search-container {
-  min-height: 400px; /* Adjust based on your content */
+  min-height: 400px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -25,13 +24,9 @@
   flex-direction: column;
 }
 
-/* * {
-  background-image:  url('./assets/img/aaq3.jpg');;
-} */
-
 @font-face {
-  font-family: 'GT Flexa';
-  src: url('./assets/fonts/GT-Flexa-Trial-VF.ttf') format('truetype');
+  font-family: "GT Flexa";
+  src: url("./assets/fonts/GT-Flexa-Trial-VF.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
