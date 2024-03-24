@@ -12,7 +12,7 @@ The app focuses on providing eco-friendly shopping suggestions by analyzing link
   - **Front End**: React.js
   - **UI Components**: Bootstrap
   - **Web Scraping**: Playwright
-  - **Data Fetching**: Axios/Tanstack Query
+  - **Data Fetching**: Fetch/Tanstack Query
   - **APIs**: [SERP API for Google Lens](https://serpapi.com/google-lens-api)
 
 ## Pages
@@ -22,6 +22,7 @@ The app focuses on providing eco-friendly shopping suggestions by analyzing link
 - **Favorites**: (Requires database integration, potentially using MongoDB for its no-SQL, ease-of-use characteristics)
 - **FAQ**
 - **About**
+- **Contact**
 
 ## Data Flow
 
@@ -46,7 +47,7 @@ The app focuses on providing eco-friendly shopping suggestions by analyzing link
 ## Team Organization
 
 - **Alan Cai and Youssef Cherrat**: Responsible for the integration and management of the reverse Google Lens search API.
-- **Ethan**: Focuses on utilizing the fetch API for data fetching tasks.
+- **Ethan**: Focuses on utilizing the fetch API for data fetching tasks and assisting with front-end work.
 - **Peter**: Leads the design efforts, specializing in the use of Tailwind CSS.
 
 
