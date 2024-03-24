@@ -24,8 +24,9 @@ def write_results_to_file(search_term):
         if item.get('source') != "Shein":
             filtered_results.append(item)
             
-            
-    with open('results.json', 'w') as f:
+    file_path = r'./hoohacks/public/websites.json'
+
+    with open(file_path, 'w') as f:
         json.dump(filtered_results, f, indent=4)
     print("Results written to file")
     
