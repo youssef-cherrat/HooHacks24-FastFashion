@@ -6,7 +6,7 @@ import { SearchBar } from "./components/SearchBar";
 import About from "./pages/About"; // Comment out
 import { Container } from "react-bootstrap";
 import "./App.css";
-import FAQ from "./components/FAQ";
+import Faq from "./pages/Faq";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import Results from "./pages/Results";
 const queryClient = new QueryClient();
@@ -38,7 +38,7 @@ function App() {
               }
             />
             <Route path="/about" element={<About />} />
-            <Route path="/faq" element={<FAQ />} />
+            <Route path="/faq" element={<Faq />} />
           </Routes>
         </div>
       </Router>

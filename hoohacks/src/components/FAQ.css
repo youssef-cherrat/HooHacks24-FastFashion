@@ -1,6 +1,0 @@
-.py-5 {
-  min-height: 100vh; /* Make section at least as tall as the viewport */
-  display: flex;
-  flex-direction: column;
-  justify-content: center; /* Center content vertically */
-}
