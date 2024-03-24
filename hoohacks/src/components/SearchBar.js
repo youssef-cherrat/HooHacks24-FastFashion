@@ -1,6 +1,7 @@
 // components/SearchBar.js
 import React, { useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './SearchBar.css';
 
 export const SearchBar = () => {
   const [url, setUrl] = useState('');
@@ -28,7 +29,8 @@ export const SearchBar = () => {
               onChange={handleUrlChange}
               style={{ width: '300px' }}
             />
-            <button className="btn btn-outline-success" type="submit" style={{ color: '#fff' }}>Submit</button>
+           <button className="btn btn-outline-success white-text-button" type="submit">Submit</button>
+
           </form>
         </div>
       </div>

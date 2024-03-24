@@ -30,3 +30,9 @@
   font-weight: normal;
   font-style: normal;
 }
+
+/* Add this to your CSS file */
+.white-text-button {
+  color: #fff !important; /* Ensures overriding any other color styles */
+  border-color: #fff !important; /* Ensures border color is white */
+}
