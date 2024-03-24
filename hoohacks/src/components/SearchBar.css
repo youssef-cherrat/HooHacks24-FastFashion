@@ -2,4 +2,20 @@
 .stable-search-bar {
     margin-bottom: 17rem; /* Adjusts space below the search bar */
   }
+  .spinner-custom-margin {
+    margin-top: 100px; /* Custom margin from the search bar */
+  }
   
+  .spinner-custom-size .spinner-border {
+    width: 4rem; /* Custom spinner width */
+    height: 4rem; /* Custom spinner height */
+  }
+  /* SearchBar.css modifications */
+.spinner-custom-margin {
+  margin-top: 100px; /* Increase if more space is needed */
+}
+
+.spinner-border.custom-spinner-size {
+  width: 5rem; /* Adjust width as needed */
+  height: 5rem; /* Adjust height as needed */
+}
