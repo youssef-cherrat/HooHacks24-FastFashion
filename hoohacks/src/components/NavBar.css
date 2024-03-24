@@ -16,14 +16,10 @@
   width: 100%;
 }
 
-.navbar-logo {
-  order: 2; /* Moves the logo to the right */
-  padding-left: 20px; /* Adjust based on your preference */
-}
-
 .navbar-nav {
   order: 1;
   flex-grow: 1;
+  position: relative; /* Add relative positioning to the navbar links container */
 }
 
 .navbar-brand img {
@@ -33,6 +29,24 @@
 
 .navbar-link {
   margin: 0 10px; /* Adds margin to the left and right */
+  position: relative; /* Add relative positioning to the navbar links */
+}
+
+/* Add line animation */
+.navbar-link::before {
+  content: ""; /* Empty content for the pseudo-element */
+  position: absolute; /* Absolute positioning */
+  bottom: -2px; /* Position the line below the link */
+  left: 0; /* Align the line to the left edge of the link */
+  width: 0; /* Initially set the width to 0 */
+  height: 2px; /* Set the height of the line */
+  background-color: #198754; /* Color of the line */
+  transition: width 0.3s ease; /* Add transition for smooth animation */
+}
+
+/* Add hover effect */
+.navbar-link:hover::before {
+  width: 100%; /* Expand the width of the line on hover */
 }
 
 .navbar-toggler {

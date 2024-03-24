@@ -14,13 +14,13 @@
 /* Header Styling */
 h3 {
   font-size: 2rem; /* Adjust based on your preference */
-  color: #333; /* Dark grey for contrast */
+  color: #ffffff; /* Dark grey for contrast */
 }
 
 /* Paragraph Styling */
 p.lead {
   font-size: 1.25rem;
-  color: #666; /* Lighter grey for informational text */
+  color: #f4f4f4; /* Lighter grey for informational text */
 }
 
 /* Accordion Styling */
@@ -59,13 +59,58 @@ p.lead {
   border-bottom-right-radius: 0.25rem;
 }
 
-/* Read More Button */
-.btn-primary.shadow {
-  box-shadow: 0 4px 6px rgba(0, 123, 255, 0.5); /* Adds a subtle shadow with primary color */
+.btn-primary {
+  background-color: #198754; /* Primary button background color */
+  border-color: #198754; /* Primary button border color */
 }
 
-/* Adjustments for hover states */
-.accordion-button:not(.collapsed):hover,
-.btn-primary.shadow:hover {
-  opacity: 0.9; /* Slightly lower opacity on hover for interaction feedback */
+.btn-primary:hover {
+  background-color: #146c43; /* Darker shade on hover */
+  border-color: #146c43;
+}
+
+.btn-primary:active,
+.btn-primary.active,
+.show > .btn-primary.dropdown-toggle {
+  background-color: #145c33 !important; /* Even darker shade for active state */
+  border-color: #145c33 !important;
+}
+
+.btn-primary:focus,
+.btn-primary.focus {
+  box-shadow: 0 0 0 0.25rem rgba(25, 135, 84, 0.5); /* Custom focus glow effect */
+}
+
+/* Additionally, override the .btn-primary.shadow:focus if needed */
+.btn-primary.shadow:focus {
+  outline: none; /* Removes the outline */
+  box-shadow: 0 4px 6px rgba(25, 135, 84, 0.4); /* Green shadow to match the button color */
+}
+
+
+/* Accordion Styling adjustments */
+
+/* Default accordion button styling */
+.accordion-button {
+  background-color: #fff; /* White background */
+  color: #000000; /* Default text color */
+  font-weight: bold; /* Makes the accordion headers stand out */
+}
+
+/* Styling for accordion buttons when their sections are open */
+.accordion-button:not(.collapsed) {
+  background-color: #f8f9fa; /* Light grey background when expanded */
+  color: #198754; /* Change text color to green when expanded */
+}
+
+/* Styling for accordion buttons when focused */
+.accordion-button:focus {
+  box-shadow: none; /* Removes the focus outline for a cleaner look */
+  /* Keep color unchanged on focus; remove color line if you added one for focus */
+}
+
+/* Ensure that the text color reverts back to default when the accordion button is not in expanded state */
+.accordion-button.collapsed,
+.accordion-button:not(:focus) {
+  color: #000000; /* Reverts to default color when collapsed and not focused */
 }
