@@ -4,3 +4,68 @@
   flex-direction: column;
   justify-content: center; /* Center content vertically */
 }
+/* Faq.css */
+/* General FAQ Section Styling */
+.py-5 {
+  padding-top: 3rem !important;
+  padding-bottom: 3rem !important;
+}
+
+/* Header Styling */
+h3 {
+  font-size: 2rem; /* Adjust based on your preference */
+  color: #333; /* Dark grey for contrast */
+}
+
+/* Paragraph Styling */
+p.lead {
+  font-size: 1.25rem;
+  color: #666; /* Lighter grey for informational text */
+}
+
+/* Accordion Styling */
+.accordion-button {
+  background-color: #fff; /* White background */
+  color: #000000; /* Bootstrap primary color for the text */
+  font-weight: bold; /* Makes the accordion headers stand out */
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: #f8f9fa; /* Light grey background when expanded */
+  color: #0056b3; /* Slightly darker blue when expanded */
+}
+
+.accordion-body {
+  font-size: 1rem;
+  color: #555; /* Grey color for body text, ensuring readability */
+}
+
+/* Accordion Item */
+.accordion-item {
+  border: 1px solid #dee2e6; /* Light grey border for each item */
+}
+
+.accordion-item:not(:last-of-type) {
+  border-bottom: none; /* Avoids double borders between items */
+}
+
+.accordion-item:first-of-type .accordion-button {
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+}
+
+.accordion-item:last-of-type .accordion-button.collapsed {
+  border-bottom-left-radius: 0.25rem;
+  border-bottom-right-radius: 0.25rem;
+}
+
+/* Read More Button */
+.btn-primary.shadow {
+  box-shadow: 0 4px 6px rgba(0, 123, 255, 0.5); /* Adds a subtle shadow with primary color */
+}
+
+/* Adjustments for hover states */
+.accordion-button:not(.collapsed):hover,
+.btn-primary.shadow:hover {
+  opacity: 0.9; /* Slightly lower opacity on hover for interaction feedback */
+}

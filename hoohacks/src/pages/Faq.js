@@ -13,32 +13,31 @@ const FAQ = () => {
               tempor.
             </p>
             <div className="accordion" id="accordionExample">
-              {/* Accordion item 1 */}
               <div className="accordion-item">
                 <h2 className="accordion-header" id="headingOne">
-                  <button
-                    className="accordion-button"
-                    type="button"
-                    data-bs-toggle="collapse"
-                    data-bs-target="#collapseOne"
-                    aria-expanded="true"
-                    aria-controls="collapseOne"
-                  >
+                <button
+  className="accordion-button collapsed" // Ensure 'collapsed' is present for collapsed items
+  type="button"
+  data-bs-toggle="collapse"
+  data-bs-target="#collapseOne"
+  aria-expanded="false" // This should be 'false' for items that start collapsed
+  aria-controls="collapseOne"
+>
                     How does App help people in problems?
                   </button>
                 </h2>
                 <div
-                  id="collapseOne"
-                  className="accordion-collapse collapse show"
-                  aria-labelledby="headingOne"
-                  // Removed data-bs-parent attribute
-                >
-                  <div className="accordion-body">
-                    <strong>This is the first item's accordion body.</strong> It
-                    is shown by default, until the collapse plugin adds the
-                    appropriate classes...
-                  </div>
-                </div>
+  id="collapseOne"
+  className="accordion-collapse collapse"
+  aria-labelledby="headingOne"
+>
+  <div className="accordion-body">
+    <strong>This is the first item's accordion body.</strong> It
+    is shown by default, until the collapse plugin adds the
+    appropriate classes...
+  </div>
+</div>
+
               </div>
 
               {/* Accordion item 2 */}
