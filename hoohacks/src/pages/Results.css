@@ -15,6 +15,7 @@
   overflow: hidden;
   border: 1px solid #5d5d5d; 
   border-radius: 8px;
+  background-color: #faf5ed; /* Set the card background color */
 }
 
 
