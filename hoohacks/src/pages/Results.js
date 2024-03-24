@@ -17,7 +17,7 @@ function Results() {
   if (isLoading) return <div>Loading...</div>;
   if (error) return <div>An error occurred: {error.message}</div>;
 
-  const firstNineResults = data.slice(0, 9);
+  const firstNineResults = data ? data.slice(0, 9) : [];
 
   return (
     <div className="container mt-4">

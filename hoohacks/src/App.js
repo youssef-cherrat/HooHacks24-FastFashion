@@ -9,6 +9,8 @@ import "./App.css";
 import Faq from "./pages/Faq";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import Results from "./pages/Results";
+import Contact from "./pages/Contact";
+
 const queryClient = new QueryClient();
 
 function App() {
@@ -39,6 +41,7 @@ function App() {
             />
             <Route path="/about" element={<About />} />
             <Route path="/faq" element={<Faq />} />
+            <Route path="contact" element={<Contact />} />
           </Routes>
         </div>
       </Router>
