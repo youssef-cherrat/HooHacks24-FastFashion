@@ -11,9 +11,9 @@ The app focuses on providing eco-friendly shopping suggestions by analyzing link
 - **Technologies**:
   - **Front End**: React.js
   - **UI Components**: Bootstrap
-  - **Web Scraping**: Playwright
+  - **Web Scraping**: Selenium/bs4
   - **Data Fetching**: Fetch/Tanstack Query
-  - **APIs**: [SERP API for Google Lens](https://serpapi.com/google-lens-api)
+  - **APIs**: [SERP API for Google Shopping] (https://serpapi.com/search-api)
 
 ## Pages
 
@@ -27,8 +27,8 @@ The app focuses on providing eco-friendly shopping suggestions by analyzing link
 ## Data Flow
 
 1. The user inputs a link.
-2. The app scrapes the image from the provided link.
-3. Performs a reverse image search using the SERP API.
+2. The app scrapes the product data from the provided link.
+3. Performs a modified search using the SERP API.
 4. Filters the results to display pre-approved sustainable or second-hand options.
 5. Displays links and images to the user.
 
@@ -38,6 +38,7 @@ The app focuses on providing eco-friendly shopping suggestions by analyzing link
 - Depop
 - Grailed
 - Poshmark
+- eBay
 
 ## Additional Resources
 
@@ -46,9 +47,8 @@ The app focuses on providing eco-friendly shopping suggestions by analyzing link
 
 ## Team Organization
 
-- **Alan Cai and Youssef Cherrat**: Responsible for the integration and management of the reverse Google Lens search API.
+- **Alan Cai and Youssef Cherrat**: Responsible for the integration and management of the Google Shopping API and webscraping.
 - **Ethan**: Focuses on utilizing the fetch API for data fetching tasks and assisting with front-end work.
 - **Peter**: Leads the design efforts, specializing in the use of Tailwind CSS.
 
 
-https://www2.hm.com/en_us/productpage.1206841001.html
