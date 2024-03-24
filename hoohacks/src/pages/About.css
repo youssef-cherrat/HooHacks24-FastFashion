@@ -37,6 +37,15 @@
   height: auto; /* Maintain aspect ratio */
 }
 
+/* Title styling */
+.title {
+  font-size: 2.5rem; /* Adjust the font size as needed */
+  color: #ffffff; /* Set the title color to white */
+  font-weight: bold; /* Make the title bold */
+  line-height: 1.2; /* Adjust the line height for better spacing */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Add a subtle shadow effect */
+}
+
 @media (max-width: 768px) {
   .about-container {
     flex-direction: column; /* Stack the items vertically on small screens */
