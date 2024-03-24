@@ -4,6 +4,9 @@ import { fetchProducts } from "../api/fetchProducts";
 import "./Results.css"; 
 import depopLogo from "./CompanyLogo/Depop_logo.png"; // Adjust the path as necessary
 import threadUpLogo from "./CompanyLogo/ThreadUp_logo.png"; 
+import mercariLogo from "./CompanyLogo/Mercari_logo.png"; 
+import poshmarkLogo from "./CompanyLogo/Poshmark_logo.png"; 
+
 
 function Results() {
   const { data, error, isLoading } = useQuery({
@@ -34,6 +37,10 @@ function Results() {
                     <img src={depopLogo} alt="Depop Logo" style={{ height: '50px', objectFit: 'contain' }} />
                   ) : item.source.toLowerCase() === "thredup" ? (
                     <img src={threadUpLogo} alt="ThredUp Logo" style={{ height: '50px', objectFit: 'contain' }} />
+                  ) : item.source.toLowerCase() === "mercari" ? (
+                    <img src={mercariLogo} alt="Mercari Logo" style={{ height: '50px', objectFit: 'contain' }} />
+                  ) : item.source.toLowerCase() === "poshmark" ? (
+                    <img src={poshmarkLogo} alt="Poshmark Logo" style={{ height: '50px', objectFit: 'contain' }} />
                   ) : (
                     item.source
                   )}
