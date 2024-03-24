@@ -22,6 +22,7 @@ def write_results_to_file(search_term):
     with open('results.json', 'w') as f:
         json.dump(results, f, indent=4)
     print("Results written to file")
+    
 def search_with_product_details(url):
     # Get product details using the scraped data
     product_details = scrape.scrape_product(url)
@@ -36,8 +37,8 @@ def search_with_product_details(url):
 
 
 
-def test_search():
-    url = input("URL: ")
+def test_search(url):
+    #url = input("URL: ")
     search_with_product_details(url)
 
 if __name__ == "__main__":
