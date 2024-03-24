@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-from writer import test_search
+import writer
 app = Flask(__name__)
 CORS(app)  # Allow cross-origin requests (needed for local development)
 
@@ -13,7 +13,7 @@ def handle_search():
         # For example:
         # result = search_with_product_details(url)
         # return jsonify(result)
-        return jsonify({"message": "URL received", "url": test_search(url)})
+        return jsonify({"message": "URL received", "url": writer.search_with_product_details(url)})
     else:
         return jsonify({"error": "URL not provided"}), 400
     

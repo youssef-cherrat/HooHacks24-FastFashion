@@ -36,10 +36,9 @@ def search_with_product_details(url):
         print("Product details not found")
 
 
+# def test_search(url):
+#     url = input("URL: ")
+#     search_with_product_details(url)
 
-def test_search(url):
-    #url = input("URL: ")
-    search_with_product_details(url)
-
-if __name__ == "__main__":
-    test_search()
+# if __name__ == "__main__":
+#     test_search()
