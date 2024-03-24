@@ -17,10 +17,16 @@ def write_results_to_file(search_term):
 
     search = GoogleSearch(params)
     results = search.get_dict()
-
-    # write results to file
+    
+    filtered_results = []
+    for item in results.get('shopping_results', []):
+        # Check if the item meets your criteria
+        if item.get('source') != "Shein":
+            filtered_results.append(item)
+            
+            
     with open('results.json', 'w') as f:
-        json.dump(results, f, indent=4)
+        json.dump(filtered_results, f, indent=4)
     print("Results written to file")
     
 def search_with_product_details(url):
@@ -36,7 +42,8 @@ def search_with_product_details(url):
         print("Product details not found")
 
 
-# def test_search(url):
+
+# def test_search():
 #     url = input("URL: ")
 #     search_with_product_details(url)
 
