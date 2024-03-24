@@ -1,18 +1,45 @@
 [
     {
         "position": 1,
-        "title": "H&M Taupe Sweatshorts - Women | Color: Beige | Size: XS",
-        "link": "https://www.mercari.com/us/item/m62538726500/?srsltid=AfmBOoohxPFkmVYtYwLHoKxJbwhmifMIWtRCcUOMxCPeb90BXPlCQsyAdMM&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
-        "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:2117695368059791561",
-        "product_id": "2117695368059791561",
-        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=2117695368059791561",
+        "title": "FOREVER 21 Joggers Cargo Pants - New Women | Color: Black | Size: 3XL",
+        "link": "https://www.mercari.com/us/item/m52637468216/?srsltid=AfmBOooRSOvX4xzjoYX-t5CKwrkvgCE3KsjYCKq-2pQqrJ9EsN0607cl_9Y&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+        "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:12725294252396565698",
+        "product_id": "12725294252396565698",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=12725294252396565698",
         "source": "Mercari",
         "price": "$15.00",
         "extracted_price": 15.0,
-        "old_price": "$19.00",
-        "extracted_old_price": 19.0,
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSE8VsdY-U9QcDC96RiOyGkfnHXO-FbmTqB3KqHwtdnJ_rKzKWgRcMxi1J2mCZZichYFh55F-bXa3njIwciawGdBEY1ao5XQCosXiG3iiS&usqp=CAE",
+        "delivery": "$7.99 delivery"
+    },
+    {
+        "position": 2,
+        "title": "Old Navy Joggers Cargo Pants 31\" Inseam - Women | Color: Black | Size: Tall L",
+        "link": "https://www.mercari.com/us/item/m75607021625/?srsltid=AfmBOorxUKJQx5S8aFWazygrFGSQUZ1mJc9tNh11HYJeIwbLCZJFniGl7wA&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+        "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:4132692233293971399",
+        "product_id": "4132692233293971399",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=4132692233293971399",
+        "source": "Mercari",
+        "price": "$10.00",
+        "extracted_price": 10.0,
         "second_hand_condition": "used",
-        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRQqbeTgvNkXXbjlAVGFC3jyK3wdApUIcI04MYrpaY4y8VR-RLuwBjnpRIjBRn7i3yHoCbRITwWLgd5Rd0aHl1YBaciUvk_w96baJKz7HQ&usqp=CAE",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRpqBTwp2arYTZQ4K9Ng3tI3hDo1A2nWbhVfoZ5tPnI3VkOP5W6sgj1A37MFJYagjLUHY0eKZ9exZ95a7WcVfzlRtVUpcI7pT2ZI-6hzoVs&usqp=CAE",
+        "delivery": "$6.99 delivery"
+    },
+    {
+        "position": 3,
+        "title": "American Threads Cargo Joggers - Women | Color: Black | Size: S",
+        "link": "https://www.mercari.com/us/item/m73015011478/?srsltid=AfmBOorBlZM9iuBtygrstxsJ_Fi3LP_BUjXJEZzpOFfO7Sq_cbvlIWcVnXg&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+        "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:3383895501016037934",
+        "product_id": "3383895501016037934",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=3383895501016037934",
+        "source": "Mercari",
+        "price": "$10.00",
+        "extracted_price": 10.0,
+        "old_price": "$25.00",
+        "extracted_old_price": 25.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ2RIcGHVWlNzHFZQwVfAqauumjfkTeWPGqW1vdiuElA1proVXrg914I7jo_jiei0LT4wpI3EKO6qrFMpv5j3qf1UHUjP3VPCjhlFRwqQg&usqp=CAE",
         "tag": "SALE",
         "extensions": [
             "SALE"
@@ -20,6 +47,7 @@
         "delivery": "$6.99 delivery"
     },
     {
+<<<<<<< HEAD
         "position": 2,
         "title": "Old Navy Boyfriend Fit Sweat Shorts Taupe Size M - Women | Color: Brown | Size: M",
         "link": "https://www.mercari.com/us/item/m52349112997/?srsltid=AfmBOop2rUYucUUCK1ZEBpig7jSrQTeI0KueU8EeMjEPCv-3MPhP9YhhxIo&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
@@ -78,10 +106,38 @@
         "extensions": [
             "SALE"
         ],
+=======
+        "position": 4,
+        "title": "Shein Pants & Jumpsuits | Shein Vcay Flat Pocket Cargo Pants/Joggers | Color ...",
+        "link": "https://poshmark.com/listing/SHEIN-VCAY-flat-pocket-cargo-pantsjoggers-646247f1b635f89872f82346?srsltid=AfmBOop0SDH8dX-TiXcNhi2c0na3r7XWJGFKABztaiYo_529XSlTSNUJSdQ&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/1107821329905522257?gl=us",
+        "product_id": "1107821329905522257",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=1107821329905522257",
+        "source": "Poshmark",
+        "price": "$10.00",
+        "extracted_price": 10.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRDYPcA80mHW1Qrahe4yceN0WOU2jnCdrJGdO2hvqCl4q7GRg2roC3wiLfHx-LyQ2SX-AIZT_NiPOHkg5Dlqz9bkuftNqsz6Tjhe10z3uX3&usqp=CAE",
+        "delivery": "Delivery by Fri, Mar 29"
+    },
+    {
+        "position": 5,
+        "title": "Fashion Nova Joggers Cargo Pants - Women | Color: Black | Size: S",
+        "link": "https://www.mercari.com/us/item/m13596379628/?srsltid=AfmBOoqjukFXOZkhUa4eYnNh_7Qb4DF4EnlWY-ldk3Qtz6ndF-zbzvjVaq4",
+        "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:9196607920130998464",
+        "product_id": "9196607920130998464",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=9196607920130998464",
+        "source": "Mercari",
+        "price": "$22.00",
+        "extracted_price": 22.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR6CLGXGVMOWyMgpS-HkiJZB1ZQqGsbcwtYEJ6YTuKqoMbtVqraIanNbkRyrnTCfRUU6bkupyDRWeYUjcmXjWZoF278gGCFH9qeD9yxUOI&usqp=CAE",
+>>>>>>> 92aebfbc8536b8a74fec9e69d0a56cc65535f0d8
         "delivery": "$6.99 delivery"
     },
     {
         "position": 6,
+<<<<<<< HEAD
         "title": "n:PHILANTHROPY N: Philanthropy Destroyed Sweat Short NWT Size Medium Tan Cream ...",
         "link": "https://www.mercari.com/us/item/m39897955722/?srsltid=AfmBOopkuYDVAB4OBsEqKzLTEhqg2uOHI2tXtscz-oAGXVjDySkQ2cJJIiw&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
         "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:6099504176455125759",
@@ -91,10 +147,23 @@
         "price": "$80.00",
         "extracted_price": 80.0,
         "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRkeLBWkYle6k-pS4bEYrFawqYgllzAdukTqXTxVX-1ZyhE7HBl8Cl3ryiFhmg4CCHQ87FV4bIM-hs0dlBnzEsOGmK8deHbhBazub2h-1o&usqp=CAE",
+=======
+        "title": "Universal Thread Mens Pacsun Cargo Joggers - Men | Color: Black | Size: 30 in.",
+        "link": "https://www.mercari.com/us/item/m52976351955/?srsltid=AfmBOoqB8HuC7DGUn_Hr6MbhfnlVhHvfLGPdpCjfT3Tz9sDKD0Q5GofXR1s&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+        "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:11187611946194383062",
+        "product_id": "11187611946194383062",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=11187611946194383062",
+        "source": "Mercari",
+        "price": "$20.00",
+        "extracted_price": 20.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSs6LJ2w65yb2OuE1xE6ffz3gYxx2C_f0lu1dXNp0Lm4eyQlATAB8XQ6gUW25xOtvxRRvG7utCXA0KqiD-KP8ROAkYFKe_P5SPt_ny0HVpd&usqp=CAE",
+>>>>>>> 92aebfbc8536b8a74fec9e69d0a56cc65535f0d8
         "delivery": "$6.99 delivery"
     },
     {
         "position": 7,
+<<<<<<< HEAD
         "title": "Free People Shorts Kelly Distressed Sweat Short In Taupe Brown Size XS NWT - New ...",
         "link": "https://www.mercari.com/us/item/m85417690308/?srsltid=AfmBOorPow-yl6LOJ87xqIOrA_L52JCMf1Nu_5tKu9Y_fcpKRSRtUwwaLFE&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
         "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:2984037920896165431",
@@ -110,10 +179,22 @@
         "extensions": [
             "SALE"
         ],
+=======
+        "title": "Boutique NEW Black Cargo Jogger - New Women | Color: Black | Size: M",
+        "link": "https://www.mercari.com/us/item/m19798933854/?srsltid=AfmBOornT2F_-pOy3a4_yZ35I2ojpzQpFdyHSPS_age-HwsUFTYOre4rFYw&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+        "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:3117431614844479667",
+        "product_id": "3117431614844479667",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=3117431614844479667",
+        "source": "Mercari",
+        "price": "$17.00",
+        "extracted_price": 17.0,
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQFmnwAxPmmVM8mdGsnYg0IMxrBXuezbWVH453d13m-dN4pHjz-cUt8RbrjAEyGE_b0y-dOSdlNyNVdJznEE091fFWCP6iEYJqd6zCkA7b5&usqp=CAE",
+>>>>>>> 92aebfbc8536b8a74fec9e69d0a56cc65535f0d8
         "delivery": "Free delivery"
     },
     {
         "position": 8,
+<<<<<<< HEAD
         "title": "FOREVER 21 Sweatshorts - Women | Color: Beige | Size: L",
         "link": "https://www.mercari.com/us/item/m20370706483/?srsltid=AfmBOoqn15ZQ2y3PTSumZh67mb8u-weEL3ES7CcMWNSllOe7zJABaBdLiSA&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
         "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:8679871299899077819",
@@ -193,6 +274,115 @@
         "old_price": "$18.00",
         "extracted_old_price": 18.0,
         "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ-zS_wgVcN4Q7ljqTrrOudjLdFxNd2Q8Yuk8qW_lZW7WXK6i5iNUojZS9kqknJ8qpQfrlui26iIwnCsrHGOttB4e8C1KCA6GTl-fUmI0Y&usqp=CAE",
+=======
+        "title": "Old Navy Black Jogger Cargo Pants Sz M - New Men | Color: Black | Size: 34 in.",
+        "link": "https://www.mercari.com/us/item/m61242211406/?srsltid=AfmBOoqUqPhbur0AdNmOD3QOvhlxKJWyEo-BiIoMl2w_SI-rAfWhI5szaxw",
+        "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:17827996773913731531",
+        "product_id": "17827996773913731531",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=17827996773913731531",
+        "source": "Mercari",
+        "price": "$12.00",
+        "extracted_price": 12.0,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTGMYzZXtC_VLafc1l5zVp12X8j--F3QJmIF_Hq52x-6IkPGZ9I6Exewx12bnMMx0XVNBibPydzWQtMSleIvOuIcjE_jW1Z72gV8XWQZA8D&usqp=CAE",
+        "delivery": "$7.99 delivery"
+    },
+    {
+        "position": 9,
+        "title": "American Eagle Outfitters Pants & Jumpsuits | Black Jogger Cargo Pants | Color ...",
+        "link": "https://poshmark.com/listing/Black-jogger-cargo-pants-645d3f1017fb4bfdbff3e680?srsltid=AfmBOooQhjShE0PMmYq606fwff_PTfo3Q6I3TqKqltdEXdkalTEpqSt0eqs&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/213583214140541600?gl=us",
+        "product_id": "213583214140541600",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=213583214140541600",
+        "source": "Poshmark",
+        "price": "$15.00",
+        "extracted_price": 15.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSFLwMmpJ0sdFVJKohyM8oNOMeQDmqhIv0EmhZDDMJWrCZH7kXiGnR9PyqroEt5GaGrEWdgNaYkmHu4AK_OsxAlCmyvTjBru_No8r1dv7M&usqp=CAE",
+        "delivery": "Delivery by Fri, Mar 29"
+    },
+    {
+        "position": 10,
+        "title": "Black, Cargo Joggers Size M | Color: Black | Size: M | Pm-31669412's Closet",
+        "link": "https://poshmark.com/listing/black-cargo-joggers-size-M-61560f0ebcbb52177b90acba?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/9751461566662187470?gl=us",
+        "product_id": "9751461566662187470",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=9751461566662187470",
+        "source": "Poshmark",
+        "price": "$12.00",
+        "extracted_price": 12.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR2bDdz040uTZNkg6sraQW9XsZf9yZ_JvQwgGAZ87E0zVTe_BseacX2v97gKl_g3OFlLwnBYklVevFuFyWQqQxAzpa11QNfuoEQQTXpFdgc&usqp=CAE",
+        "delivery": "Delivery by Thu, Mar 28"
+    },
+    {
+        "position": 11,
+        "title": "Boutique NEW Black Cargo Jogger - New Women | Color: Black | Size: XL",
+        "link": "https://www.mercari.com/us/item/m97750938657/?srsltid=AfmBOorn74-GCi3OM6iZeasCkhh05l_8VCF52vzCXHCyRoX7FBeF0G8nSy0&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+        "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:18321817937994833683",
+        "product_id": "18321817937994833683",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=18321817937994833683",
+        "source": "Mercari",
+        "price": "$17.00",
+        "extracted_price": 17.0,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRcQqxWftsb51hCu5gKSMZiECAzUaURAn0xKAqoMZuur5XgarXcj45f-qxCW6Oa0O-vU5cAghMC3gIs8CqgHmlLGBvU6Qmqtf9EJ59Ag0E&usqp=CAE",
+        "delivery": "Free delivery"
+    },
+    {
+        "position": 12,
+        "title": "FOREVER 21 Cargo Joggers Size S/m - Women | Color: Black | Size: S",
+        "link": "https://www.mercari.com/us/item/m50001139529/?srsltid=AfmBOorIIVTGiwjz8NeJ4ckXbxUweaCXjdULU414hYZguPpMhMp5OmytUeI&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+        "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:1279213964351955805",
+        "product_id": "1279213964351955805",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=1279213964351955805",
+        "source": "Mercari",
+        "price": "$22.00",
+        "extracted_price": 22.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTzuFZqEPUiget9YEI287ap9gBsL3lBMoycnt3OqeQ5tWMC49Nir9eP_Fcah887hXs7G6dpJk7-hxtnHiFfkf0N3F9ZBsOKKdFG7Vp9V00&usqp=CAE",
+        "delivery": "$7.99 delivery"
+    },
+    {
+        "position": 13,
+        "title": "FOREVER 21 Black Cargo Joggers - Men | Color: Black | Size: 30 in.",
+        "link": "https://www.mercari.com/us/item/m76302110089/?srsltid=AfmBOoocNuLvYxq_6WeCJFlAYOQFZm3qRZpV-nZPiORBIMk-wSN-HtsgC0k&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+        "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:15575948810147353854",
+        "product_id": "15575948810147353854",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=15575948810147353854",
+        "source": "Mercari",
+        "price": "$5.00",
+        "extracted_price": 5.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQoiaAWvHqC5xe0wQpLKpR705Db8s15J_mBNYRUdsNWi8Sh8gxoqCH8h6MCqa6YaZuu9_cJdrpiwjjNtRKqhwTcV27u5mnMC9RfoIQbCKaY&usqp=CAE",
+        "delivery": "$6.99 delivery"
+    },
+    {
+        "position": 14,
+        "title": "Sz 3X Jogger Style Cargo Pants Athletic | Color: Black | Size: 3X | Shopdastash's ...",
+        "link": "https://poshmark.com/listing/SZ-3X-JOGGER-STYLE-CARGO-PANTS-ATHLETIC-63f880317dfcc22c0c40a0f9?srsltid=AfmBOopQSxdGFte_j7oM2qXtchUDrex0cIrWemPV-EL67IjdEG_6slwAb_k&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/9162639539711572748?gl=us",
+        "product_id": "9162639539711572748",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=9162639539711572748",
+        "source": "Poshmark",
+        "price": "$18.00",
+        "extracted_price": 18.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRuXEB3GwAM8957GhJaF81gx0J91VxW5euCCkdobs-msCveFpLvNMTXOWY5HfVo6WrOXOtL_62B8tlyxcnTVArM14-BUzyphhnCeJV8cMb4&usqp=CAE",
+        "delivery": "Delivery by Mon, Apr 1"
+    },
+    {
+        "position": 15,
+        "title": "H&M Pants & Jumpsuits | Cargo Jogger | Color: Black | Size: S | Vixenk's Closet",
+        "link": "https://poshmark.com/listing/Cargo-jogger-65a6d5bedff94d00285fdcf7?srsltid=AfmBOorN-qYiHJ1EQRO45WyR3rDKIcfNjQG4SwL8IFRG3jq9e62gv6_GhIQ#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/8093615845733779534?gl=us",
+        "product_id": "8093615845733779534",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=8093615845733779534",
+        "source": "Poshmark",
+        "price": "$30.00",
+        "extracted_price": 30.0,
+        "old_price": "$34.00",
+        "extracted_old_price": 34.0,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQSncUJTWc0FE_RO7gBzGnkbcrjlG15DKAvAQHw7Imo9jO6bFlhgtB28HYMD3A2mbFqnsTtIbLchQe1MEZ24EbLW09d_8Iyd4_BkjHSbBw&usqp=CAE",
+>>>>>>> 92aebfbc8536b8a74fec9e69d0a56cc65535f0d8
         "tag": "SALE",
         "extensions": [
             "SALE"
@@ -200,6 +390,7 @@
         "delivery": "Delivery by Fri, Mar 29"
     },
     {
+<<<<<<< HEAD
         "position": 13,
         "title": "Garage Sweat Shorts | Color: Brown | Size: M | Natalie22244's Closet",
         "link": "https://poshmark.com/listing/garage-sweat-shorts-6410c4bf932a8aa6e35ad8cc?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
@@ -247,6 +438,34 @@
         "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:16203734673108945950",
         "product_id": "16203734673108945950",
         "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=16203734673108945950",
+=======
+        "position": 16,
+        "title": "Forever 21 Pants & Jumpsuits | Forever 21 Women\u2019s Black Cotton Cargo Jogger Pants ...",
+        "link": "https://poshmark.com/listing/Forever-21-Womens-black-cotton-cargo-jogger-pants-size-M-65da5a19b591edc7924d7b74?srsltid=AfmBOop8qLPLOI3QQcPlZmQZO3bYGkrKmvXIlb8WRKdUawKJGspEoVjWGdY&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/17038384802867970613?gl=us",
+        "product_id": "17038384802867970613",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=17038384802867970613",
+        "source": "Poshmark",
+        "price": "$18.00",
+        "extracted_price": 18.0,
+        "old_price": "$20.00",
+        "extracted_old_price": 20.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSlA_u2ukaFwXkM2U4l-HqWUGvoF0g6sXBzMjTHVkxFZ2-1ahASWy1lC_RK-9svdtgbyBZ09L8RCMwdkFH35XZik7mT9A5swCcikDb5gK4&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Thu, Mar 28"
+    },
+    {
+        "position": 17,
+        "title": "Old Navy Cargo Joggers - Men | Color: Black | Size: 36 in.",
+        "link": "https://www.mercari.com/us/item/m85785551795/?srsltid=AfmBOopjv7VPScFYkM0h2-fBEDykrxG-7Dcog6Co9aGUaXeIyQZmPTOGdhk&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+        "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:7353311034541844815",
+        "product_id": "7353311034541844815",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=7353311034541844815",
+>>>>>>> 92aebfbc8536b8a74fec9e69d0a56cc65535f0d8
         "source": "Mercari",
         "price": "$8.00",
         "extracted_price": 8.0,
@@ -277,10 +496,30 @@
         "source": "Poshmark",
         "price": "$15.00",
         "extracted_price": 15.0,
+<<<<<<< HEAD
         "old_price": "$20.00",
         "extracted_old_price": 20.0,
         "second_hand_condition": "used",
         "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR7V1zSTW_qdsBTR5EMiL4ypUnjf9tiC9Yx9LRprpeIpMwZmVkbemNF_E08HzGxOycEhDWoxpxFGrPD41WBEnVX0Ry0o5UP-1s3ePvQz98&usqp=CAE",
+=======
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQH_mFcoxkDmyqjPz714Tf40joexsPgHO-jAjVorNdpQpi2wsuBugFcVfSdE9LaNogigplmm9n7YTlBGnBGd3NB1UbjDUPxizzZcfAVKE4&usqp=CAE",
+        "delivery": "$6.99 delivery"
+    },
+    {
+        "position": 18,
+        "title": "Black Jogger Cargo Pants | Color: Black | Size: S | Veronicagrace20's Closet",
+        "link": "https://poshmark.com/listing/Black-Jogger-Cargo-Pants-5f6bc27393649f59c5a3406d?srsltid=AfmBOooXVwoljrb1uLzqqWI-Gb2vJed7G3zEYCxiUHJtm4PFlkRNAArV7gk#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/1121121564208057086?gl=us",
+        "product_id": "1121121564208057086",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=1121121564208057086",
+        "source": "Poshmark",
+        "price": "$25.00",
+        "extracted_price": 25.0,
+        "old_price": "$35.00",
+        "extracted_old_price": 35.0,
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQxTbfxk5RMMjZx6AHfq2PDkYZEFOPnUi7L9g4PRV7ouVazgjPU2JeLRUwmb-o031vohE4Xsc9iQKESflHTFG1uvfICwf9xmooQVDTUjllC&usqp=CAE",
+>>>>>>> 92aebfbc8536b8a74fec9e69d0a56cc65535f0d8
         "tag": "SALE",
         "extensions": [
             "SALE"
@@ -289,6 +528,7 @@
     },
     {
         "position": 19,
+<<<<<<< HEAD
         "title": "Free People IN SEARCH OF:Aerie Tan/toasty High Waisted Lumberjane Fleece Shorts ...",
         "link": "https://www.mercari.com/us/item/m78486526897/?srsltid=AfmBOopqqgumAivAbFOPLJEHvQg-Wn23cV28rdtk6jwYzgYFX1WDENklpKg&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
         "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:7770743772141789432",
@@ -417,6 +657,48 @@
         "extracted_old_price": 20.0,
         "second_hand_condition": "used",
         "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTPl1s3x_brXiFck8X3CoP0HpVf21-Wf6AhetiL7LZ3xzyes9fyXimyLaRN61Q0UQp7NdiWzNgIVMvisotF5EvqxRrxnT5kAlIcbTteDOJv&usqp=CAE",
+=======
+        "title": "Primark Pants | Primark Cargo Joggers Size Large | Color: Black | Size: L ...",
+        "link": "https://poshmark.com/listing/Primark-Cargo-Joggers-Size-Large-656d35e34bd760db422f984a?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/7993672721404325369?gl=us",
+        "product_id": "7993672721404325369",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=7993672721404325369",
+        "source": "Poshmark",
+        "price": "$12.00",
+        "extracted_price": 12.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRsTXm5kRy5OGGo8l5V_wJIxL0WXrvSOwe1SlJlm3syHpi0LuhyRrth6-A5J1laVYSZmXHcm8GA-BYNELcu8258Gox6j5KsAjmUAa73biIn&usqp=CAE",
+        "delivery": "Delivery by Fri, Apr 5"
+    },
+    {
+        "position": 20,
+        "title": "Cargo Style Joggers. | Color: Black | Size: S | Racheln1999's Closet",
+        "link": "https://poshmark.com/listing/Cargo-style-joggers-62c891bfd6baab8cdd2218b5?srsltid=AfmBOop_IVHQwNjJe4NjID_TGT6RX8U3CVN_umSL5kyht08r0YhHuWwmPgg&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/9628085360692355839?gl=us",
+        "product_id": "9628085360692355839",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=9628085360692355839",
+        "source": "Poshmark",
+        "price": "$10.00",
+        "extracted_price": 10.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTtiuy3METN3JZfcIywgx42KC7dlVN5L3hiUKlSELK5tCcVeiIFkX1bHj_X13r_6ARPaL5pHTQZvINrSoLFdWyBB1C5w9cniBD98jpYSiU&usqp=CAE",
+        "delivery": "Delivery by Fri, Mar 29"
+    },
+    {
+        "position": 21,
+        "title": "Refuge Black Cargo Jogger Pants Size Small - Women | Color: Black | Size: S",
+        "link": "https://www.mercari.com/us/item/m37776582406/?srsltid=AfmBOoovjgdrTllBkv6mTus7EcYFDY0j4vXgEVuzOp0naF1_TSnKER2x55M",
+        "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:1462656186707740854",
+        "product_id": "1462656186707740854",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=1462656186707740854",
+        "source": "Mercari",
+        "price": "$11.00",
+        "extracted_price": 11.0,
+        "old_price": "$12.00",
+        "extracted_old_price": 12.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSzWt-zInstvi5UejN2gyCX4XB2kqrXjVcfBHwovcgjq9K035IACIUalrRCHqaJbZwgOkGh-QCRiGlR3R8VssP36LENmLOsy80QsyZqhWQ&usqp=CAE",
+>>>>>>> 92aebfbc8536b8a74fec9e69d0a56cc65535f0d8
         "tag": "SALE",
         "extensions": [
             "SALE"
@@ -424,6 +706,7 @@
         "delivery": "$6.99 delivery"
     },
     {
+<<<<<<< HEAD
         "position": 28,
         "title": "Comfy Sweat Shorts - Women | Color: Beige | Size: S",
         "link": "https://www.mercari.com/us/item/m14087497373/?srsltid=AfmBOooiR1UBvgqwDcc1FdG7pt1T-xIEiw5ZaNo0Iv2I6l1QVChw8BHzRYY&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
@@ -559,10 +842,149 @@
         "extracted_old_price": 12.0,
         "second_hand_condition": "used",
         "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQZyIHqXvMwa-s4H6clKZ2_fGfr2mDZeCS64ZbNFm5sWS9VKcKWUAewTCBASIuFY4uKDXr0tm8WyNJT7XUgxPgbWc7SNkNM1xoaTItFGFBX&usqp=CAE",
+=======
+        "position": 22,
+        "title": "Goodfellow & Co Men\u2019s Black Cargo Jogger XS - New Men | Color: Black | Size: 27 in.",
+        "link": "https://www.mercari.com/us/item/m82706903934/?srsltid=AfmBOopkBt36A7xiRiCDqVgd-x5pm_8LCfDQyur6lKwJa6otx5ETNZz-CsQ&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+        "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:4835974603100367275",
+        "product_id": "4835974603100367275",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=4835974603100367275",
+        "source": "Mercari",
+        "price": "$20.00",
+        "extracted_price": 20.0,
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRQlOPOyYnCY4Kie6RoPIzmfddwIXyzD_Q-XNhGoyhZO1HG9qC1VhqW1TIHN7k-15EEKqvZ6kJJM1ZVvURRYPIDgomZy3b9Wdx4N_FgbHiE-PVV9l15XR9Q&usqp=CAE",
+        "delivery": "Free delivery"
+    },
+    {
+        "position": 23,
+        "title": "Shein Pants & Jumpsuits | Shein Zipper Jogger Cargo Pants Womens Black Size Small ...",
+        "link": "https://poshmark.com/listing/SHEIN-Zipper-Jogger-Cargo-Pants-Womens-Black-Size-Small-S-63405ef9fed51fcb0a64d5ea?srsltid=AfmBOorZOwJCsLhsFUv45ekqthD-eBlhjT_HwM07cERUeSC72A983GmD3ds&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/11470327072406788728?gl=us",
+        "product_id": "11470327072406788728",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=11470327072406788728",
+        "source": "Poshmark",
+        "price": "$15.00",
+        "extracted_price": 15.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRNGLNt3JF1ec2Jw0YGVnOjIY8VjxbRYhp2D6U7CZRoOm7SYe8OEH9m06EkUcVaGgOb1rF2xk4xGmfQykIIoRuMp0_5WMu9sz45V_Pf59b5LYhbIaMQz8N9hQ&usqp=CAE",
+        "delivery": "Delivery by Fri, Mar 29"
+    },
+    {
+        "position": 24,
+        "title": "Tilly's Pants & Jumpsuits | Cargo Jogger Pants | Color: Black | Size: S/M ...",
+        "link": "https://poshmark.com/listing/Cargo-jogger-pants-609746e7074d2414029056f6?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/3539527303646312851?gl=us",
+        "product_id": "3539527303646312851",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=3539527303646312851",
+        "source": "Poshmark",
+        "price": "$20.00",
+        "extracted_price": 20.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSEp8QBKIKeUfdLRRvyd1UsT6zLDP9vJPtnQT1j4HJmPvQMKUAc3tejFRbUZ-Q7bbdWwoUkhu4wqQkG6OQ4QeXf7zXq1p1sioPQaMAHL8o&usqp=CAE",
+        "delivery": "Delivery by Fri, Apr 5"
+    },
+    {
+        "position": 25,
+        "title": "Aeropostale Pants | Cargo Joggers from Aropostale | Color: Black | Size: S | Pm ...",
+        "link": "https://poshmark.com/listing/Cargo-Joggers-from-Aropostale-644b092417fb4bdb9112749c?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/7964034966318281754?gl=us",
+        "product_id": "7964034966318281754",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=7964034966318281754",
+        "source": "Poshmark",
+        "price": "$29.00",
+        "extracted_price": 29.0,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRAR-PyTOT3MlWTjchWtulziYLbnKxOwNcU1WdoNGNWmDyuppUJ2iqAbXqUV1ppuj8Qge9JGlbZvBPhI4s4FJQlsH0yHwObhi2Wlb2-leY&usqp=CAE",
+        "delivery": "Delivery by Fri, Apr 5"
+    },
+    {
+        "position": 26,
+        "title": "FOREVER 21 NWT Twill Cargo Joggers Black Size Small - New Women | Color: Black ...",
+        "link": "https://www.mercari.com/us/item/m50045459373/?srsltid=AfmBOorB52ptoP2QNACfHubPYbnOvFCRnxNTZeEb3VhV0JiBT6dl2yr4jKA",
+        "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:7630451712085003305",
+        "product_id": "7630451712085003305",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=7630451712085003305",
+        "source": "Mercari",
+        "price": "$20.00",
+        "extracted_price": 20.0,
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTqpAnX35zifHX1tUn6Rk9gkiV_Pnqkg2f95BOPIL1XrGfJbh0mJOueYpjkby9sPQ9o8wniBuX_S13l1GbekGNSPtrg6g34CB9TbCkDFt1tTg3KVEclxrzH&usqp=CAE",
+        "delivery": "$4.99 delivery"
+    },
+    {
+        "position": 27,
+        "title": "Black Cargo Joggers | Color: Black | Size: S | Pm-13218440's Closet",
+        "link": "https://poshmark.com/listing/Black-cargo-joggers-64234e01bd66cd0c0936e8ed#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/7228849716755900568?gl=us",
+        "product_id": "7228849716755900568",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=7228849716755900568",
+        "source": "Poshmark",
+        "price": "$30.00",
+        "extracted_price": 30.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS9AFOvLWl2AtCHxU9GkagaeO8D7e_CKRZ5BxvVbKyhqHgQqXxwz_Jv_pM8sDv7K9E6j9UzAOAyD_kPIekO2HeTRLQCXVOdZMholK9hgSI&usqp=CAE",
+        "delivery": "Delivery by Mon, Apr 1"
+    },
+    {
+        "position": 28,
+        "title": "Preloved Women's Cargo Pants - Black - XL",
+        "link": "https://www.depop.com/products/daclothes08-superheavy-cargo-jogger-size-xl/?srsltid=AfmBOooKL8NvLWSJAG8RYJuFDGdNFDTS7FYZOrElX5MFoHs629vzLMMnT9c",
+        "product_link": "https://www.google.com/shopping/product/9481965428951884089?gl=us",
+        "product_id": "9481965428951884089",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=9481965428951884089",
+        "source": "Depop",
+        "price": "$15.00",
+        "extracted_price": 15.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTLA_mp5DHZ_cthmXl5-x7javXhhqcGZ2xW1EPYAn0MAS5XlQt3bpPDp_2QLB5HbuMu1_vSufBRH07y57O7GgPUpND8JEP-5kbY4O9sFDwL&usqp=CAE",
+        "delivery": "$7.99 delivery"
+    },
+    {
+        "position": 29,
+        "title": "H&M Pants | Men\u2019s Cargo Joggers Pant Regular Fit | Color: Black | Size: L | Pm ...",
+        "link": "https://poshmark.com/listing/Mens-Cargo-Joggers-Pant-Regular-Fit-64b8591787a2f59529d09870?srsltid=AfmBOopX2B0xQbUYxIfHuonZSpdnMcZQrE6p2SYLPxzG_FCMXIg80_reWbw&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/12266406496736948694?gl=us",
+        "product_id": "12266406496736948694",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=12266406496736948694",
+        "source": "Poshmark",
+        "price": "$20.00",
+        "extracted_price": 20.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMzW_ZFc5wv_LNw1B92LR_iZbEoQPuMJpIi3D9KiQm_oGCe8_gi8zuLXHCkJdng168auNe2nbicgL3JL7eR4ctq4TeoWvQhc6vQ0i84ipu&usqp=CAE",
+        "delivery": "Delivery by Fri, Mar 29"
+    },
+    {
+        "position": 30,
+        "title": "Cargo High Waisted Joggers, Sz 12/14, Black | Color: Black | Size: XL | Kletlaw's ...",
+        "link": "https://poshmark.com/listing/Cargo-high-waisted-joggers-sz-1214-black-65e9eb9d97b5d0f6084219fe?srsltid=AfmBOopXzkfGN75_4YU7WORjtC0kWXh736MLs-s9JolFV9_OaKvfCAVBeDo&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/13488815616881452214?gl=us",
+        "product_id": "13488815616881452214",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=13488815616881452214",
+        "source": "Poshmark",
+        "price": "$20.00",
+        "extracted_price": 20.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTQaJMkaHFgg3AH_Rul3IEsZ6z81V4zocL0MDpL9AZW8dHCP8yBxJDCRdasmMT3D1fw9c7thh2OBxnKWFyXvaPw2zqr6xChDTtT4mvZ9ar5&usqp=CAE",
+        "delivery": "Delivery by Fri, Mar 29"
+    },
+    {
+        "position": 31,
+        "title": "Black Cargo Joggers | Color: Black | Size: M | Pm-51524959's Closet",
+        "link": "https://poshmark.com/listing/Black-cargo-joggers-658f0a6f81078a6912c65696#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/3779266682826479279?gl=us",
+        "product_id": "3779266682826479279",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=3779266682826479279",
+        "source": "Poshmark",
+        "price": "$34.00",
+        "extracted_price": 34.0,
+        "old_price": "$60.00",
+        "extracted_old_price": 60.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQN4BI0KaPQKVR0nHN-JeGKJPS84hs6rmG-GxyDZIXlEgGDcKOi8OeBSYnqpUs1XgnHod46Jf5B8hmAYTDU7bwBKNtW_hA60JZ1N0MB1LSOHJBqGSIfGvvPhQ&usqp=CAE",
+>>>>>>> 92aebfbc8536b8a74fec9e69d0a56cc65535f0d8
         "tag": "SALE",
         "extensions": [
             "SALE"
         ],
+<<<<<<< HEAD
         "delivery": "Delivery by Fri, Mar 29"
     },
     {
@@ -668,10 +1090,28 @@
         "old_price": "$15.00",
         "extracted_old_price": 15.0,
         "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRwwutrsYYA4yRJFBDnXk0OvxPvprS5iTXIbztNKVKx-9i49kxX8S1_vVwViik-1v70Rsvjf-Wa9m-hZQF0zp-JkPamUWE9NvxhaSIv0x6T&usqp=CAE",
+=======
+        "delivery": "Delivery by Tue, Apr 2"
+    },
+    {
+        "position": 32,
+        "title": "Bathmate NWT GSTQ Black Satin Jogger Cargo Pants Womens Size XL - New Women ...",
+        "link": "https://www.mercari.com/us/item/m55203940238/?srsltid=AfmBOop62KgtpIfqxuc441jcTK2SaKAv4PMpcirVzPbpBrZKqA95pWLtZvs&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+        "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:16453264887183498298",
+        "product_id": "16453264887183498298",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=16453264887183498298",
+        "source": "Mercari",
+        "price": "$58.66",
+        "extracted_price": 58.66,
+        "old_price": "$65.00",
+        "extracted_old_price": 65.0,
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRVhvUQZS8-GwV_QYc_tyWentzrS10jYwckE_eXINZP-nZCaQPoXirjw3GPWsXDLE77AoA1pv9WzMedUpYNwu1cVjRTZTC5ZjEVSPyOaUE&usqp=CAE",
+>>>>>>> 92aebfbc8536b8a74fec9e69d0a56cc65535f0d8
         "tag": "SALE",
         "extensions": [
             "SALE"
         ],
+<<<<<<< HEAD
         "delivery": "Delivery by Tue, Apr 2"
     },
     {
@@ -729,13 +1169,45 @@
         "extracted_old_price": 35.0,
         "second_hand_condition": "used",
         "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTN9RGyAc3BPYUICaWdLovr47uP-RBOSgOQ15lKNkIpFiF-BgBwG_3uv39BpqlmbQKgPOcbDSGtwx5Nz6v23ewXUYqbjyq1eFy_LKAGxVo&usqp=CAE",
+=======
+        "delivery": "$5.99 delivery"
+    },
+    {
+        "position": 33,
+        "title": "Chicoree Pants & Jumpsuits | Jogger Cargo Pants Women's Size Large L Drawstring ...",
+        "link": "https://poshmark.com/listing/Jogger-Cargo-Pants-Womens-Size-Large-L-Drawstring-Cuff-Elastic-Waist-Black-NEW-65d53cf14f80f9643ec3f948?srsltid=AfmBOooWcJTLNWT6CY-mNdOiUu1MYb70smq6mdD4hlo67XYzaanwtkbaOB0&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/14892217995387562286?gl=us",
+        "product_id": "14892217995387562286",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=14892217995387562286",
+        "source": "Poshmark",
+        "price": "$20.00",
+        "extracted_price": 20.0,
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS9XZb1nW9a-Qz_1rZfF8KXsQXbA-RoZAm6zFTAWeLkNr-Zwypw0I7LWL2Y9A7dxiwJk9rPOx2zz3QwgsqdIaZzhOdkD_zBYg4GoEB46YCoZgi7nW1AkxWvYg&usqp=CAE",
+        "delivery": "Delivery by Fri, Mar 29"
+    },
+    {
+        "position": 34,
+        "title": "Express Tech Cargo Joggers - Men | Color: Black | Size: 38 in.",
+        "link": "https://www.mercari.com/us/item/m81263125404/?srsltid=AfmBOoqV2BJTUzJoaBvjzuCU_mfD_yPcKvhLutk7rGdIS5mfXtk5mO9vJZc&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+        "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:403692617078976129",
+        "product_id": "403692617078976129",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=403692617078976129",
+        "source": "Mercari",
+        "price": "$14.59",
+        "extracted_price": 14.59,
+        "old_price": "$22.00",
+        "extracted_old_price": 22.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQP5z4I2bEVad7gmmZqYGdZotI11cuyRwn2cJsxwsPCW9lxa4MFuFlcyXd1upXt5062X4cGIsxKvpABLnJgxcbHKN-CTIXKRQUrM3dPa57P&usqp=CAE",
+>>>>>>> 92aebfbc8536b8a74fec9e69d0a56cc65535f0d8
         "tag": "SALE",
         "extensions": [
             "SALE"
         ],
-        "delivery": "Delivery by Mon, Apr 1"
+        "delivery": "$7.99 delivery"
     },
     {
+<<<<<<< HEAD
         "position": 48,
         "title": "Grey Sweat Shorts | Color: Gray | Size: S | Emilyb_47's Closet",
         "link": "https://poshmark.com/listing/Grey-Sweat-Shorts-64bd839cbd66cdcd42f59a50?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
@@ -763,10 +1235,86 @@
         "extracted_old_price": 16.0,
         "second_hand_condition": "used",
         "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTj_bZ8xtVDH0R2yK_AcXYzaSNx_QqaQ2iunwy7eUtSC0uVqHGLoI0BPGwC0nihenmzY1VsliQYr9NKHhjUzgU9kWp0QLjkT3Y6LiYnvViv&usqp=CAE",
+=======
+        "position": 35,
+        "title": "Forever 21 Black Cargo Joggers | Color: Black | Size: 27 | Allysonscibelli's Closet",
+        "link": "https://poshmark.com/listing/Forever-21-black-cargo-joggers-6521c9bcffb5d0545f9d115a?srsltid=AfmBOooYOBcoCi97IHcmvPDLHSYWtpv0TqQg6XjcPvyL1ZWEfvxWortL4W0&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/4395186908043338696?gl=us",
+        "product_id": "4395186908043338696",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=4395186908043338696",
+        "source": "Poshmark",
+        "price": "$14.00",
+        "extracted_price": 14.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT1pWqXoQB3PVJ0s2zo8wWIAYob3tz5ufnMVdoQF88v40fE1y05EuuLA1P3ohD4paOh2cxLl4fjzi-nR1RvlshdDqYmqkTGk9PWx8x2GNQ&usqp=CAE",
+        "delivery": "Delivery by Mon, Apr 1"
+    },
+    {
+        "position": 36,
+        "title": "Song Pants & Jumpsuits | Song Brand Cargo Jogger. Size 7, Distressed BLACK ...",
+        "link": "https://poshmark.com/listing/Song-brand-cargo-jogger-Size-7-distressed-black-643ca89cc1c3460975dc3e1d?srsltid=AfmBOooroYetzgZQ2VLos2tzteBxe-MM6RM8gtZDHhkpV51YSmfyRpev3lA&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/133763634974581101?gl=us",
+        "product_id": "133763634974581101",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=133763634974581101",
+        "source": "Poshmark",
+        "price": "$13.00",
+        "extracted_price": 13.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRNbCjeQXEdqmeuNPZfni03POasCHJbVEp6eYRNBXlG2h6sHzjBBQKW_SUdkHESWi5hZE82UydX5WTUJM96c_YazZbVM3NtxfZx8FWGxSxC&usqp=CAE",
+        "delivery": "Delivery by Mon, Apr 1"
+    },
+    {
+        "position": 37,
+        "title": "Cargo Jogger Pants | Color: Black | Size: XXL | Nataliah77's Closet",
+        "link": "https://poshmark.com/listing/Cargo-jogger-pants-65f4cead8d7a3c6e93a74bd6?srsltid=AfmBOoq_pHs0cxlh0LRugg5ZUhromKackSHJtLM3Ai8t9T0c8ZIciA5L9gU&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/864872380546165850?gl=us",
+        "product_id": "864872380546165850",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=864872380546165850",
+        "source": "Poshmark",
+        "price": "$16.00",
+        "extracted_price": 16.0,
+        "extensions": [
+            "$2.00 below typical",
+            "LOW PRICE"
+        ],
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQkC-YtRYHTbpwXREyqP4LijwEsJvY06dp6YFzvihtOvs_BY8-R_K3-uY4-rFu0-gVJ90Bo1scQ5a4fR9m16dh_UPNfVJzXDHlNFv5bOc8&usqp=CAE",
+        "tag": "LOW PRICE",
+        "delivery": "Delivery by Fri, Mar 29"
+    },
+    {
+        "position": 38,
+        "title": "Love Moda Pants & Jumpsuits | Women's High Waist Slim Fit Jogger Black Cargo ...",
+        "link": "https://poshmark.com/listing/Womens-High-Waist-Slim-Fit-Jogger-Black-Cargo-Pants-with-Matching-Belt-size-1x-65442c0c7f29dd67aec0677d?srsltid=AfmBOorTE0nq3kEk54idM0jRzLlBkuNmIC_vlWZIzG4UCzTVBN18kdAYUh8#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/16293934750788838606?gl=us",
+        "product_id": "16293934750788838606",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=16293934750788838606",
+        "source": "Poshmark",
+        "price": "$25.00",
+        "extracted_price": 25.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS5QXHozJR9GsJwjHQJCkPedmQ_pAsU2gsGGxr107Y2dXYQAm5fn2dxgl5hF-COKP37Q7rt5Hh7ks72YWFaTzKCpkHusnDnH9I9K1TeUqs&usqp=CAE",
+        "delivery": "Delivery by Fri, Mar 29"
+    },
+    {
+        "position": 39,
+        "title": "Thread & Supply Pants & Jumpsuits | Cute Black Thread + Supply Cargo Joggers Size ...",
+        "link": "https://poshmark.com/listing/Cute-Black-Thread--Supply-Cargo-Joggers-Size-XXS-65e79ea6eb7e7a18c93168dd?srsltid=AfmBOopzhveisg0Qbpm5aDwmYVuUDn1G1jYnl7G78GziRhTeqAAKbAr2sIM&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/12284973329250052778?gl=us",
+        "product_id": "12284973329250052778",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=12284973329250052778",
+        "source": "Poshmark",
+        "price": "$16.00",
+        "extracted_price": 16.0,
+        "old_price": "$20.00",
+        "extracted_old_price": 20.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQXBOJaGLfGlCXeJQ8sIL_4oS9u4KpyLDPuyjmOPuWgEvyblkWKPhEnKqKM88wYUSL05zVFjIICbo7GGGYsNDFOZTbM2IPv4k5o5ocPhh0&usqp=CAE",
+>>>>>>> 92aebfbc8536b8a74fec9e69d0a56cc65535f0d8
         "tag": "SALE",
         "extensions": [
             "SALE"
         ],
+<<<<<<< HEAD
         "delivery": "$4.99 delivery"
     },
     {
@@ -783,10 +1331,47 @@
         "extracted_old_price": 12.0,
         "second_hand_condition": "used",
         "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT1djsMd7ihc_FHs67gTqHBqIjF4Jt6McQmGFUR-kuBJNEA5nP-DmDt84x8Rwpg7BcyuH4hYm8iFf4ewGr9XwPySnoMF5CKuO6oL12ah3GL&usqp=CAE",
+=======
+        "delivery": "Delivery by Mon, Apr 1"
+    },
+    {
+        "position": 40,
+        "title": "Jolie & Joy Pants & Jumpsuits | Nwt Jolie & Joy Cargo Style Jogger L | Color ...",
+        "link": "https://poshmark.com/listing/NWT-Jolie--Joy-Cargo-Style-Jogger-L-64fc8a348bb2e2ae9181d55b?srsltid=AfmBOop9rZ4dcQyQheHOCzWdVhibQGN4DAzq4cEqWx1TQW7FGX2Jv4e1FMw&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/14360193942675476528?gl=us",
+        "product_id": "14360193942675476528",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=14360193942675476528",
+        "source": "Poshmark",
+        "price": "$13.00",
+        "extracted_price": 13.0,
+        "extensions": [
+            "$2.00 below typical",
+            "LOW PRICE"
+        ],
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQBBNaPf4RXDhCFZeHCQ5Ws6nCy61pcMbcV6GSikZmnUi5X1A_Pk8gIYxL-cD2P8sOQp4JAPI0NdY_cE8tqjVs88D4C40cUUBD2dG3jkwc&usqp=CAE",
+        "tag": "LOW PRICE",
+        "delivery": "Delivery by Mon, Apr 1"
+    },
+    {
+        "position": 41,
+        "title": "Uniqlo Pants & Jumpsuits | GU by Uniqlo Large Cargo Pants Black Pockets Loose ...",
+        "link": "https://poshmark.com/listing/GU-by-Uniqlo-Large-Cargo-Pants-Black-Pockets-Loose-Jogger-65d7d7e1981d4812d6ab9157?srsltid=AfmBOoqc7nP-a1V2JlQB3MvwlP__x6DYTJMWRYHKEVIQDcpvBK6clJ7vrFU&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/15008487203648128998?gl=us",
+        "product_id": "15008487203648128998",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=15008487203648128998",
+        "source": "Poshmark",
+        "price": "$11.00",
+        "extracted_price": 11.0,
+        "old_price": "$16.00",
+        "extracted_old_price": 16.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ6ENXjrAjnvO7qSe4T8hCR96HP4eeJS63OaqfBVwqHaFsUMx6SDuC4K2EnjBWPKuOEcQKOtHfZNMsaVlGOBtDKPxvizZsIJ8bA8SnXAAKBBvxmK5Mg9JCW&usqp=CAE",
+>>>>>>> 92aebfbc8536b8a74fec9e69d0a56cc65535f0d8
         "tag": "SALE",
         "extensions": [
             "SALE"
         ],
+<<<<<<< HEAD
         "delivery": "$4.99 delivery"
     },
     {
@@ -801,10 +1386,171 @@
         "extracted_price": 20.0,
         "second_hand_condition": "used",
         "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQnBhkgMqJPJ1_AUHsrxM9BeArVuAlxM5SDIg98sa1I_dcIntwBlhn9yjfCRl0PiQB0RvvHFWBS5ubIu0ZwfEChQw-3dB-MRHiG-i2W71A&usqp=CAE",
+=======
+        "delivery": "Delivery by Mon, Apr 1"
+    },
+    {
+        "position": 42,
+        "title": "American Eagle Outfitters Pants & Jumpsuits | American Eagle Cargo Joggers Sz 8 ...",
+        "link": "https://poshmark.com/listing/American-Eagle-Cargo-Joggers-Sz-8-65b1cc2a24237aee99f57387?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/1245713095164058028?gl=us",
+        "product_id": "1245713095164058028",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=1245713095164058028",
+        "source": "Poshmark",
+        "price": "$15.00",
+        "extracted_price": 15.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSARIuZB2NDW7nKKK5mXrl0oqSJwqfb7X5LYiIzeJzW829Nk7TWIjQeYHaiCVWJNVIZPV9y-uQZbJ5Yllb0JNc0ItNkg4y7X_4W2MetDIs0&usqp=CAE",
+        "delivery": "Delivery by Thu, Mar 28"
+    },
+    {
+        "position": 43,
+        "title": "PacSun Black '90s Boyfriend Cargo Pants Joggers - Women | Color: Black | Size: 25 in.",
+        "link": "https://www.mercari.com/us/item/m31556638783/?srsltid=AfmBOoq5Wjm8NCzav-iNvbkNpZQMw-Q-eHyvdfaY-gpKVOSZuUc6J_kSJk0",
+        "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:12789839618777965001",
+        "product_id": "12789839618777965001",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=12789839618777965001",
+        "source": "Mercari",
+        "price": "$32.00",
+        "extracted_price": 32.0,
+        "old_price": "$40.00",
+        "extracted_old_price": 40.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQke-3n4WmFamA4dt6Xh2v13djFM7O0Kqh_S8tNkiiFjul9Laj_vnySUosiwu7DDEgfVrXrfLLygoN5xr0qJCFEFaO0OBFnqC5VucAbAHDoN9OZm-IqIlEJ8A&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "$7.99 delivery"
+    },
+    {
+        "position": 44,
+        "title": "Cargo Pants Joggers Track Pants Casual Pants Harem Loose Pants Drawstring | Color ...",
+        "link": "https://poshmark.com/listing/Cargo-pants-joggers-track-pants-casual-pants-harem-loose-pants-drawstring-64b9dd7d7dfcc291acbc5bec?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/7236950287427973053?gl=us",
+        "product_id": "7236950287427973053",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=7236950287427973053",
+        "source": "Poshmark",
+        "price": "$40.00",
+        "extracted_price": 40.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSN1QU4ym7g0lYTEKQluKzNw2VbxJ2xzF-cq2xplVtkMPEEY1IdZuUi11Oi7uBb2IWXFQ_jLdEVZU5xrUpPiPWGTg45Jj-pW-63eBwce3GZ&usqp=CAE",
+        "delivery": "Delivery by Fri, Mar 29"
+    },
+    {
+        "position": 45,
+        "title": "Five Star Cargo Joggers - Women | Color: Black | Size: M",
+        "link": "https://www.mercari.com/us/item/m92607604721/?srsltid=AfmBOoptSCLiyGF9rcrofecPnmQU00Du-tTWEAaX8NWdKVow3bzZVrS6xso",
+        "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:17674977942047152987",
+        "product_id": "17674977942047152987",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=17674977942047152987",
+        "source": "Mercari",
+        "price": "$30.01",
+        "extracted_price": 30.01,
+        "old_price": "$35.00",
+        "extracted_old_price": 35.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT-zDsXVsvIKlS25xEaAUCK-J91nMeu_DrGryWxM6a8DxX5Ei940JEJdfr4sm282xhxzhm2gMbhDtFHNCCgiE6Gx8Ca8MFzn_q-zFqZNBe_&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "$6.99 delivery"
+    },
+    {
+        "position": 46,
+        "title": "Time and Tru Pants & Jumpsuits | Nwot Cargo Joggers | Color: Black | Size: XXL ...",
+        "link": "https://poshmark.com/listing/NWOT-cargo-joggers-65e87bf117e49cc365b51f44?srsltid=AfmBOorNYUoBgMib3fZRQkZxmcfo889_bwcWSqSagNxxofgGFNXkBmVjUGA&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/10721795896724957313?gl=us",
+        "product_id": "10721795896724957313",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=10721795896724957313",
+        "source": "Poshmark",
+        "price": "$14.00",
+        "extracted_price": 14.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR0_ExS54E5IkS6oIOUd1lq1x8Bg3kWZIkzNMVpzyUGBkb6FteFofnDDKpNdlxb-6l5sxCXfwGFbCrRv_cGmy1hWpFRAEen_hSKX7RXnZTFHWOU3LeRI2iU3Q&usqp=CAE",
+        "delivery": "Delivery by Fri, Mar 29"
+    },
+    {
+        "position": 47,
+        "title": "Bathmate Empyre Black Drawstring Jogger Cargo Pants Mens L - Men | Color: Black ...",
+        "link": "https://www.mercari.com/us/item/m34020830477/?srsltid=AfmBOor0d6T8p-ygNV3zvV5GTf7xVHl-Lh0I40jZsgA6ZIUniRO85HgVmFE&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+        "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:1821725509270036550",
+        "product_id": "1821725509270036550",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=1821725509270036550",
+        "source": "Mercari",
+        "price": "$19.99",
+        "extracted_price": 19.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRHnbT6MEUgThN-VG0J_PRC-NP-uLXLnP-8GXPBphhiGwpbDYEl45eSiYCoJpvHSc3o1OHg-fT7EUXnJAtKySRzQgbQlf57wll_FMY6-lcoI93COlzRxIivCA&usqp=CAE",
+        "delivery": "$7.99 delivery"
+    },
+    {
+        "position": 48,
+        "title": "Zara Pants & Jumpsuits | Zara Black Cargo Joggers | Color: Black | Size: S ...",
+        "link": "https://poshmark.com/listing/Zara-black-cargo-joggers-655693bd04166d610ba422ef?srsltid=AfmBOopn1WMME473o-APWamjEvHC-lXhaO0EdgPe4yqiUixu3YKPXRhcUeQ#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/14071094610335302359?gl=us",
+        "product_id": "14071094610335302359",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=14071094610335302359",
+        "source": "Poshmark",
+        "price": "$45.00",
+        "extracted_price": 45.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSk9tw66zMbenDwPg9DirG1Zuu84vCnT2BtwAyoD8y06hmhuZH7cX3Ocb97Se9Y6sQwxrBZzi3eSgA6RTjfAJVugr2lC7R-KBSMZXGT8-o&usqp=CAE",
+        "delivery": "Delivery by Fri, Mar 29"
+    },
+    {
+        "position": 49,
+        "title": "PacSun Men's Cargo Joggers - M - Men | Color: Black | Size: 36 in.",
+        "link": "https://www.mercari.com/us/item/m95647692943/?srsltid=AfmBOopc6nqAYYr-7U9P4-a3VXfLKxh3eqJA4aLt43r9IGKZ9Qrw2d8jDfw&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+        "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:6745221690457914981",
+        "product_id": "6745221690457914981",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=6745221690457914981",
+        "source": "Mercari",
+        "price": "$20.00",
+        "extracted_price": 20.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSYpJPeLwLNbhmJY61wPh5FFprNbAvXwI043jeISnpslBQ32TOvoQ12ikE1KwVoxhO1jSNBLCvD2UiuKrcvLnMOBXrcqTgLIISXiM5K6lYn4X9-RVaOB0T7sw&usqp=CAE",
+        "delivery": "$7.99 delivery"
+    },
+    {
+        "position": 50,
+        "title": "Athletic Black Women's Cargo Jogger Pants Polyester/span Relax",
+        "link": "https://www.ebay.com/itm/234576057901?chn=ps&mkevt=1&mkcid=28&srsltid=AfmBOorwsUMcbr6aUVJiFUnyZSBVzyEE5Dz6s8oatVhjovZev_3j3WG78A0",
+        "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:13979871527663640240",
+        "product_id": "13979871527663640240",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=13979871527663640240",
+        "source": "eBay - tybodil9702",
+        "price": "$32.39",
+        "extracted_price": 32.39,
+        "old_price": "$35.99",
+        "extracted_old_price": 35.99,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRTr1HivMteN9ITKD21pa_muqEdOKZWGCWM0ULl9ZFNaHEON-RY-xlgCIz_9MmwoiSxTO6sCujClyQTIZdyoIg7nO7dEARubO1nyEB1UjsS&usqp=CAE",
+        "tag": "SALE",
+        "extensions": [
+            "SALE"
+        ],
+        "delivery": "Delivery by Wed, Apr 3"
+    },
+    {
+        "position": 51,
+        "title": "Cute Cargo Joggers | Color: Black | Size: M | Latina_Yg's Closet",
+        "link": "https://poshmark.com/listing/Cute-cargo-joggers-60c297859c337854798d02a0?srsltid=AfmBOoqNfE_J99c_NzkkVHdMUuxk9GgRF70H8plzm4kvSrnIPNkq1n_ARJo#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/168436879913347247?gl=us",
+        "product_id": "168436879913347247",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=168436879913347247",
+        "source": "Poshmark",
+        "price": "$30.00",
+        "extracted_price": 30.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR1ySY6OSzkYHIriSHOV9vGyePlAgAQ62eG_5hiez-2VSrP7ZmBG1RE8i1bPiiMlcfQ70YbjsyrAyvvHlcq74zwQ-VO7CMatmKEA4V9L7gH&usqp=CAE",
+>>>>>>> 92aebfbc8536b8a74fec9e69d0a56cc65535f0d8
         "delivery": "Delivery by Fri, Mar 29"
     },
     {
         "position": 52,
+<<<<<<< HEAD
         "title": "Aerie Shorts | Oversized Sweat Shorts | Color: Tan | Size: XS | Mailei_O's Closet",
         "link": "https://poshmark.com/listing/Oversized-sweat-shorts-651c0ea3f644e5a1c7afbba9?srsltid=AfmBOorw6NiP4_OWOT30eFrHVWseBpKVQz5PSY3DSjoV3lTRAPh_q12tNyw&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
         "product_link": "https://www.google.com/shopping/product/7143251462830945565?gl=us",
@@ -829,10 +1575,37 @@
         "extracted_price": 25.0,
         "second_hand_condition": "used",
         "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQMIXtTzEIoHDlHoPrIhnULJS7TRJLhseOxcBnz6vPpd6KwHUQFpFr2clfhTlWs0bdiEXPvPjHcI-3A2pmkQ-vlsFBL636SFchMNrRlt04&usqp=CAE",
+=======
+        "title": "Better Be Cargo Pants Loose Jogger Pants Women's 1xl Black",
+        "link": "https://www.ebay.com/itm/155812762100?chn=ps&mkevt=1&mkcid=28&srsltid=AfmBOoq9mxwIB5uBdoy9SGkOvIVDDnqsZHTwlbeHzLuRi2XtRY73wUEJWh4&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+        "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:13336366257481094960",
+        "product_id": "13336366257481094960",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=13336366257481094960",
+        "source": "eBay - better-weather",
+        "price": "$14.95",
+        "extracted_price": 14.95,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSxbZzDi8lacfhgo9UqEV8nwOK2PhOXBjgZSf4zqJeHH0oAo-bnnzgQE5-ylYhoiPbmUEHkdEjTqWlUbZlOy-mlC2NRCcc-q0XLdle0_oy-aZ1woBzdwtpd&usqp=CAE",
+        "delivery": "$8.80 delivery \u00b7 Free 30-day returns"
+    },
+    {
+        "position": 53,
+        "title": "Athleisure Cargo Joggers - Black - Size Medium | Color: Black | Size: M ...",
+        "link": "https://poshmark.com/listing/Athleisure-Cargo-Joggers--black--size-Medium-65d3a92302760b45c5a9d62c?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/7496009707139658901?gl=us",
+        "product_id": "7496009707139658901",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=7496009707139658901",
+        "source": "Poshmark",
+        "price": "$24.00",
+        "extracted_price": 24.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcScp1ZibggSo1utC_2uiPHZXWC3yvW65Jm6rYV6iqdVJK69ixfQrPPzqtxZLg5ti6hrSV0MISsSqGSJYHtb1jm_n17bzmvroxtimuUaWSwy&usqp=CAE",
+>>>>>>> 92aebfbc8536b8a74fec9e69d0a56cc65535f0d8
         "delivery": "Delivery by Fri, Mar 29"
     },
     {
         "position": 54,
+<<<<<<< HEAD
         "title": "JoyLab Sweat Shorts - Women | Color: Brown | Size: XS",
         "link": "https://www.mercari.com/us/item/m54814141603/?srsltid=AfmBOopMo1YlOfBwyL26OZwXwFSWK_kei-ord0AM9EwQe0oS3UTa4Ghruws",
         "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:6322992806550888608",
@@ -939,5 +1712,101 @@
         "second_hand_condition": "used",
         "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTrXIWBKaLBERgJl9FtbFb5JOpr9ozzuwHIWElSbq-FhzfMFNB5hRWdwJJLgWDjN9vk1UCD5pABuSe5qRte9v1I1NUfl1dRmd95OhdYC5sw&usqp=CAE",
         "delivery": "Delivery by Mon, Apr 1"
+=======
+        "title": "Old Navy Pants & Jumpsuits | Nwt Black Cargo Joggers | Color: Black | Size: LP ...",
+        "link": "https://poshmark.com/listing/NWT-black-cargo-joggers-64c8a36b678c3ab8b56c5901?srsltid=AfmBOooFgVdCwM2iZjgnhAFTt8XVvvvZVkDheeMatxEYhhF5MxNAlvojfqQ&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/1110262118962607573?gl=us",
+        "product_id": "1110262118962607573",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=1110262118962607573",
+        "source": "Poshmark",
+        "price": "$19.00",
+        "extracted_price": 19.0,
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTRL-JK-JRSGovO63vofG9hUerF9DhsBrg8yT_dC7DlpBpHQBkrvyghreqItNrRD8L-4usJ0Qvf5QBNJDrknLQt3tPl-ZQUjlXBgPxB06c&usqp=CAE",
+        "delivery": "Delivery by Fri, Mar 29"
+    },
+    {
+        "position": 55,
+        "title": "Target Pants & Jumpsuits | Black Toggle Cargo Pants, Black Cargo Pants, Cargo ...",
+        "link": "https://poshmark.com/listing/Black-toggle-cargo-pants-Black-cargo-pants-cargo-pants-black-joggers-joggers-64cd6affb635f88095481c05?srsltid=AfmBOopaw1R56Uo440oEl3xBlonG49x0Wi7TE2v4PguVvRLgF_u2KyHdZtw&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/10104630628435474256?gl=us",
+        "product_id": "10104630628435474256",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=10104630628435474256",
+        "source": "Poshmark",
+        "price": "$16.00",
+        "extracted_price": 16.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTJ8DZi2KEG1bWizRWixJ1erfSjAOXJFM41zumj8fv7rB_fR1dHAWsmftzd2Iu_4cMDlVHcZA-F2eHZyIYhR_2HeT-dxV54khmWU-Xu5AcT&usqp=CAE",
+        "delivery": "Delivery by Mon, Apr 1"
+    },
+    {
+        "position": 56,
+        "title": "Bathmate Black Cargo Utility Pants Bottoms Joggers Cargos Size S \ufe0f - Women ...",
+        "link": "https://www.mercari.com/us/item/m86793346592/?srsltid=AfmBOor8xUPQfSbiD1GkeGMYaOvPp73xaEcKyOnyZTs3GpT_dKyX9EgYf7Q",
+        "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:9784907115038870277",
+        "product_id": "9784907115038870277",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=9784907115038870277",
+        "source": "Mercari",
+        "price": "$36.00",
+        "extracted_price": 36.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSSJfTMl-jTzqsCPZxL2_ljpjLAaPLCAP71HRcad9IKSR-_Mc6KOd3_nEeXIifUN_OGQtxQt7KW8vfxK5vNWi6B8tvVp-6fawPeN9ySplkAQdNzX7JLN4_mBw&usqp=CAE",
+        "delivery": "$6.99 delivery"
+    },
+    {
+        "position": 57,
+        "title": "Cargo Pants | Black Cargo Sweatpants XL | Color: Black | Size: XL | Posh_With_Nd ...",
+        "link": "https://poshmark.com/listing/Black-Cargo-Sweatpants-XL-637a818b4bd760ce837497e6?srsltid=AfmBOorH0wWyPOiJDINlpc3vFNSL7GywClhgoMEVlznPJXQ-EHiTcuY1_f8&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/385821016568758704?gl=us",
+        "product_id": "385821016568758704",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=385821016568758704",
+        "source": "Poshmark",
+        "price": "$16.00",
+        "extracted_price": 16.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRnWpff3rjnxDRZTGmMRJSzmKy-pB0gAnptpvyyVGHCQF3cUX9sSSDsFvBXS30o6ZYUj_ktGph1L8V_NJBYXz2g8sG8tnIqnGQoqMMSxi0i&usqp=CAE",
+        "delivery": "Delivery by Fri, Mar 29"
+    },
+    {
+        "position": 58,
+        "title": "Athletic Works Pants & Jumpsuits | Athletic Black Women's Cargo Jogger Pants ...",
+        "link": "https://poshmark.com/listing/ATHLETIC-Black-Womens-Cargo-Jogger-Pants-PolyesterSpan-Relax-Drawstring-Sz-2XL-65ac9e86af7f474b31405f36?srsltid=AfmBOoolzYzY-LH4YcAk2eeViv7VJEzKFVfqbrULRepnEodLrG8jIE-G2Fg#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/7468625861657973614?gl=us",
+        "product_id": "7468625861657973614",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=7468625861657973614",
+        "source": "Poshmark",
+        "price": "$39.00",
+        "extracted_price": 39.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ9F3mKtZPG9F0zptzZZuasorOhH7BPMU2nNOqlhjnY9Q4s93Qcoi4cmkUQ2yhWc--wuamM876O3he--Gppu2e2IhO0Q0W83d_Y0obrFFU&usqp=CAE",
+        "delivery": "Delivery by Fri, Mar 29"
+    },
+    {
+        "position": 59,
+        "title": "Black Cargo Jogger Pants Oversized Rave Festival Size S | Color: Black | Size: S ...",
+        "link": "https://poshmark.com/listing/Black-Cargo-Jogger-Pants-Oversized-Rave-Festival--size-S-65bf18d9308f07e8d09158d4?srsltid=AfmBOopeoGctYgtaa3j7gWo9GsFVScx87GpXYzTc62U6B7TI3W9kwhyGMFw#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/6563540943001835974?gl=us",
+        "product_id": "6563540943001835974",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=6563540943001835974",
+        "source": "Poshmark",
+        "price": "$27.00",
+        "extracted_price": 27.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRYRk86XBgjfAMSTb9SoIeVexDS8QBR6s_SsajeAk3-WHgb4dKeMldZL-PoUPBYtQJzahtAa0xwTiXXwvywHXL2ChCw2PYO7mZAiKpTzaGCwoPxxj6ib2u8RQ&usqp=CAE",
+        "delivery": "Delivery by Mon, Apr 1"
+    },
+    {
+        "position": 60,
+        "title": "American Eagle Outfitters Pants & Jumpsuits | American Eagle Utility Cargo Jogger ...",
+        "link": "https://poshmark.com/listing/American-Eagle-Utility-Cargo-Jogger-Lyocell-Relaxed-Fit-Black-202114-Short-65c5b2c24bf9ff5bff51da81?srsltid=AfmBOor1cR7OGIzaUKr8ddV5rfRrcycjzLqCWZ4212mQ4LpYRS4PAljK9d4#utm_source=gdm_unpaid",
+        "product_link": "https://www.google.com/shopping/product/2024869359786781128?gl=us",
+        "product_id": "2024869359786781128",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&location=United+States&product_id=2024869359786781128",
+        "source": "Poshmark",
+        "price": "$35.00",
+        "extracted_price": 35.0,
+        "second_hand_condition": "used",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSc9tB2-fpOQoNRSCSPP0bLk1w8VwxfdtDDslVjiOJHgDfguQVGTh0lcTIRmEmNekRSXEGnxa-lqru1soCt_U0WKKMyyzEe7iNca_dioEZ_&usqp=CAE",
+        "delivery": "Delivery by Thu, Mar 28"
+>>>>>>> 92aebfbc8536b8a74fec9e69d0a56cc65535f0d8
     }
 ]
