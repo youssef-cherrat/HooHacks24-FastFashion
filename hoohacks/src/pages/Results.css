@@ -25,9 +25,10 @@
 
 
 .card-img-top {
-  width: 100%;
-  height: 300px; 
+  width: 95%;
+  height: 400px; 
   object-fit: cover;
+  margin: auto;
 }
 
 
@@ -62,4 +63,10 @@
   color: #495057; 
 }
 
+.card-header {
+  text-align: center; /* Centers the source name */
+  font-size: 1rem; /* Adjust as needed */
+  background-color: #f8f9fa; /* Light gray background, adjust as needed */
+  border-bottom: 1px solid #e0e0e0; /* Light gray border, adjust as needed */
+}
 

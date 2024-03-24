@@ -2,6 +2,8 @@ import React from "react";
 import { useQuery } from "@tanstack/react-query";
 import { fetchProducts } from "../api/fetchProducts";
 import "./Results.css"; 
+import depopLogo from "./CompanyLogo/Depop_logo.png"; // Adjust the path as necessary
+import threadUpLogo from "./CompanyLogo/ThreadUp_logo.png"; 
 
 function Results() {
   const { data, error, isLoading } = useQuery({
@@ -27,6 +29,15 @@ function Results() {
               className="text-decoration-none"
             >
               <div className="card card-custom h-100">
+                <div className="card-header">
+                  {item.source.toLowerCase() === "depop" ? (
+                    <img src={depopLogo} alt="Depop Logo" style={{ height: '50px', objectFit: 'contain' }} />
+                  ) : item.source.toLowerCase() === "thredup" ? (
+                    <img src={threadUpLogo} alt="ThredUp Logo" style={{ height: '50px', objectFit: 'contain' }} />
+                  ) : (
+                    item.source
+                  )}
+                </div>
                 <img
                   src={item.thumbnail}
                   className="card-img-top"
