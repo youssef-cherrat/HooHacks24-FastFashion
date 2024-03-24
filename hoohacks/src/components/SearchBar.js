@@ -12,8 +12,24 @@ export const SearchBar = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log('URL Submitted:', url);
+    fetch('http://localhost:5000/search', { // Update the URL/port as needed
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({ url: url }),
+    })
+    .then(response => response.json())
+    .then(data => {
+      console.log('Success:', data);
+      // Handle success response
+    })
+    .catch((error) => {
+      console.error('Error:', error);
+      // Handle errors here
+    });
   };
+  
 
   return (
     <div className="container mt-4 stable-search-bar"> {/* Add the class here */}

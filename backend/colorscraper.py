@@ -4,7 +4,7 @@ from selenium import webdriver
 
 known_colors = [
     "black", "white", "red", "green", "blue",
-    "yellow", "purple", "orange", "grey", "pink",
+    "yellow", "purple", "orange", "grey", "gray", "pink",
     "cyan", "magenta", "brown", "olive", "maroon",
     "beige", "ivory", "teal", "navy", "aquamarine",
     "turquoise", "silver", "lime", "coral", "peach",
