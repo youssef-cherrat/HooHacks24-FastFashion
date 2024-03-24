@@ -6,7 +6,7 @@ import depopLogo from "./CompanyLogo/Depop_logo.png"; // Adjust the path as nece
 import threadUpLogo from "./CompanyLogo/ThreadUp_logo.png"; 
 import mercariLogo from "./CompanyLogo/Mercari_logo.png"; 
 import poshmarkLogo from "./CompanyLogo/Poshmark_logo.png"; 
-
+import ebayLogo from "./CompanyLogo/EBay_logo.png";
 
 function Results() {
   const { data, error, isLoading } = useQuery({
@@ -41,8 +41,10 @@ function Results() {
                     <img src={mercariLogo} alt="Mercari Logo" style={{ height: '50px', objectFit: 'contain' }} />
                   ) : item.source.toLowerCase() === "poshmark" ? (
                     <img src={poshmarkLogo} alt="Poshmark Logo" style={{ height: '50px', objectFit: 'contain' }} />
+                  ) : item.source.toLowerCase() === "ebay" ? ( // Added condition for eBay
+                    <img src={ebayLogo} alt="eBay Logo" style={{ height: '50px', objectFit: 'contain' }} />
                   ) : (
-                    item.source
+                    item.source // Display the source text if it doesn't match any known sources
                   )}
                 </div>
                 <img

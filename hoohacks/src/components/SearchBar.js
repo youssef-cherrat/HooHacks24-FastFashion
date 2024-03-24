@@ -4,7 +4,18 @@ import './SearchBar.css';
 
 export const SearchBar = () => {
   const [url, setUrl] = useState('');
-  const [isLoading, setIsLoading] = useState(false); // State to track loading
+  const [isLoading, setIsLoading] = useState(false);
+  const [randomFact, setRandomFact] = useState('');
+
+  const facts = [
+    "The fast fashion industry is the second largest consumer of water.",
+    "Fast fashion is responsible for 10% of global carbon emissions.",
+    "It costs 3,000 liters of water to make one cotton shirt.",
+    "35% of all microplastics in the environment are from synthetic fibers.",
+    "57% of all discarded clothing ends up in landfills.",
+    "On average, each item of clothing is only worn 7-10 times.",
+    "Each year 80 billion items of clothing are consumed."
+  ];
 
   const handleUrlChange = (e) => {
     setUrl(e.target.value);
@@ -12,8 +23,12 @@ export const SearchBar = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
+    // Select a random fact
+    const fact = facts[Math.floor(Math.random() * facts.length)];
+    setRandomFact(fact);
     setIsLoading(true); // Start loading
-    fetch('http://localhost:5000/search', { // Update the URL/port as needed
+
+    fetch('http://localhost:5000/search', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -23,17 +38,14 @@ export const SearchBar = () => {
     .then(response => response.json())
     .then(data => {
       console.log('Success:', data);
-      // Handle success response
     })
     .catch((error) => {
       console.error('Error:', error);
-      // Handle errors here
     })
     .finally(() => {
-      setIsLoading(false); // Stop loading regardless of the outcome
+      setIsLoading(false);
     });
   };
-  
 
   return (
     <div className="container mt-4 stable-search-bar">
@@ -52,11 +64,16 @@ export const SearchBar = () => {
             <button className="btn btn-outline-success white-text-button" type="submit" disabled={isLoading}>Submit</button>
           </form>
           {isLoading && (
-            <div className="spinner-custom-margin d-flex justify-content-center">
-              <div className="spinner-border text-success custom-spinner-size" role="status" style={{ width: '5rem', height: '5rem' }}>
-                <span className="visually-hidden">Loading...</span>
+            <>
+              <div className="text-center mt-4">
+                <strong>Fun Fact:</strong> {randomFact}
               </div>
-            </div>
+              <div className="spinner-custom-margin d-flex justify-content-center">
+                <div className="spinner-border text-success custom-spinner-size" role="status" style={{ width: '5rem', height: '5rem' }}>
+                  <span className="visually-hidden">Loading...</span>
+                </div>
+              </div>
+            </>
           )}
         </div>
       </div>
