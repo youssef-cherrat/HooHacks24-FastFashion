@@ -1,6 +1,6 @@
 /* NavBar.css */
 .navbar {
-  background-color: rgb(255, 255, 255);
+  background-color: #faf5ed;
   position: fixed; /* Fixed position */
   top: 0; /* Aligns the navbar to the top of the viewport */
   left: 0; /* Aligns the navbar to the left edge of the viewport */

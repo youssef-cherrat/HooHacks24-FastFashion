@@ -9,7 +9,7 @@
 .card-custom {
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   cursor: pointer;
-  width: 100%;
+  width: 95%;
   height: auto;
   margin-bottom: 2rem;
   overflow: hidden;
@@ -25,8 +25,9 @@
 
 
 .card-img-top {
-  width: 100%;
-  height: 300px; 
+  width: 95%;
+  margin: auto;
+  height: 400px; 
   object-fit: cover;
 }
 
@@ -61,5 +62,9 @@
 .card-custom:hover .card-text {
   color: #495057; 
 }
-
-
+.card-header {
+  text-align: center; /* Centers the source name */
+  font-size: 1rem; /* Adjust as needed */
+  background-color: #f8f9fa; /* Light gray background, adjust as needed */
+  border-bottom: 1px solid #e0e0e0; /* Light gray border, adjust as needed */
+}

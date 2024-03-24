@@ -1,25 +1,23 @@
-// About.js
-import React from 'react';
-import './About.css'; // Make sure to create an About.css file for styling
-import placeholderImage from '../assets/img/LogoNew.png'; // Replace with the path to your image
+import React from "react";
+import "bootstrap/dist/css/bootstrap.min.css"; // Import Bootstrap CSS
+import "./About.css"; // Your custom CSS
+import placeholderImage from "../assets/img/LogoNew.png"; // Replace with your image path
 
 const About = () => {
   return (
-    <div className="about-container">
-      <div className="about-text">
-        <h1>About Us</h1>
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent
-          vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis
-          venenatis. Proin viverra risus a eros volutpat tempor. In quis arcu
-          et eros porta lobortis sit amet at lacus. Praesent nec orci facilisis,
-          interdum nisi quis, condimentum nibh. Donec tempus, mauris a
-          imperdiet auctor, magna nisl ultricies eros, in posuere risus dolor
-          id orci.
-        </p>
-      </div>
-      <div className="about-image">
-        <img src={placeholderImage} alt="About" />
+    <div className="about-page vh-100 d-flex align-items-center">
+      <div className="container">
+        <div className="row">
+          <div className="col-12 col-md-6 d-flex align-items-center">
+            <div>
+              <h1 className="mb-3">The GreenThreads Story</h1>
+              <p className="lead">GreenThreads is a forward-thinking initiative transforming the fashion landscape by championing sustainability. Our mission is to curtail the effects of fast fashion by connecting eco-conscious consumers with small, local businesses and individual sellers who offer a treasure trove of second-hand clothing. We're not a retailer; we're a gateway to a world of environmentally friendly fashion choices, where every purchase supports the longevity of apparel and nurtures community-based commerce. Embrace style with substance and join GreenThreads in weaving a future where fashion is kind to our planet.</p>
+            </div>
+          </div>
+          <div className="col-12 col-md-6 d-flex align-items-center justify-content-center">
+            <img src={placeholderImage} alt="About" className="img-fluid" />
+          </div>
+        </div>
       </div>
     </div>
   );

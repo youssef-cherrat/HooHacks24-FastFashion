@@ -1,33 +1,45 @@
 /* About.css */
+
+/* Apply a CSS reset specifically within about-container to avoid affecting other elements */
+.about-container * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* This assumes .about-container is a direct child of a full-page element */
 .about-container {
-    display: flex;
-    align-items: center; /* This will vertically align items if they don't have the same height */
-    justify-content: center; /* This will horizontally align items to the center */
-    padding: 50px; /* Add padding as needed */
-    gap: 20px; /* Spaces out the flex children */
+  display: flex;
+  align-items: center; /* Vertically align items in the container */
+  justify-content: center; /* Horizontally center the content */
+  gap: 20px; /* Space between text and image */
+  padding: 50px; /* Padding around the entire container */
+  min-height: calc(
+    100vh - 100px
+  ); /* Adjust based on padding to fill screen, but not extend */
+  box-sizing: border-box;
+}
+
+.about-text {
+  flex: 1; /* Allows the text section to grow and fill the space */
+  max-width: 600px; /* Maximum width of the text section */
+}
+
+.about-image {
+  flex: 1; /* Allows the image section to grow and fill the space */
+  display: flex;
+  justify-content: center; /* Center the image within the section */
+}
+
+.about-image img {
+  width: 100%; /* Make the image responsive */
+  max-width: 500px; /* Maximum width of the image */
+  height: auto; /* Maintain aspect ratio */
+}
+
+@media (max-width: 768px) {
+  .about-container {
+    flex-direction: column; /* Stack the items vertically on small screens */
+    min-height: auto; /* Adjust min-height for smaller screens */
   }
-  
-  .about-text {
-    flex: 1; /* Takes up half the width of the container */
-    max-width: 600px; /* Adjust maximum width as needed */
-  }
-  
-  .about-image {
-    flex: 1; /* Takes up the remaining width of the container */
-    display: flex;
-    justify-content: center; /* Center the image within the div */
-  }
-  
-  .about-image img {
-    width: 100%; /* Make the image responsive */
-    max-width: 500px; /* Adjust maximum width as needed */
-    height: auto; /* Maintain aspect ratio */
-  }
-  
-  /* Responsive adjustments */
-  @media (max-width: 768px) {
-    .about-container {
-      flex-direction: column;
-    }
-  }
-  
+}

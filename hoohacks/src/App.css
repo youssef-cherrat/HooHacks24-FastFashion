@@ -1,13 +1,11 @@
 .App {
-  margin-top: 50px; /*this is what causing the gap at top */
   background-image: url("./assets/img/aaq3.jpg");
-  color: white;
-
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center;
-  /* text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); */
+  background-position: center center;
   font-family: "GT Flexa", sans-serif;
+  color: white;
+  min-height: 150vh; /* This will make sure that the .App fills the entire viewport height */
 }
 
 /* App.css */
