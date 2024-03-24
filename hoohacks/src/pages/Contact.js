@@ -55,7 +55,7 @@ export const Contact = () => {
           href="mailto:ethando@gmail.com"
           className="d-flex align-items-center text-white text-decoration-none"
         >
-          <FaEnvelope className="me-2" /> ethando@gmail.com
+          <FaEnvelope className="me-2" /> GreenThreads@gmail.com
         </a>
         <div className="d-flex align-items-center">
           <FaPhone className="me-2" /> +1 (703) 675-6310

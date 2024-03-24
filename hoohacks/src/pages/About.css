@@ -52,3 +52,34 @@
     min-height: auto; /* Adjust min-height for smaller screens */
   }
 }
+
+.lead {
+  background-color: #369339; /* A shade of green */
+  border-radius: 15px; /* Adjust for rounded corners */
+  padding: 20px; /* Space inside the background area */
+  color: white;
+}
+/* About.css */
+.green-background {
+  background-image: linear-gradient(
+    to right,
+    #246a28,
+    #66bb6a
+  ); /* Green linear gradient */
+  border-radius: 15px; /* Rounded corners */
+  padding: 20px; /* Padding inside */
+  color: white; /* Text color for better contrast */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Shadow for depth */
+  transition: all 0.3s ease; /* Smooth transition for hover effects */
+}
+
+.green-background:hover {
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); /* Slightly larger shadow on hover for a subtle effect */
+}
+
+/* Additional text styling for better readability */
+.green-background .lead {
+  font-weight: 500; /* Slightly bolder than normal for emphasis */
+  line-height: 1.6; /* Increased line height for better readability */
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5); /* Text shadow for depth and contrast */
+}

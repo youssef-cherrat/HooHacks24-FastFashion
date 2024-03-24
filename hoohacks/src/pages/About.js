@@ -11,7 +11,7 @@ const About = () => {
           <div className="col-12 col-md-6 d-flex align-items-center">
             <div>
               <h1 className="mb-4 title">The GreenThreads Story</h1>
-              <p className="lead">
+              <p className="lead green-background">
                 GreenThreads is a forward-thinking initiative transforming the
                 fashion landscape by championing sustainability. Our mission is
                 to curtail the effects of fast fashion by connecting

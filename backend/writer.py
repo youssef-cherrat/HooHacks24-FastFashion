@@ -12,7 +12,7 @@ def write_results_to_file(search_term):
       "engine": "google_shopping",
       "q": full_search_query,
       "location": "United States",
-      "api_key": "insert api key here"
+      "api_key": "ac9b9fa495100039d9cea5b51aa1a550f7a645605832ff4adb698b566132702a"
     }
 
     search = GoogleSearch(params)

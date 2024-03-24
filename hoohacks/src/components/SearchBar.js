@@ -1,11 +1,12 @@
-import React, { useState } from 'react';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import './SearchBar.css';
+import React, { useState } from "react";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "./SearchBar.css";
 
 export const SearchBar = () => {
-  const [url, setUrl] = useState('');
+ 
+  const [url, setUrl] = useState("");
   const [isLoading, setIsLoading] = useState(false);
-  const [randomFact, setRandomFact] = useState('');
+  const [randomFact, setRandomFact] = useState("");
 
   const facts = [
     "The fast fashion industry is the second largest consumer of water.",
@@ -14,7 +15,7 @@ export const SearchBar = () => {
     "35% of all microplastics in the environment are from synthetic fibers.",
     "57% of all discarded clothing ends up in landfills.",
     "On average, each item of clothing is only worn 7-10 times.",
-    "Each year 80 billion items of clothing are consumed."
+    "Each year 80 billion items of clothing are consumed.",
   ];
 
   const handleUrlChange = (e) => {
@@ -23,28 +24,28 @@ export const SearchBar = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Select a random fact
     const fact = facts[Math.floor(Math.random() * facts.length)];
     setRandomFact(fact);
     setIsLoading(true); // Start loading
 
-    fetch('http://localhost:5000/search', {
-      method: 'POST',
+    fetch("http://127.0.0.1:5000/search", {
+      method: "POST",
       headers: {
-        'Content-Type': 'application/json',
+        "Content-Type": "application/json",
       },
       body: JSON.stringify({ url: url }),
     })
-    .then(response => response.json())
-    .then(data => {
-      console.log('Success:', data);
-    })
-    .catch((error) => {
-      console.error('Error:', error);
-    })
-    .finally(() => {
-      setIsLoading(false);
-    });
+      .then((response) => response.json())
+      .then((data) => {
+        console.log("Success:", data);
+      })
+      .catch((error) => {
+        console.error("Error:", error);
+      })
+      .finally(() => {
+        setIsLoading(false);
+        // Scroll down by 100 pixels
+      });
   };
 
   return (
@@ -59,9 +60,15 @@ export const SearchBar = () => {
               aria-label="URL"
               value={url}
               onChange={handleUrlChange}
-              style={{ width: '600px' }}
+              style={{ width: "600px" }}
             />
-            <button className="btn btn-outline-success white-text-button" type="submit" disabled={isLoading}>Submit</button>
+            <button
+              className="btn btn-outline-success white-text-button"
+              type="submit"
+              disabled={isLoading}
+            >
+              Submit
+            </button>
           </form>
           {isLoading && (
             <>
@@ -69,7 +76,11 @@ export const SearchBar = () => {
                 <strong>Fun Fact:</strong> {randomFact}
               </div>
               <div className="spinner-custom-margin d-flex justify-content-center">
-                <div className="spinner-border text-success custom-spinner-size" role="status" style={{ width: '5rem', height: '5rem' }}>
+                <div
+                  className="spinner-border text-success custom-spinner-size"
+                  role="status"
+                  style={{ width: "5rem", height: "5rem" }}
+                >
                   <span className="visually-hidden">Loading...</span>
                 </div>
               </div>
@@ -80,4 +91,3 @@ export const SearchBar = () => {
     </div>
   );
 };
-

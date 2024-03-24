@@ -198,7 +198,7 @@ const FAQ = () => {
               </div>
             </div>
             <div className="text-center mt-4">
-              <a className="btn btn-primary shadow" href="#">
+              <a className="btn btn-primary shadow" href="https://devpost.com/software/greenthreads?ref_content=my-projects-tab&ref_feature=my_projects">
                 Read Our Full FAQs
               </a>
             </div>
