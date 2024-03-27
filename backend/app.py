@@ -3,7 +3,7 @@ from flask_cors import CORS, cross_origin
 import writer
 import os
 
-app = Flask(__name__, static_folder='../hoohacks/build', static_url_path='/')
+app = Flask(__name__, static_folder='../frontend/build', static_url_path='/')
 CORS(app)  # Allow cross-origin requests (needed for local development)
 
 @app.route('/search', methods=['POST'])
@@ -21,7 +21,6 @@ def handle_search():
         return jsonify({"error": "URL not provided"}), 400
     
 @app.route('/')
-@cross_origin()
 def serve():
     return send_from_directory(app.static_folder, 'index.html')
 if __name__ == '__main__':
