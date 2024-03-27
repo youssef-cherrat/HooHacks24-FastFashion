@@ -14,7 +14,7 @@ def handle_search():
     if url:
         # Perform your search function here
         # For example:
-        # result = search_with_product_details(url)
+        # result = search_with_product_djetails(url)
         # return jsonify(result)
         return jsonify({"message": "URL received", "url": writer.search_with_product_details(url)})
     else:

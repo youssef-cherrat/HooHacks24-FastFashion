@@ -5,8 +5,7 @@
         "npm": "10.2.4"
     },
     "scripts": {
-      "heroku-postbuild": "cd frontend && npm install && npm run build",
-      "start": "node backend/app.js"  
+      "heroku-postbuild": "cd frontend && npm install && npm run build"
     },
     "dependencies": {
       "express": "^4.18.2"
