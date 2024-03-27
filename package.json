@@ -1,8 +1,8 @@
 {
     "name": "green-threads",
     "engines": {
-        "node": "20.11.1",
-        "npm": "10.2.4"
+        "node": "16.x",
+        "npm": "8.x"
     },
     "scripts": {
       "heroku-postbuild": "cd frontend && npm install && npm run build"
