@@ -1,10 +1,10 @@
 import React, { useRef, useEffect, useState } from "react";
 import emailjs from "@emailjs/browser";
 import {
-  FaLinkedin,
-  FaGithub,
-  FaInstagram,
-  FaYoutube,
+  //FaLinkedin,
+  //FaGithub,
+  //FaInstagram,
+  //FaYoutube,
   FaPhone,
   FaEnvelope,
   FaMapMarkerAlt,
