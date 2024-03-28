@@ -38,8 +38,9 @@ jobs:
       - name: Zip artifact for deployment
         run: |
           cp -r frontend/build backend/build
+          cp requirements.txt backend/
           cd backend
-          zip release.zip ./* -r ../requirements.txt
+          zip release.zip ./* -r
 
       - name: Upload artifact for deployment jobs
         uses: actions/upload-artifact@v3
