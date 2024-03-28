@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.fe60bc23.css",
-    "main.js": "/static/js/main.f5f55f7e.js",
-    "static/js/488.2e3935fd.chunk.js": "/static/js/488.2e3935fd.chunk.js",
+    "main.js": "/static/js/main.c3c80988.js",
+    "static/js/488.c9e09703.chunk.js": "/static/js/488.c9e09703.chunk.js",
     "static/media/aaq3.jpg": "/static/media/aaq3.7352e6d9a83c7bb66d45.jpg",
     "static/media/GT-Flexa-Trial-VF.ttf": "/static/media/GT-Flexa-Trial-VF.29815c5fb8c9847e24c0.ttf",
     "static/media/LogoNew.png": "/static/media/LogoNew.629d1108653d6d2aedb4.png",
@@ -12,11 +12,11 @@
     "static/media/Poshmark_logo.png": "/static/media/Poshmark_logo.02e065fb381366001d28.png",
     "index.html": "/index.html",
     "main.fe60bc23.css.map": "/static/css/main.fe60bc23.css.map",
-    "main.f5f55f7e.js.map": "/static/js/main.f5f55f7e.js.map",
-    "488.2e3935fd.chunk.js.map": "/static/js/488.2e3935fd.chunk.js.map"
+    "main.c3c80988.js.map": "/static/js/main.c3c80988.js.map",
+    "488.c9e09703.chunk.js.map": "/static/js/488.c9e09703.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe60bc23.css",
-    "static/js/main.f5f55f7e.js"
+    "static/js/main.c3c80988.js"
   ]
 }
