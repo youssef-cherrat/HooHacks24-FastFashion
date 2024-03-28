@@ -8,10 +8,13 @@ charset-normalizer==3.3.2
 click==8.1.7
 colorama==0.4.6
 distlib==0.3.8
+dnspython==2.6.1
+eventlet==0.36.0
 filelock==3.13.1
 Flask==3.0.2
 Flask-Cors==4.0.0
 google_search_results==2.4.2
+greenlet==3.0.3
 gunicorn==21.2.0
 h11==0.14.0
 idna==3.6
