@@ -39,7 +39,7 @@ jobs:
         run: |
           cp -r frontend/build backend/build
           cd backend
-          zip release.zip ./* -r
+          zip release.zip ./* -r ../requirements.txt
 
       - name: Upload artifact for deployment jobs
         uses: actions/upload-artifact@v3
@@ -66,6 +66,11 @@ jobs:
       - name: Unzip artifact for deployment
         run: unzip release.zip
 
+      - name: Install Python dependencies
+        run: |
+          python -m venv venv
+          source venv/bin/activate
+          pip install -r requirements.txt
       
       - name: Login to Azure
         uses: azure/login@v1
@@ -80,4 +85,3 @@ jobs:
         with:
           app-name: 'green-threads'
           slot-name: 'Production'
-          
