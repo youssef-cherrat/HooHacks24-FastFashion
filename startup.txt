@@ -1,1 +1,1 @@
-gunicorn --worker-class eventlet --bind=0.0.0.0 --timeout 600 app:app --chdir backend
+gunicorn --worker-class eventlet --bind=0.0.0.0 --timeout 600 app:app
