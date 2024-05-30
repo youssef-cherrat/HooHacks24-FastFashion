@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-greenthreads-dev-0c85b-authRole",
+      "UnauthRoleArn": "arn:aws:iam::769609118121:role/amplify-greenthreads-dev-0c85b-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::769609118121:role/amplify-greenthreads-dev-0c85b-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-greenthreads-dev-0c85b-deployment",
+      "UnauthRoleName": "amplify-greenthreads-dev-0c85b-unauthRole",
+      "StackName": "amplify-greenthreads-dev-0c85b",
+      "StackId": "arn:aws:cloudformation:us-east-1:769609118121:stack/amplify-greenthreads-dev-0c85b/8b8c0f90-1e25-11ef-a0d3-0affeb8f7851",
+      "AmplifyAppId": "d2ijztmrvs53ov"
+    },
+    "categories": {
+      "auth": {
+        "greenthreadsce9782e8": {}
+      }
+    }
+  }
+}

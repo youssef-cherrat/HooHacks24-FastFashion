@@ -43,6 +43,9 @@ export const NavBar = () => {
             </Nav.Link>
             <Nav.Link as={Link} to="/contact" className="navbar-link">
               Contact
+              </Nav.Link>
+            <Nav.Link as={Link} to="/login" className="navbar-link login-link">
+              Account
             </Nav.Link>
           </Nav>
         </Navbar.Collapse>

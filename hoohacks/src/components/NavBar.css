@@ -58,3 +58,16 @@
 .navbar-toggler {
   display: none; /* Hides the toggle button */
 }
+
+.login-link {
+  margin-left: auto; /* Push the login link to the right */
+  padding: 0.5rem 1rem;
+  background-color: #198754;
+  color: #fff;
+  border-radius: 5px;
+}
+
+.login-link:hover {
+  background-color: #145c32;
+  color: #fff;
+}
