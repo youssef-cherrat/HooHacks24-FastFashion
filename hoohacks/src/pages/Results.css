@@ -5,11 +5,10 @@
   text-decoration: none;
 }
 
-
 .card-custom {
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   cursor: pointer;
-  width: 95%;
+  width: 100%; /* Adjusted to 100% width for better alignment */
   height: auto;
   margin-bottom: 2rem;
   overflow: hidden;
@@ -17,20 +16,16 @@
   border-radius: 8px;
 }
 
-
 .card-custom:hover {
   transform: translateY(-5px);
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
 }
 
-
 .card-img-top {
-  width: 95%;
-  margin: auto;
-  height: 400px; 
+  width: 100%; /* Adjusted to ensure the image fits the card */
+  height: 400px; /* Adjusted height to ensure images fit better */
   object-fit: cover;
 }
-
 
 .card-body {
   flex: 1;
@@ -40,31 +35,35 @@
   padding: 1rem; 
 }
 
-
 .card-title {
   transition: color 0.3s ease;
   color: #212529;
   margin-bottom: 0;
 }
 
-
 .card-custom:hover .card-title {
   color: #198754; 
 }
-
 
 .card-text {
   transition: color 0.3s ease;
   color: #6c757d; 
 }
 
-
 .card-custom:hover .card-text {
   color: #495057; 
 }
+
 .card-header {
   text-align: center; /* Centers the source name */
   font-size: 1rem; /* Adjust as needed */
   background-color: #f8f9fa; /* Light gray background, adjust as needed */
   border-bottom: 1px solid #e0e0e0; /* Light gray border, adjust as needed */
+}
+
+/* Results.css */
+.company-logo {
+  height: 50px;
+  object-fit: contain;
+  margin-bottom: 10px;
 }

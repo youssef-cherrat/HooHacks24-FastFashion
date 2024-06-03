@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import companyLogos from './companyLogos';
 import './SavedItems.css';
 
 const SavedItems = ({ user }) => {
@@ -68,6 +69,13 @@ const SavedItems = ({ user }) => {
         {items.map((item) => (
           <div className="col-md-4 mb-4" key={item.itemId}>
             <div className="card card-custom h-100">
+              <div className="card-header">
+                {companyLogos[item.company] ? (
+                  <img src={companyLogos[item.company]} alt={item.company} className="company-logo" />
+                ) : (
+                  <h5>{item.company}</h5>
+                )}
+              </div>
               <img src={item.Thumbnail} className="card-img-top" alt={item.Title} />
               <div className="card-body">
                 <h5 className="card-title">{item.Title}</h5>
