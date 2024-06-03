@@ -1,0 +1,10 @@
+{
+    "scripts": {
+      "start": "concurrently \"npm run start-frontend\" \"npm run start-backend\"",
+      "start-frontend": "cd hoohacks && npm start",
+      "start-backend-api": "cd backend && python api.py",
+      "start-backend-app": "cd backend && python app.py",
+      "start-backend": "concurrently \"npm run start-backend-api\" \"npm run start-backend-app\""
+    }
+  }
+  

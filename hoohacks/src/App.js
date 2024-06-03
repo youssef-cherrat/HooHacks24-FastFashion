@@ -15,6 +15,7 @@ import { Amplify } from 'aws-amplify';
 import awsconfig from './aws-exports';
 import { Authenticator } from '@aws-amplify/ui-react';
 import '@aws-amplify/ui-react/styles.css';
+import SavedItems from './components/SavedItems'; // Import the SavedItems component
 
 Amplify.configure(awsconfig);
 
@@ -48,13 +49,14 @@ function App() {
             <Route path="/faq" element={<Faq />} />
             <Route path="/contact" element={<Contact />} />
             <Route
-              path="/protected"
+              path="/account"
               element={
                 <Authenticator>
                   {({ signOut, user }) => (
                     <div>
                       <p>Welcome, {user.username}</p>
                       <button onClick={signOut}>Sign out</button>
+                      <SavedItems /> {/* Display saved items */}
                     </div>
                   )}
                 </Authenticator>
